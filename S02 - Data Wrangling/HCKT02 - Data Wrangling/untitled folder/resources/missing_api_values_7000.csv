@@ -1,0 +1,1001 @@
+orderportalid,orderdate_gmt,designer,style,shipper,shiptypeid,userid,isvip,country,region,ddprate,countrycode,hasusedwishlist,isreseller,hasitemsonbag,tierafterorder,tierbeforeorder,isusingmultipledevices,userfraudstatus,promocode,freereturn,issale,productid,brand,ddpsubcategory,storeid,countryoforigin,size,category_1stlevel,platform,returned
+82450,2018-01-10 13:59:54.806000+00:00,53866,53878,2,2,29766.0,Not VIP,7,1,0.0,7,Yes,No,No,T2,T2,No,7,924,0,Yes,59797,25,"Trousers, overalls, shorts",22,6,599,Clothing,web,0.0
+371317,2018-02-11 10:10:43.666000+00:00,122773,122802,1,3,198955.0,VIP New,4,3,0.0,4,Yes,No,No,VIP,VIP,Yes,6,3943,1,No,178621,277,"Blouses, shirts and shirt-blouses",249,12,3,Clothing,app,1.0
+131988,2018-01-16 06:37:17.546000+00:00,63000,63016,2,2,103582.0,VIP,1,1,5.0083,1,Yes,No,Yes,T1,T1,Yes,6,1,1,No,70373,22,"Of base metal, whether or not plated with precious metal",520,1,17,Jewellery,web,0.0
+129821,2018-01-15 19:48:05.716000+00:00,53179,53191,2,2,102069.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,Yes,4,1,1,Yes,58984,159,Footwear with outer soles of rubber or plastics,84,1,12,Shoes,app,0.0
+153194,2018-01-19 18:17:25.266000+00:00,11707,11712,2,2,117992.0,VIP,1,1,5.0083,1,Yes,No,No,T2,T4,No,3,4,1,Yes,12370,14,Footwear with outer soles of leather or composition leather,438,1,31,Shoes,app,0.0
+56220,2018-01-08 16:38:34.113000+00:00,943,945,4,2,8581.0,VIP,5,3,0.0,5,No,No,No,T1,T1,Yes,3,921,1,Yes,961,94,N/D,335,1,2,Clothing,web,0.0
+238041,2018-02-03 16:03:36.993000+00:00,110907,110932,1,3,172965.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,No,3,1,1,No,127717,120,Babies' Outerwear,1214,32,285,Baby Boy Clothing,web,0.0
+69943,2018-01-09 14:55:32.823000+00:00,15989,15996,5,2,58481.0,Not VIP,55,3,0.0,55,No,Yes,Yes,VIP,,No,4,924,1,No,23433,46,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",147,4,27,Clothing,web,0.0
+373820,2018-01-11 16:34:59.596000+00:00,94318,94341,2,2,72933.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,T4,Yes,3,924,1,Yes,32756,1438,,72,115,77,Shoes,web,1.0
+174590,2018-01-23 14:30:10.043000+00:00,59846,59860,1,3,12405.0,Not VIP,9,3,0.0,9,Yes,No,No,T3,T4,No,3,1,1,Yes,66713,11,"Trousers, overalls, shorts",17,6,33,Clothing,web,1.0
+313653,2018-02-18 12:06:05.713000+00:00,4107,4111,2,2,219509.0,Not VIP,3,2,0.0,3,No,No,No,T4,,No,3,1,1,No,4248,415,"Handbags, whether or not with shoulder strap, including those without handle",478,46,17,Bags,web,0.0
+201008,2018-01-28 02:33:31.053000+00:00,14479,14486,2,2,149647.0,Not VIP,1,1,5.0083,1,Yes,No,No,T3,T3,Yes,3,1,1,No,15395,37,,36,2,2,Clothing,web,1.0
+129275,2018-01-15 17:51:16.403000+00:00,2002,2005,1,3,101667.0,Not VIP,20,3,0.0,20,Yes,No,Yes,T4,T4,No,4,1,1,Yes,2057,479,"Trousers, overalls, shorts",1115,1,418,Clothing,app,0.0
+15305,2018-01-03 21:19:17.093000+00:00,16154,16161,3,4,13882.0,Not VIP,7,1,0.0,7,Yes,No,No,T4,T4,Yes,3,1,0,Yes,17205,1090,"Blouses, shirts and shirt-blouses",796,8,395,Clothing,web,0.0
+379842,2018-01-05 16:29:47.320000+00:00,105110,105132,2,2,18772.0,Not VIP,17,4,24.3652,17,No,No,No,T4,T4,No,3,1,1,Yes,120541,1442,"Trousers, overalls, shorts",32,10,96,Clothing,web,1.0
+315324,2018-02-18 19:03:41.396000+00:00,148793,148826,1,3,61746.0,VIP,14,3,0.0,14,Yes,No,Yes,T2,T3,Yes,3,1,1,Yes,174940,166,"Trousers, overalls, shorts",334,3,9,Clothing,app,1.0
+172267,2018-01-23 04:14:25.426000+00:00,29685,29693,2,2,130985.0,Not VIP,2,1,42.2351,2,No,No,Yes,T4,,No,3,1,1,Yes,106707,90,Articles of apparel and clothing accessories,854,2,18,Clothing,web,0.0
+294194,2018-02-14 09:19:43.790000+00:00,45445,45458,1,3,135462.0,Not VIP,14,3,0.0,14,No,Yes,Yes,T2,T2,No,4,1,1,Yes,50193,351,Footwear with outer soles of rubber or plastics,163,1,286,Girls Shoes,web,0.0
+43968,2018-01-08 07:48:53.306000+00:00,10436,10442,2,2,38229.0,VIP,1,1,33.3833,1,Yes,No,Yes,T2,T3,No,3,924,1,Yes,10998,73,"Pantyhose, tights",198,1,18,Clothing,,1.0
+294661,2018-02-14 11:07:26.713000+00:00,4016,4020,3,2,208056.0,Not VIP,14,3,0.0,14,No,No,No,,,No,3,1,1,No,4153,2," T-shirts, singlets and other vests",197,1,14,Clothing,,0.0
+288529,2018-02-13 04:14:14.596000+00:00,117961,117989,1,3,204287.0,Not VIP,4,3,0.0,4,No,No,No,T4,T4,No,3,1,1,No,136417,33,"Blouses, shirts and shirt-blouses",971,4,3,Clothing,web,0.0
+389517,2018-02-08 05:16:33.366000+00:00,68423,68440,2,2,173883.0,VIP,2,1,16.4684,2,Yes,No,No,T2,T2,Yes,3,1,1,Yes,76625,22,Other,202,1,17,Bags,web,1.0
+31517,2018-01-06 10:55:08.613000+00:00,28351,28359,2,2,27839.0,Not VIP,16,4,16.2855,16,Yes,No,No,T4,,No,3,1,1,No,30823,324,"Blouses, shirts and shirt-blouses",600,3,9,Clothing,web,0.0
+101015,2018-01-12 02:05:02.083000+00:00,155968,156001,5,3,18604.0,Not VIP,4,3,0.0,4,Yes,No,No,T3,T3,No,3,924,1,Yes,183674,1015,"Trousers, overalls, shorts",316,1,18,Clothing,web,1.0
+196136,2018-01-27 04:29:46.770000+00:00,123591,123621,2,2,10942.0,VIP,3,2,0.0,3,Yes,No,No,VIP,VIP,Yes,3,3378,1,No,143564,135,Other footwear,33,29,11,Shoes,app,1.0
+381636,2018-01-31 12:27:04.073000+00:00,8378,8383,2,9,258579.0,Not VIP,20,3,0.0,20,Yes,No,Yes,,,No,3,3906,1,No,78751,50,Belts,147,1,644,Accessories,web,1.0
+177733,2018-01-24 01:38:13.533000+00:00,150709,150742,2,2,134606.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,T4,Yes,3,1,1,Yes,177274,81,Other footwear with outer soles of leather,756,1,38,Shoes,web,1.0
+370855,2018-01-09 15:27:12.030000+00:00,12269,12276,1,3,253063.0,Not VIP,11,3,0.0,11,No,No,No,,,Yes,4,924,1,Yes,12975,5,Footwear with outer soles of rubber or plastics,190,1,11,Shoes,web,1.0
+30879,2018-01-06 08:27:37.426000+00:00,7021,7025,1,3,19817.0,VIP,11,3,0.0,11,Yes,No,Yes,VIP,VIP,Yes,6,1,1,Yes,7351,12,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",148,1,3,Clothing,app,0.0
+219379,2018-01-31 09:17:41.250000+00:00,107705,107728,2,2,161472.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,,Yes,3,1,1,No,123768,4,N/D,22,126,1,Bags,app,0.0
+400190,2018-02-06 07:34:47.023000+00:00,42074,42084,2,2,40200.0,VIP New,16,4,34.1055,16,Yes,No,Yes,VIP,VIP,No,6,1,1,Yes,46376,14,Footwear with outer soles of leather or composition leather,40,1,38,Shoes,app,1.0
+186664,2018-01-25 13:57:17.236000+00:00,98165,98188,2,2,38475.0,VIP,3,2,0.0,3,Yes,No,Yes,VIP,VIP,Yes,3,1,1,No,111999,2," T-shirts, singlets and other vests",33,1,27,Clothing,web,0.0
+386250,2018-01-11 18:14:28.236000+00:00,46426,46439,2,2,260869.0,Not VIP,1,1,5.0083,1,Yes,No,No,T2,T2,Yes,3,924,1,Yes,51318,141,Other footwear with outer soles of leather,150,1,12,Shoes,web,1.0
+90813,2018-01-11 06:36:05.890000+00:00,63638,63654,4,2,74329.0,VIP,19,4,0.0,19,No,No,No,T2,T4,No,4,924,1,No,71110,55,"Babies' Trousers, breeches and shorts, except those imported as parts of sets",12,1,32,Baby Boy Clothing,web,0.0
+30553,2018-01-06 06:59:45.750000+00:00,27683,27691,2,2,181.0,Not VIP,3,2,0.0,3,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,Yes,30079,131,"Coats: overcoats, raincoat, cape, cloaks and similar articles",741,6,33,Clothing,app,0.0
+370868,2018-01-08 13:58:14.040000+00:00,18441,18447,2,2,215321.0,VIP,1,1,5.0083,1,Yes,No,Yes,T1,T1,Yes,3,921,1,Yes,19711,19,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",89,3,47,Clothing,app,1.0
+200422,2018-01-27 22:51:19.660000+00:00,7970,7975,1,6,21220.0,VIP New,1,1,0.0,1,Yes,No,No,VIP,VIP,No,4,1,1,Yes,8354,33," T-shirts, singlets and other vests",251,4,3,Clothing,web,0.0
+297913,2018-02-15 02:28:46.020000+00:00,53849,53861,5,2,185101.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,59781,194,"Trousers, overalls, shorts",214,35,56,Clothing,web,1.0
+306039,2018-02-16 18:08:12.220000+00:00,6560,6564,2,2,214844.0,Not VIP,1,1,0.0,1,No,No,Yes,T4,,No,4,5082,1,No,6843,389,Footwear with outer soles of rubber or plastics,15,26,214,Shoes,web,0.0
+308800,2018-02-17 10:47:26.476000+00:00,103115,103137,2,2,15226.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T2,T2,Yes,3,1,1,No,118083,99,N/D,115,20,2,Clothing,app,0.0
+55166,2018-01-08 15:40:42.833000+00:00,378,379,2,2,47161.0,Not VIP,41,4,13.1309,41,Yes,Yes,No,T3,T3,Yes,2,921,1,Yes,381,50," T-shirts, singlets and other vests",238,1,8,Clothing,web,0.0
+382237,2018-01-09 20:36:37.466000+00:00,150716,150749,2,2,258870.0,Not VIP,1,1,20.9568,1,No,No,No,,,No,4,924,1,Yes,177286,107,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",132,1,43,Clothing,web,1.0
+2130,2018-01-01 14:40:09.016000+00:00,85085,85107,2,2,2041.0,Not VIP,12,4,35.7236,12,Yes,No,No,T2,T2,Yes,3,1,1,Yes,96227,152,"Trousers, overalls, shorts",85,1,16,Clothing,app,1.0
+297140,2018-02-14 21:30:57.520000+00:00,107553,107576,1,1,77841.0,VIP New,1,1,0.0,1,Yes,No,Yes,T1,T1,Yes,6,1,1,No,123584,2283,"Of silver, whether or not plated or clad with other precious metal",416,24,6,Jewellery,web,1.0
+374933,2018-01-09 12:50:21.636000+00:00,94948,94971,2,2,61822.0,VIP,1,1,20.9568,1,Yes,No,No,T1,T1,Yes,3,924,1,Yes,108061,105,Dresses,391,21,13,Clothing,web,1.0
+73655,2018-01-09 20:16:20.346000+00:00,55130,55142,2,2,61284.0,VIP,18,4,0.0,18,Yes,No,Yes,T4,,Yes,3,924,1,Yes,61238,10,Suits,132,58,63,Clothing,web,1.0
+131798,2018-01-16 05:31:00.883000+00:00,14507,14514,2,2,103447.0,VIP,1,1,0.0,1,Yes,No,Yes,T2,T2,Yes,4,1,1,Yes,15425,167," T-shirts, singlets and other vests",177,2,8,Activewear,web,1.0
+131824,2018-01-16 05:41:27.736000+00:00,80380,80399,1,6,103465.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,1,1,Yes,90611,365,N/D,1,2,8,Clothing,web,0.0
+76316,2018-01-10 02:17:00.490000+00:00,56953,56966,3,2,25656.0,VIP,1,1,0.0,1,No,No,Yes,T1,T1,No,4,1,1,No,63338,509,"Coats: overcoats, raincoat, cape, cloaks and similar articles",482,1,19,Clothing,web,0.0
+131662,2018-01-16 04:47:51.760000+00:00,18483,18489,2,2,103361.0,Not VIP,2,1,31.5053,2,No,No,No,T4,,No,3,1,1,No,19764,274,"Handbags, whether or not with shoulder strap, including those without handle",119,2,1,Bags,web,0.0
+21628,2018-01-04 21:25:17.996000+00:00,42427,42437,2,2,11921.0,VIP New,1,1,5.0083,1,Yes,No,No,T1,T1,Yes,6,1,1,Yes,46771,37,,36,2,63,Clothing,web,1.0
+304915,2018-02-16 13:41:16.290000+00:00,44453,44466,2,2,214209.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T4,,No,3,1,1,Yes,49068,701,Other footwear with outer soles of leather,375,4,12,Shoes,web,0.0
+405213,2018-01-02 12:58:55.206000+00:00,55904,55917,1,3,270002.0,Not VIP,60,3,0.0,60,Yes,No,Yes,,,No,4,1,1,Yes,62126,362,Dresses,15,2,114,Clothing,app,1.0
+196241,2018-01-27 04:57:50.903000+00:00,26331,26339,2,2,99327.0,VIP,1,1,5.0083,1,Yes,No,No,T2,T2,No,4,1,1,Yes,92666,310,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",152,1,24,Clothing,web,0.0
+393135,2018-01-08 21:48:48.370000+00:00,88939,88961,1,3,264307.0,Not VIP,29,3,0.0,29,Yes,No,Yes,T4,T4,Yes,3,924,1,Yes,100846,132,,165,12,8,Clothing,web,1.0
+283881,2018-02-12 05:58:00.056000+00:00,119958,119986,2,2,201418.0,Not VIP,49,4,0.0,49,Yes,No,Yes,T3,T3,No,3,1,1,No,138971,340," T-shirts, singlets and other vests",22,17,27,Clothing,app,0.0
+222699,2018-01-31 20:16:14.230000+00:00,10421,10427,1,3,163563.0,Not VIP,11,3,0.0,11,No,No,No,T4,,No,3,1,1,No,10984,70," T-shirts, singlets and other vests",1216,10,18,Clothing,web,0.0
+90091,2018-01-11 04:41:26.673000+00:00,58108,58121,2,2,73811.0,VIP New,15,4,12.9314,15,Yes,No,No,T3,,No,3,924,1,Yes,70767,290,"Handbags, whether or not with shoulder strap, including those without handle",1092,1,17,Bags,,0.0
+238569,2018-02-03 18:05:44.106000+00:00,138530,138560,1,3,147918.0,Not VIP,9,3,0.0,9,No,No,No,T2,T2,No,3,1,1,No,162036,547,Jackets and blazers,190,1,55,Clothing,web,1.0
+403398,2018-01-12 20:03:48.430000+00:00,54867,54879,1,3,234958.0,VIP,4,3,0.0,4,Yes,No,No,T2,T2,No,3,1,1,No,60947,2," T-shirts, singlets and other vests",80,1,14,Clothing,app,1.0
+301931,2018-02-15 21:23:29.090000+00:00,45545,45558,5,3,130083.0,Not VIP,25,3,0.0,25,Yes,No,No,T3,T3,No,4,1,1,Yes,50305,25,"Trousers, overalls, shorts",33,3,891,Clothing,web,1.0
+92765,2018-01-11 10:41:05.833000+00:00,64505,64522,3,2,75710.0,Not VIP,18,4,0.0,18,No,No,Yes,,,No,3,924,1,Yes,72117,654,"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar",65,2,138,Girls Accessories,web,0.0
+164762,2018-01-21 20:40:02.706000+00:00,30181,30189,1,6,125970.0,VIP,1,1,0.0,1,Yes,No,No,T3,T4,Yes,4,1,1,Yes,51383,84," T-shirts, singlets and other vests",233,1,43,Clothing,web,0.0
+44340,2018-01-08 08:02:58+00:00,59403,59417,1,3,22173.0,Not VIP,9,3,0.0,9,Yes,No,No,T2,T2,No,4,921,1,Yes,66180,53,N/D,695,20,43,Clothing,web,1.0
+227911,2018-02-01 18:01:42.523000+00:00,28767,28775,2,2,29644.0,VIP New,15,4,0.0,15,Yes,Yes,Yes,VIP,VIP,No,3,1,1,Yes,31278,139,,44,20,286,Boys Shoes,web,0.0
+110298,2018-01-12 18:23:42.450000+00:00,36123,36132,1,3,88095.0,Not VIP,9,3,0.0,9,No,No,Yes,T3,T4,No,4,924,1,Yes,39614,4,Footwear with outer soles of rubber or plastics,11,2,101,Shoes,web,0.0
+87924,2018-01-10 22:37:35.343000+00:00,62334,62350,2,2,72236.0,Not VIP,12,4,37.4837,12,Yes,No,Yes,T4,T4,No,3,924,1,Yes,69592,182,,51,21,114,Clothing,app,0.0
+388962,2018-02-10 06:20:56.703000+00:00,28395,28403,3,11,262245.0,Not VIP,3,2,0.0,3,Yes,No,No,,,Yes,3,1,1,No,30870,92,Belts,1194,1,73,Accessories,web,1.0
+173363,2018-01-23 09:57:30.873000+00:00,17425,17432,2,2,131684.0,Not VIP,3,2,0.0,3,Yes,No,No,T4,,No,4,1,1,Yes,18598,141,Other footwear with outer soles of leather,958,1,53,Shoes,web,0.0
+390878,2018-01-01 17:45:58.220000+00:00,986,988,2,2,263211.0,Not VIP,2,1,30.7832,2,No,No,No,,,No,4,1,1,Yes,1004,84,"Handbags, whether or not with shoulder strap, including those without handle",233,1,17,Bags,,1.0
+47685,2018-01-08 09:54:27.633000+00:00,39832,39842,2,2,41257.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,T4,No,3,921,1,Yes,43802,626,"T-shirts, singlets and other vests",67,2,48,Boys Clothing,app,0.0
+404591,2018-01-04 08:49:23.313000+00:00,156669,156702,2,2,269710.0,Not VIP,4,3,0.0,4,Yes,No,Yes,,,No,3,1,1,Yes,184524,132,"Trousers, overalls, shorts",94,1,120,Clothing,app,1.0
+135891,2018-01-16 20:39:49.310000+00:00,81752,81772,2,2,106257.0,Not VIP,1,1,5.0083,1,No,No,No,T4,,No,3,1,1,Yes,92290,105,"Trousers, overalls, shorts",888,10,40,Clothing,web,0.0
+158559,2018-01-20 17:45:16.250000+00:00,78506,78524,2,2,31926.0,VIP New,1,1,9.1168,1,Yes,No,Yes,VIP,VIP,Yes,4,1,1,No,88342,105,Items of leather clothing & accessories,741,1,33,Clothing,,0.0
+61767,2018-01-09 00:33:09.716000+00:00,42306,42316,1,3,52386.0,Not VIP,20,3,0.0,20,Yes,No,Yes,T3,T3,Yes,4,921,1,Yes,182417,17,"Trousers, overalls, shorts",101,1,221,Clothing,app,1.0
+395776,2018-01-11 11:25:38.083000+00:00,16961,16968,2,2,261619.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T3,Yes,4,924,1,Yes,18094,462,N/D,67,12,85,Boys Clothing,web,1.0
+381274,2018-01-31 18:53:24.560000+00:00,786,788,1,1,60248.0,VIP New,1,1,0.0,1,Yes,No,Yes,T2,T2,Yes,4,1,1,Yes,796,124,Items of leather clothing & accessories,1249,1,41,Clothing,web,1.0
+223260,2018-01-31 22:12:48.690000+00:00,8635,8640,3,2,163936.0,Not VIP,9,3,0.0,9,No,No,No,T4,T4,No,3,1,1,Yes,9088,87,"Trousers, overalls, shorts",364,1,55,Clothing,web,0.0
+206215,2018-01-29 02:06:01.456000+00:00,9750,9756,2,2,153130.0,Not VIP,1,1,28.555,1,No,No,No,T4,,No,3,1,1,No,10281,5,Footwear with outer soles of rubber or plastics,83,1,36,Shoes,web,0.0
+74171,2018-01-09 21:09:00.886000+00:00,55907,55920,2,2,61703.0,Not VIP,5,3,10.8865,5,No,Yes,Yes,VIP,VIP,Yes,6,1,1,No,62129,92,,36,20,293,Accessories,app,0.0
+402807,2018-02-01 14:30:40.683000+00:00,22329,22337,1,7,166022.0,Not VIP,9,3,0.0,9,No,No,No,T3,T3,Yes,3,1,1,No,24034,92,Other footwear,91,1,36,Shoes,web,1.0
+371625,2018-01-04 14:56:57.240000+00:00,14814,14821,2,2,253474.0,Not VIP,9,3,0.0,9,Yes,No,No,T2,T2,No,4,1,1,Yes,15763,158," T-shirts, singlets and other vests",69,2,231,Clothing,web,1.0
+395370,2018-01-31 23:01:52.036000+00:00,121685,121714,2,2,265371.0,Not VIP,19,4,5.0083,19,Yes,No,No,,,No,3,1,1,No,141141,74,"Handbags, whether or not with shoulder strap, including those without handle",106,1,17,Bags,app,1.0
+61960,2018-01-09 01:03:51.320000+00:00,11915,11920,2,2,52538.0,Not VIP,19,4,0.0,19,Yes,No,No,T2,T3,No,3,921,1,Yes,12591,64,"T-shirts, singlets and other vests",879,2,65,Boys Clothing,web,0.0
+48848,2018-01-08 10:44:16.053000+00:00,84569,84590,2,2,42185.0,Not VIP,14,3,10.621,14,Yes,No,No,T2,T3,Yes,3,921,1,No,95613,54,Other footwear with outer soles of leather,55,1,78,Shoes,,1.0
+117267,2018-01-13 08:23:51.520000+00:00,4810,4814,4,2,92938.0,VIP,1,1,0.0,1,Yes,No,Yes,T2,T2,Yes,4,924,1,Yes,4996,462,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",85,12,65,Boys Clothing,web,0.0
+217336,2018-01-30 22:48:25.353000+00:00,16085,16092,2,2,160209.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,1,1,Yes,17129,251,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",249,9,14,Clothing,web,0.0
+373480,2018-01-19 16:21:20.823000+00:00,148403,148436,2,2,254417.0,VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,174484,1870,Suits,1115,1,29,Clothing,web,1.0
+23200,2018-01-05 04:17:16.180000+00:00,565,567,2,2,20758.0,Not VIP,16,4,34.1055,16,No,No,Yes,T4,,No,3,542,1,Yes,24152,41,Other footwear with outer soles of leather,34,24,77,Shoes,web,0.0
+92263,2018-01-11 09:37:51.100000+00:00,41631,41641,2,2,75362.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,Yes,3,924,1,Yes,45880,749,Other footwear with outer soles of leather,32,1,37,Shoes,web,1.0
+18121,2018-01-04 10:35:51.516000+00:00,61636,61651,2,2,16329.0,VIP,3,2,0.0,3,Yes,No,No,T2,T3,Yes,3,1,1,Yes,68795,74,N/D,22,1,12,Shoes,web,1.0
+403306,2018-02-07 16:01:15.023000+00:00,129049,129079,2,2,2303.0,Not VIP,6,4,0.0,6,Yes,No,No,T2,T2,No,4,1,1,No,150347,101," T-shirts, singlets and other vests",48,26,14,Clothing,web,1.0
+383610,2018-01-09 10:42:35.533000+00:00,35709,35718,1,3,259550.0,Not VIP,20,3,0.0,20,Yes,No,Yes,T3,T3,No,4,924,1,Yes,39145,139,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",44,1,85,Girls Clothing,web,1.0
+383482,2018-01-10 05:54:53.760000+00:00,20822,20829,4,2,259484.0,Not VIP,1,1,0.0,1,Yes,No,No,T4,T4,Yes,3,924,1,Yes,22354,94,"Trousers, overalls, shorts",335,1,8,Clothing,web,1.0
+128181,2018-01-15 14:04:21.140000+00:00,13776,13783,1,3,100894.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,T4,Yes,3,1,1,No,14615,158,Footwear with outer soles of rubber or plastics,72,2,372,Shoes,web,1.0
+313144,2018-02-18 09:00:36.186000+00:00,133112,133142,2,2,213617.0,VIP,5,3,0.0,5,Yes,No,No,VIP,VIP,No,6,1,1,No,155307,52,Dresses,163,6,10,Teen Girl Clothing,,0.0
+371390,2018-01-18 05:04:24.456000+00:00,147863,147895,1,1,253353.0,Not VIP,1,1,0.0,1,Yes,No,No,T3,T3,No,4,1,1,No,173816,1422,Dresses,913,8,228,Clothing,app,1.0
+286324,2018-02-12 17:07:18.546000+00:00,1737,1740,3,2,189879.0,Not VIP,4,3,0.0,4,No,No,No,,,No,2,1,1,Yes,1782,80,N/D,334,2,45,Shoes,,0.0
+396346,2018-01-27 13:40:09.306000+00:00,60719,60733,2,2,43646.0,VIP,5,3,0.0,5,Yes,No,Yes,T1,T1,Yes,3,1,1,Yes,67716,17,Footwear with outer soles of rubber or plastics,587,1,25,Shoes,app,1.0
+186405,2018-01-25 13:07:31.573000+00:00,55992,56005,5,2,140162.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,No,4,1,1,Yes,62240,581,Briefs and panties,541,2,18,Clothing,,0.0
+90279,2018-01-11 05:13:57.036000+00:00,152534,152567,2,2,73950.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,,No,3,924,1,Yes,179478,129,Skirts,429,3,49,Girls Clothing,web,1.0
+383866,2018-01-18 06:37:14.096000+00:00,25459,25467,2,2,112931.0,Not VIP,19,4,0.0,19,Yes,Yes,Yes,T3,T3,Yes,3,1,1,No,27577,92,"Handbags, whether or not with shoulder strap, including those without handle",36,1,17,Bags,web,1.0
+402262,2018-01-07 11:55:44.170000+00:00,105988,106010,2,2,268591.0,VIP,5,3,0.0,5,Yes,No,No,T2,T2,No,3,1,1,Yes,121627,2159,Dresses,565,45,114,Clothing,app,1.0
+401458,2018-01-08 16:05:11.746000+00:00,41023,41033,2,2,268224.0,Not VIP,1,1,7.2224,1,Yes,No,No,,,No,3,921,1,Yes,45164,83,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",384,1,63,Clothing,web,1.0
+48947,2018-01-08 10:48:21.243000+00:00,12252,12258,2,2,42261.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,,No,3,921,1,Yes,12955,196,"Handbags, whether or not with shoulder strap, including those without handle",317,1,17,Bags,web,0.0
+205114,2018-01-28 20:37:53.983000+00:00,65081,65098,2,2,152367.0,Not VIP,14,3,0.0,14,Yes,No,No,T4,T4,Yes,3,1,1,Yes,72775,565,Other footwear with outer soles of leather,535,4,58,Shoes,,0.0
+30488,2018-01-06 06:37:53.436000+00:00,3797,3801,2,2,26972.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,No,3,1,1,Yes,30011,11,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",284,4,19,Clothing,app,0.0
+303934,2018-02-16 09:37:51.763000+00:00,843,845,2,2,213655.0,Not VIP,15,4,0.0,15,No,No,Yes,T4,,No,3,1,1,No,104721,297,,73,49,14,,app,1.0
+222395,2018-01-31 19:09:36.856000+00:00,149381,149414,2,2,98020.0,Not VIP,14,3,47.7531,14,Yes,No,No,T2,T2,No,3,1,1,No,175658,163,,548,14,70,Clothing,,1.0
+83339,2018-01-10 15:11:40.826000+00:00,130918,130948,2,2,37676.0,VIP New,19,4,33.3833,19,Yes,No,No,VIP,VIP,Yes,6,924,1,Yes,152621,81,Skirts,83,1,19,Clothing,web,1.0
+230940,2018-02-02 08:07:20.876000+00:00,34229,34238,2,2,168667.0,Not VIP,16,4,14.5035,16,Yes,No,Yes,T4,T4,No,3,1,1,Yes,37488,60,Footwear with outer soles of rubber or plastics,330,4,158,Shoes,,0.0
+386567,2018-01-08 13:14:26.650000+00:00,72571,72589,2,2,12008.0,VIP,4,3,0.0,4,Yes,No,No,T1,T1,Yes,3,921,1,Yes,81398,571,Dresses,113,4,44,Clothing,app,1.0
+375267,2018-01-27 21:44:57.360000+00:00,18785,18791,2,2,255333.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,3,1,1,Yes,20109,84,Footwear with outer soles of rubber or plastics,112,1,53,Shoes,web,1.0
+63214,2018-01-09 04:01:32.033000+00:00,36009,36018,3,2,53450.0,Not VIP,3,2,0.0,3,Yes,No,No,,,No,2,921,1,Yes,39478,52,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",44,1,18,Clothing,,0.0
+221864,2018-01-31 17:24:52.640000+00:00,107129,107151,1,3,124990.0,Not VIP,29,3,0.0,29,Yes,Yes,No,T1,T1,Yes,3,1,1,No,123070,129,,215,2,85,Girls Clothing,,0.0
+215290,2018-01-30 15:54:30.393000+00:00,106547,106569,2,2,158896.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,No,3,1,1,No,122325,515,Dresses,493,23,196,Girls Clothing,web,0.0
+239033,2018-02-03 20:04:34.936000+00:00,87001,87023,2,2,95356.0,VIP New,1,1,5.0083,1,Yes,No,No,VIP,VIP,No,4,1,1,No,98511,479,"Trousers, overalls, shorts",325,1,56,Clothing,web,1.0
+193961,2018-01-26 18:51:47.043000+00:00,11,11,1,1,111597.0,Not VIP,1,1,0.0,1,No,No,No,T4,T4,No,4,1,1,No,11,11," T-shirts, singlets and other vests",968,4,19,Clothing,web,0.0
+32257,2018-01-06 13:07:29.770000+00:00,149457,149490,2,2,28472.0,VIP,11,3,29.32,11,Yes,No,No,T2,T2,Yes,3,1,1,Yes,175760,260,"Trousers, overalls, shorts",27,14,34,Clothing,web,1.0
+250697,2018-02-05 23:57:50.793000+00:00,116910,116939,3,4,180913.0,Not VIP,7,1,0.0,7,No,No,Yes,T4,,No,3,1,0,Yes,135090,239,N/D,261,8,128,Shoes,web,0.0
+130876,2018-01-16 00:01:58.453000+00:00,80055,80074,5,2,102821.0,Not VIP,1,1,5.0083,1,No,No,No,T4,,Yes,4,1,1,Yes,90225,1582,Jackets and blazers,975,35,99,Clothing,,0.0
+57039,2018-01-08 17:29:22.330000+00:00,7527,7532,5,4,23995.0,Not VIP,7,1,0.0,7,No,No,Yes,T4,,No,3,921,0,Yes,7893,23,Footwear with outer soles of rubber or plastics,175,2,213,Shoes,,0.0
+92348,2018-01-11 09:48:49.696000+00:00,47545,47557,2,2,75419.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T4,No,3,924,1,Yes,68042,71,"Trousers, overalls, shorts",74,28,107,Boys Clothing,web,0.0
+290782,2018-02-13 15:40:24.383000+00:00,127373,127403,2,2,205642.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T3,T3,No,3,1,1,Yes,148277,5,"Trousers, overalls, shorts",606,1,3,Clothing,app,0.0
+540,2018-01-01 04:15:19.150000+00:00,62223,62239,4,2,520.0,Not VIP,1,1,0.0,1,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,Yes,69462,155,"Blouses, shirts and shirt-blouses",80,3,9,Clothing,web,1.0
+224070,2018-02-01 02:24:28.943000+00:00,150030,150063,2,2,164461.0,Not VIP,1,1,20.9568,1,Yes,No,Yes,,,No,4,1,1,Yes,176440,532,Dresses,1216,1,33,Clothing,web,1.0
+395782,2018-01-20 01:16:16.720000+00:00,156768,156801,2,2,6758.0,Not VIP,17,4,24.3652,17,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,Yes,184648,963,N/D,24,20,8,Clothing,,1.0
+396382,2018-01-04 16:44:37.003000+00:00,9839,9845,1,3,265871.0,Not VIP,55,3,0.0,55,No,No,No,,,Yes,4,1,1,No,10371,33,"Other e.g. braces, suspenders, garters and similar articles",85,1,17,Accessories,web,1.0
+178549,2018-01-24 06:06:14.623000+00:00,13801,13808,5,2,135100.0,Not VIP,12,4,25.1925,12,No,No,Yes,T3,T3,No,3,1,1,Yes,17879,199,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",1170,2,18,Clothing,app,1.0
+155939,2018-01-20 07:54:08.533000+00:00,70670,70687,3,2,119821.0,Not VIP,3,2,0.0,3,No,No,No,T3,,No,4,1,1,No,79200,14,Skirts,274,1,42,Clothing,web,0.0
+132100,2018-01-16 07:08:32.620000+00:00,27435,27443,2,2,103663.0,Not VIP,12,4,31.0431,12,Yes,No,Yes,T4,T4,No,3,1,1,Yes,29792,203,Footwear with outer soles of rubber or plastics,539,26,246,Shoes,app,0.0
+375211,2018-01-09 05:47:39.053000+00:00,148849,148882,2,2,255302.0,Not VIP,12,4,28.7029,12,Yes,No,Yes,T3,T3,No,3,924,1,Yes,175011,19,"Handbags, whether or not with shoulder strap, including those without handle",35,1,17,Bags,app,1.0
+273324,2018-02-09 20:47:02.080000+00:00,113885,113911,2,2,155220.0,Not VIP,12,4,5.0083,12,Yes,No,No,T2,T2,No,3,1,1,No,131355,4,"Trousers, overalls, shorts",933,2,14,Clothing,app,0.0
+52431,2018-01-08 13:31:23.486000+00:00,17589,17596,2,2,45041.0,Not VIP,1,1,12.6688,1,Yes,No,No,T3,,Yes,3,921,1,Yes,18777,2,"Handbags, whether or not with shoulder strap, including those without handle",143,1,17,Bags,web,0.0
+379696,2018-01-19 15:01:01.306000+00:00,105063,105085,2,2,2416.0,VIP,1,1,0.0,1,Yes,No,No,T1,T1,Yes,3,1,1,No,176447,402,"Trousers, overalls, shorts",273,1,16,Clothing,,1.0
+165033,2018-01-21 21:41:51.103000+00:00,21329,21337,5,3,126153.0,VIP,9,3,0.0,9,No,No,No,T1,T1,Yes,3,1,1,Yes,22913,87,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",619,1,181,Clothing,web,1.0
+404727,2018-01-08 10:52:53.150000+00:00,69935,69952,1,3,269778.0,Not VIP,9,3,0.0,9,No,No,Yes,,,Yes,3,921,1,Yes,78364,197,"Trousers, overalls, shorts",322,2,34,Clothing,web,1.0
+391267,2018-01-17 06:14:26.236000+00:00,75805,75823,2,2,263397.0,Not VIP,12,4,36.8937,12,No,No,Yes,,,No,3,1,1,No,85174,81,"Of base metal, whether or not plated with precious metal",107,1,6,Jewellery,web,1.0
+54869,2018-01-08 15:25:45.466000+00:00,1437,1439,2,2,46916.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,,Yes,3,921,1,Yes,1471,5,Footwear with outer soles of rubber or plastics,101,1,28,Shoes,web,0.0
+44737,2018-01-08 08:14:37.940000+00:00,5840,5844,2,2,38845.0,VIP New,16,4,15.4853,16,Yes,No,No,T3,T4,Yes,3,921,1,Yes,6084,9,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",577,1,2,Clothing,,0.0
+398393,2018-02-15 00:01:44.763000+00:00,70680,70697,2,2,183940.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,Yes,3,1,1,Yes,79210,251,"Coats: overcoats, raincoat, cape, cloaks and similar articles",249,2,14,Clothing,,1.0
+251653,2018-02-06 04:49:02.503000+00:00,849,851,1,3,181496.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,,No,3,1,1,No,107932,11," T-shirts, singlets and other vests",15,4,24,Clothing,,1.0
+162778,2018-01-21 13:47:02.040000+00:00,90805,90827,2,2,124566.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,,No,4,1,1,No,103015,129,"T-shirts, singlets and other vests",56,1,65,Girls Clothing,web,0.0
+381563,2018-01-25 15:03:12.950000+00:00,71682,71700,2,2,104416.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,No,3,1,1,Yes,80370,48,"Trousers, overalls, shorts",316,1,3,Clothing,app,1.0
+264963,2018-02-08 12:17:46.963000+00:00,12701,12708,4,2,53596.0,VIP New,19,4,0.0,19,Yes,No,Yes,T1,T1,Yes,3,1,1,No,95938,55,N/D,311,20,48,Girls Clothing,app,1.0
+402995,2018-01-31 06:13:47.900000+00:00,148959,148992,2,2,268948.0,Not VIP,19,4,0.0,19,Yes,No,No,,,No,3,1,1,No,175153,318,Other footwear,382,1,38,Shoes,app,1.0
+52188,2018-01-08 13:19:19.593000+00:00,5463,5467,2,2,10976.0,VIP New,19,4,0.0,19,Yes,No,Yes,T2,T2,Yes,3,921,1,Yes,5686,69,Other footwear with outer soles of leather,35,1,31,Shoes,web,1.0
+385903,2018-01-12 11:47:21.056000+00:00,3149,3152,2,2,84642.0,VIP New,5,3,0.0,5,Yes,No,Yes,VIP,VIP,No,6,1,1,No,77958,611,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",236,42,18,Clothing,web,1.0
+57175,2018-01-08 17:38:09.496000+00:00,149206,149239,2,2,41778.0,VIP New,12,4,35.7236,12,Yes,No,Yes,VIP,VIP,No,6,921,1,Yes,175446,412,,11,6,66,Clothing,app,1.0
+4574,2018-01-02 03:30:44.646000+00:00,148074,148107,2,2,4366.0,VIP New,12,4,37.4837,12,Yes,No,Yes,VIP,VIP,No,6,1,1,Yes,174088,1579,Dresses,27,2,46,Clothing,app,1.0
+64417,2018-01-09 06:47:21.713000+00:00,18240,18247,2,2,54317.0,Not VIP,25,3,0.0,25,Yes,No,No,T3,T4,No,3,924,1,Yes,19490,87,"Trousers, overalls, shorts",197,1,21,Clothing,,0.0
+375428,2018-01-20 22:54:03.353000+00:00,96796,96819,2,9,137115.0,Not VIP,9,3,0.0,9,No,No,No,,,No,4,1,1,No,110300,69,Other footwear,161,1,38,Shoes,web,1.0
+388692,2018-02-17 18:00:28.303000+00:00,79835,79854,6,2,262121.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,T4,Yes,4,1,1,No,89956,238,Dresses,609,8,89,Clothing,web,1.0
+82410,2018-01-10 13:57:19.686000+00:00,317,318,1,3,67992.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,1,1,No,8399,87,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",32,1,6,Accessories,app,0.0
+59370,2018-01-08 20:32:40.026000+00:00,9145,9151,2,2,13901.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T3,Yes,3,924,1,Yes,9637,87,"Trousers, overalls, shorts",127,1,162,Clothing,app,1.0
+231978,2018-02-02 12:40:39.903000+00:00,111366,111391,2,2,169254.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T3,T4,Yes,3,1,1,Yes,128276,14,Skirts,590,1,43,Clothing,web,0.0
+69481,2018-01-09 14:24:46.300000+00:00,5372,5376,5,2,58129.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,T4,No,3,921,1,Yes,5593,53,,672,20,35,Clothing,app,0.0
+218171,2018-01-31 03:26:41.403000+00:00,13742,13749,2,2,160733.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,No,4,1,1,Yes,14577,22,"Handbags, whether or not with shoulder strap, including those without handle",94,1,6,Bags,web,0.0
+100800,2018-01-12 01:23:05.693000+00:00,35136,35145,2,2,81602.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,924,1,Yes,38502,25,"Trousers, overalls, shorts",33,6,723,Clothing,web,1.0
+375659,2018-02-03 11:56:36.920000+00:00,81126,81145,1,3,255534.0,Not VIP,4,3,0.0,4,Yes,No,No,,,Yes,3,1,1,No,91541,28,N/D,238,12,27,Clothing,,1.0
+239980,2018-02-04 01:45:34.613000+00:00,89211,89233,2,2,174236.0,VIP New,1,1,5.0083,1,Yes,No,No,T2,T2,No,4,1,1,No,131213,696,"Blouses, shirts and shirt-blouses",138,10,18,Clothing,app,0.0
+243665,2018-02-04 18:10:29.483000+00:00,95884,95907,4,2,29263.0,VIP New,1,1,5.0083,1,Yes,No,No,VIP,VIP,Yes,6,4490,1,No,109162,87,Shirts,22,1,181,Clothing,,0.0
+396559,2018-01-23 18:51:06.766000+00:00,61068,61082,2,2,123514.0,Not VIP,3,2,0.0,3,Yes,No,No,T4,T4,No,3,1,1,Yes,68127,141,Other footwear with outer soles of leather,150,1,37,Shoes,web,1.0
+65627,2018-01-09 08:55:40.640000+00:00,4616,4620,2,2,55210.0,Not VIP,16,4,34.1055,16,No,No,Yes,T4,,No,3,924,1,Yes,4790,9,Other footwear,106,1,108,Shoes,web,0.0
+402618,2018-02-05 13:44:30.006000+00:00,156155,156188,2,2,268764.0,Not VIP,4,3,0.0,4,Yes,No,Yes,,,Yes,3,4490,1,No,183899,153,,497,1,28,Shoes,,1.0
+142850,2018-01-17 23:11:14.123000+00:00,17822,17829,2,2,111077.0,Not VIP,4,3,48.0236,4,Yes,No,No,T4,,Yes,3,1,1,Yes,19037,5,Footwear with outer soles of rubber or plastics,606,1,12,Shoes,,0.0
+383813,2018-01-07 13:53:38.950000+00:00,53123,53135,1,3,57463.0,Not VIP,11,3,0.0,11,Yes,No,No,T4,T4,No,3,1,1,Yes,58919,899,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",124,1,8,Clothing,,1.0
+142015,2018-01-17 20:23:33.793000+00:00,83895,83916,2,2,10817.0,VIP,4,3,0.0,4,Yes,No,No,T1,T1,No,4,1,1,Yes,94824,46,Other footwear,283,1,12,Shoes,app,0.0
+345,2018-01-01 02:44:30.853000+00:00,494,496,2,2,334.0,Not VIP,12,4,33.3833,12,Yes,No,No,T3,,No,3,1,1,Yes,499,67," T-shirts, singlets and other vests",11,1,14,Clothing,app,0.0
+38588,2018-01-07 14:25:22.650000+00:00,226,226,2,2,29471.0,VIP,9,3,0.0,9,Yes,No,No,VIP,VIP,Yes,3,1,1,Yes,227,38," T-shirts, singlets and other vests",142,4,3,Clothing,,0.0
+82716,2018-01-10 14:21:42.796000+00:00,11979,11984,1,3,45975.0,Not VIP,24,3,0.0,24,No,No,Yes,T2,T3,Yes,3,924,1,Yes,12662,212,Footwear with outer soles of rubber or plastics,60,1,152,Shoes,web,0.0
+389000,2018-02-01 12:31:00.766000+00:00,2357,2360,2,2,262266.0,Not VIP,1,1,5.0083,1,No,No,No,,,No,4,1,1,No,2425,105,Other footwear with outer soles of leather,35,1,37,Shoes,web,1.0
+391928,2018-01-11 09:21:30.540000+00:00,22320,22328,4,2,55059.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T2,No,3,921,1,Yes,24025,19,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",119,3,9,Clothing,app,1.0
+393676,2018-02-04 22:04:32.556000+00:00,153741,153773,2,2,81370.0,VIP New,1,1,11.4848,1,Yes,No,Yes,T1,T1,Yes,3,4490,1,No,180946,22,Articles of a kind normally carried in the pocket or in the handbag,520,1,17,Accessories,app,1.0
+50569,2018-01-08 12:08:20.153000+00:00,25084,25092,2,2,43548.0,Not VIP,9,3,0.0,9,No,No,Yes,T4,T4,Yes,3,1,1,Yes,27150,443,"Coats: overcoats, raincoat, cape, cloaks and similar articles",47,9,33,Clothing,web,0.0
+119030,2018-01-13 13:26:22.150000+00:00,12001,12006,2,2,94195.0,VIP,1,1,0.0,1,Yes,No,No,T2,T2,Yes,4,1,1,Yes,12687,99,Footwear with outer soles of rubber or plastics,80,26,239,Shoes,,0.0
+379871,2018-01-02 00:40:59.950000+00:00,10648,10654,1,3,257691.0,Not VIP,36,3,0.0,36,No,No,No,,,No,4,1,1,Yes,11220,310,,11,2,6,Bags,,1.0
+230270,2018-02-02 04:22:05.253000+00:00,64480,64497,2,2,168305.0,VIP,25,3,0.0,25,Yes,No,No,T2,T3,No,3,1,1,Yes,72087,80,"Trousers, overalls, shorts",254,11,19,Clothing,app,0.0
+268546,2018-02-09 01:43:49.343000+00:00,13877,13884,2,2,191809.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T3,,Yes,3,1,1,No,133826,33," T-shirts, singlets and other vests",15,4,2,Clothing,web,0.0
+162346,2018-01-21 12:16:12.856000+00:00,54101,54113,1,3,124261.0,Not VIP,11,3,0.0,11,Yes,No,No,T3,T3,Yes,3,1,1,No,60063,38,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",174,4,14,Clothing,app,0.0
+106399,2018-01-12 13:06:19.270000+00:00,38681,38691,1,3,85316.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,924,1,Yes,42502,103,"Trousers, overalls, shorts",215,1,40,Clothing,,0.0
+390445,2018-01-18 15:56:33.330000+00:00,6588,6592,1,3,41984.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,T4,No,3,1,1,Yes,6874,884,N/D,116,20,3,Clothing,app,1.0
+165311,2018-01-21 22:53:17.480000+00:00,67649,67666,2,2,126354.0,Not VIP,5,3,0.0,5,No,No,No,T4,T4,Yes,3,1,1,Yes,75723,227,"Trousers, overalls, shorts",72,2,55,Clothing,,0.0
+2744,2018-01-01 17:27:07.303000+00:00,3710,3714,2,2,2629.0,Not VIP,1,1,12.6688,1,Yes,No,No,T3,,No,3,1,1,No,3832,92,"Handbags, whether or not with shoulder strap, including those without handle",36,1,17,Bags,,0.0
+2071,2018-01-01 14:24:06.120000+00:00,2869,2872,2,2,1984.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,,No,3,1,1,Yes,2956,212,Footwear with outer soles of rubber or plastics,170,1,28,Shoes,app,0.0
+74456,2018-01-09 21:40:28.196000+00:00,37989,37999,2,2,61923.0,Not VIP,75,3,0.0,75,No,No,No,T4,T4,No,4,924,1,Yes,42353,9,"Handbags, whether or not with shoulder strap, including those without handle",136,1,17,Bags,web,1.0
+279051,2018-02-11 03:07:41.980000+00:00,89910,89932,2,2,125743.0,Not VIP,36,3,5.0083,36,Yes,No,Yes,T3,T4,Yes,3,1,1,Yes,101974,124,Other footwear with outer soles of leather,40,1,28,Shoes,web,0.0
+2436,2018-01-01 16:04:26.120000+00:00,3336,3339,2,2,2333.0,Not VIP,3,2,0.0,3,Yes,Yes,Yes,T2,T2,No,4,1,1,Yes,3440,322,Other footwear with outer soles of leather,342,1,5,Shoes,,0.0
+242493,2018-02-04 14:08:49.510000+00:00,7519,7524,5,2,175779.0,Not VIP,12,4,35.7236,12,No,No,No,T2,T3,No,3,1,1,Yes,132136,554,Swimwear,531,8,667,Clothing,app,0.0
+94665,2018-01-11 13:51:14.523000+00:00,65295,65312,3,2,41957.0,Not VIP,7,1,0.0,7,No,No,Yes,VIP,VIP,No,7,924,0,Yes,73023,863,Dresses,765,2,228,Clothing,,0.0
+157515,2018-01-20 14:13:43.493000+00:00,73440,73458,2,2,120910.0,Not VIP,19,4,0.0,19,Yes,No,No,T3,T4,No,3,1,1,Yes,82417,251,Articles of a kind normally carried in the pocket or in the handbag,22,2,6,Accessories,,0.0
+384040,2018-01-18 02:16:01.580000+00:00,151187,151220,1,1,259747.0,Not VIP,1,1,0.0,1,No,No,No,,,No,4,1,1,No,177830,222,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",1019,3,14,Clothing,web,1.0
+308671,2018-02-17 09:56:47.763000+00:00,125778,125808,5,2,216366.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,,No,3,1,1,No,146273,314,"Handbags, whether or not with shoulder strap, including those without handle",336,2,17,Bags,,0.0
+401858,2018-01-20 11:04:25.990000+00:00,155939,155972,1,3,268409.0,Not VIP,4,3,0.0,4,Yes,No,No,,,No,4,1,1,Yes,183635,484,Skirts,85,6,9,Clothing,app,1.0
+51639,2018-01-08 12:55:33.010000+00:00,13116,13123,5,3,44426.0,Not VIP,24,3,0.0,24,Yes,No,Yes,T4,T4,No,3,921,1,Yes,13894,97,Footwear with outer soles of rubber or plastics,11,4,5,Shoes,web,1.0
+65812,2018-01-09 09:13:05.656000+00:00,1376,1378,2,2,55354.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,No,3,921,1,Yes,21706,270,Other footwear with outer soles of leather,15,1,31,Shoes,,0.0
+370922,2018-01-15 21:06:23.353000+00:00,150247,150280,3,4,28048.0,Not VIP,7,1,0.0,7,Yes,Yes,Yes,T1,T1,Yes,7,1,0,Yes,176703,634,N/D,786,8,421,Clothing,,1.0
+382008,2018-01-10 12:50:59.263000+00:00,16828,16835,1,3,258759.0,Not VIP,4,3,0.0,4,Yes,No,Yes,,,No,3,924,1,Yes,17947,19,"Trousers, overalls, shorts",127,1,56,Clothing,web,1.0
+169103,2018-01-22 15:40:50.896000+00:00,18240,18247,2,2,33521.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T3,Yes,3,1,1,Yes,19490,87,"Trousers, overalls, shorts",562,1,29,Clothing,app,0.0
+291958,2018-02-13 20:22:00.406000+00:00,55172,55184,3,4,206383.0,Not VIP,7,1,0.0,7,Yes,No,No,T2,T3,Yes,4,1,0,No,61282,219,"Handbags, whether or not with shoulder strap, including those without handle",560,2,17,Bags,app,0.0
+231886,2018-02-02 12:20:26.100000+00:00,21457,21465,2,2,54962.0,Not VIP,58,3,0.0,58,Yes,No,Yes,T2,T2,Yes,3,1,1,Yes,86225,443,"Trousers, overalls, shorts",198,48,33,Clothing,,1.0
+384366,2018-01-09 12:47:25.570000+00:00,45376,45389,2,2,34076.0,Not VIP,19,4,0.0,19,No,No,No,T4,T4,No,3,921,1,Yes,50114,312,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",56,6,10,Teen Girl Clothing,app,1.0
+249198,2018-02-05 17:33:18.103000+00:00,4507,4511,2,2,179914.0,Not VIP,4,3,17.0,4,Yes,No,No,T4,T4,No,4,1,1,Yes,4676,80,"Trousers, overalls, shorts",705,11,19,Clothing,web,0.0
+265789,2018-02-08 15:03:00.073000+00:00,90529,90551,2,2,59991.0,VIP,5,3,0.0,5,Yes,No,No,T2,T2,No,3,1,1,No,102708,92,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",182,1,293,Accessories,web,0.0
+221859,2018-01-31 17:24:21.570000+00:00,7717,7722,3,7,163014.0,Not VIP,36,3,0.0,36,No,No,No,,,No,1,1,1,No,8092,92,Footwear with outer soles of rubber or plastics,91,1,157,Shoes,web,0.0
+22003,2018-01-04 22:44:16.843000+00:00,2904,2907,2,2,19721.0,Not VIP,21,2,5.0083,21,Yes,No,No,T4,,No,3,1,1,Yes,2991,322,Footwear with outer soles of leather or composition leather,342,1,672,Shoes,web,0.0
+50096,2018-01-08 11:43:54.553000+00:00,27324,27332,2,2,43174.0,Not VIP,82,3,0.0,82,Yes,No,Yes,T4,,Yes,4,921,1,No,29674,251," T-shirts, singlets and other vests",184,9,3,Clothing,web,0.0
+68780,2018-01-09 13:28:57.920000+00:00,3254,3257,2,2,57602.0,Not VIP,16,4,17.0858,16,Yes,No,No,T3,T4,Yes,3,921,1,Yes,3355,84,N/D,22,20,29,Clothing,app,0.0
+296897,2018-02-14 20:17:48.886000+00:00,20943,20950,2,9,209417.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,5082,1,Yes,22490,87," T-shirts, singlets and other vests",1315,1,3,Clothing,web,0.0
+233874,2018-02-02 19:20:23.853000+00:00,86224,86246,4,2,13185.0,VIP New,83,1,5.0083,83,Yes,No,Yes,VIP,T1,No,4,1,1,No,97594,577,Of precious metal whether or not plated or clad with precious metal,358,21,17,Jewellery,web,0.0
+46699,2018-01-08 09:16:35.333000+00:00,11846,11851,2,2,40448.0,VIP,1,1,12.0768,1,Yes,No,No,T4,T4,No,4,921,1,Yes,12520,12,Other footwear,713,1,53,Shoes,app,1.0
+123737,2018-01-14 15:19:16.710000+00:00,77313,77331,4,3,97695.0,Not VIP,14,3,0.0,14,No,No,No,T4,,Yes,3,1,1,Yes,86942,87,"Blouses, shirts and shirt-blouses",207,1,47,Clothing,web,0.0
+418,2018-01-01 03:19:59.143000+00:00,31109,31117,2,2,405.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,33937,181,N/D,311,20,85,Girls Clothing,app,1.0
+229147,2018-02-01 22:25:43.976000+00:00,110554,110578,2,2,14959.0,VIP,3,2,0.0,3,No,No,No,T2,T2,No,4,1,1,No,127295,275,Sunglasses,259,1,527,Accessories,,0.0
+80480,2018-01-10 11:03:44.980000+00:00,31480,31488,1,3,66535.0,Not VIP,14,3,0.0,14,Yes,No,No,T4,,No,3,924,1,Yes,6990,5,Footwear with outer soles of rubber or plastics,52,1,28,Shoes,web,0.0
+17739,2018-01-04 09:13:28.926000+00:00,11350,11355,2,2,11018.0,VIP New,17,4,24.3652,17,Yes,No,No,VIP,VIP,No,4,1,1,No,153855,137," T-shirts, singlets and other vests",11,1,8,Clothing,web,1.0
+388958,2018-01-27 14:46:05.276000+00:00,13376,13383,2,2,86581.0,VIP,16,4,17.0858,16,Yes,No,Yes,T2,T2,No,3,1,1,Yes,14177,87,,1217,20,19,Clothing,web,1.0
+163960,2018-01-21 17:53:14.216000+00:00,7551,7556,2,2,125400.0,VIP,15,4,0.0,15,Yes,No,No,VIP,T1,Yes,4,1,1,Yes,7918,7,,7,20,84,Clothing,app,0.0
+263515,2018-02-08 06:17:12.886000+00:00,87167,87189,2,2,188734.0,VIP,3,2,0.0,3,No,No,Yes,T1,T1,No,3,1,1,Yes,98704,17,"Trousers, overalls, shorts",197,1,136,Clothing,,1.0
+203139,2018-01-28 13:31:19.366000+00:00,22494,22502,3,2,151003.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T3,T3,No,4,1,1,No,24220,162,Shirts,638,14,103,Clothing,app,0.0
+394416,2018-01-20 02:35:51.360000+00:00,4749,4753,2,2,261742.0,VIP,1,1,5.0083,1,No,No,No,T3,T3,No,3,1,1,No,35922,92,Other footwear with outer soles of leather,15,1,37,Shoes,web,1.0
+108142,2018-01-12 15:23:07.473000+00:00,4661,4665,2,2,86550.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,,No,3,924,1,Yes,4840,219,"Handbags, whether or not with shoulder strap, including those without handle",317,2,17,Bags,web,0.0
+380511,2018-01-13 04:08:50.313000+00:00,27101,27109,1,1,258016.0,Not VIP,1,1,0.0,1,No,No,No,,,No,3,924,1,Yes,29430,52,,202,1,579,Shoes,web,1.0
+110092,2018-01-12 18:05:12.996000+00:00,9764,9770,2,2,87942.0,Not VIP,3,2,0.0,3,No,No,No,T4,,No,3,1368,1,No,61544,11," T-shirts, singlets and other vests",38,4,3,Clothing,web,0.0
+197200,2018-01-27 10:02:45.186000+00:00,65526,65543,1,3,147080.0,Not VIP,29,3,0.0,29,Yes,No,No,T4,T4,No,3,1,1,No,115840,443,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",284,6,8,Clothing,web,0.0
+403182,2018-01-08 16:29:29.410000+00:00,30262,30270,2,2,269036.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,T4,Yes,4,921,1,Yes,32990,86,"Coats: overcoats, raincoat, cape, cloaks and similar articles",34,3,57,Clothing,web,1.0
+216396,2018-01-30 19:26:59.216000+00:00,89566,89588,3,4,159605.0,Not VIP,7,1,0.0,7,No,No,No,T4,,No,3,1,0,Yes,101580,376,Swimwear,674,8,89,Clothing,web,0.0
+197795,2018-01-27 12:31:58.826000+00:00,98523,98546,2,2,147475.0,Not VIP,19,4,0.0,19,Yes,No,No,T4,T4,No,3,1,1,No,112445,189,Articles of a kind normally carried in the pocket or in the handbag,33,2,17,Accessories,web,0.0
+371501,2018-01-10 23:46:21.113000+00:00,18370,18376,2,2,253407.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T4,T4,Yes,4,921,1,No,19632,19,Footwear with outer soles of rubber or plastics,48,1,12,Shoes,,1.0
+381284,2018-01-09 18:57:06.283000+00:00,140045,140076,2,2,258397.0,Not VIP,106,4,0.0,106,No,No,Yes,,,Yes,3,924,1,Yes,163947,308,Footwear with outer soles of rubber or plastics,30,1,23,Shoes,web,1.0
+61308,2018-01-08 23:33:59.270000+00:00,28777,28785,2,2,52052.0,Not VIP,20,3,0.0,20,Yes,No,No,T3,T4,Yes,4,921,1,Yes,31289,87,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",517,1,8,Clothing,web,0.0
+45417,2018-01-08 08:35:08.123000+00:00,17624,17631,2,2,39399.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,T4,No,3,921,1,No,105682,14,"Shawls, scarves, mufflers, mantillas, veils and similar articles",208,1,17,Accessories,web,1.0
+73014,2018-01-09 19:11:22.300000+00:00,35253,35262,4,2,60790.0,VIP,25,3,0.0,25,Yes,No,Yes,T3,T4,Yes,3,924,1,Yes,133779,81,Footwear with outer soles of rubber or plastics,85,1,23,Shoes,web,1.0
+135826,2018-01-16 20:28:12.500000+00:00,81735,81755,2,2,106206.0,Not VIP,1,1,12.6688,1,Yes,No,No,T2,T2,Yes,3,1,1,No,92269,69,"Handbags, whether or not with shoulder strap, including those without handle",11,1,17,Bags,app,0.0
+289547,2018-02-13 10:16:33.416000+00:00,26588,26596,3,2,204891.0,Not VIP,6,4,0.0,6,No,No,No,,,No,1,1,1,No,28845,11," T-shirts, singlets and other vests",115,4,2,Clothing,web,0.0
+75108,2018-01-09 22:54:34.793000+00:00,56344,56357,2,2,62468.0,Not VIP,4,3,0.0,4,Yes,Yes,Yes,T1,,Yes,3,924,1,Yes,62639,717,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",186,1,18,Clothing,,0.0
+15968,2018-01-04 00:10:42.443000+00:00,16692,16699,1,3,14479.0,Not VIP,4,3,0.0,4,Yes,No,No,T3,,No,3,1,1,No,17803,231,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",22,3,96,Clothing,web,0.0
+81197,2018-01-10 12:13:34.826000+00:00,59271,59285,2,2,67081.0,Not VIP,16,4,34.1055,16,Yes,No,Yes,T3,T4,No,3,924,1,Yes,66014,74,Footwear with outer soles of leather or composition leather,11,1,31,Shoes,web,0.0
+293471,2018-02-14 05:14:21.956000+00:00,154485,154517,5,1,131.0,Not VIP,1,1,0.0,1,No,Yes,Yes,VIP,VIP,No,6,1,1,No,181833,58,"Handbags, whether or not with shoulder strap, including those without handle",959,14,17,Bags,,1.0
+396926,2018-01-09 12:22:39.790000+00:00,26279,26287,2,2,266128.0,Not VIP,5,3,0.0,5,No,No,No,,,No,3,924,1,Yes,28487,97,Other footwear,39,4,28,Shoes,web,1.0
+239080,2018-02-03 20:19:39.670000+00:00,95184,95207,3,4,125618.0,Not VIP,7,1,0.0,7,No,No,No,T4,T4,No,3,1,0,No,108338,18,Other footwear with outer soles of leather,982,8,15,Shoes,,0.0
+98907,2018-01-11 20:52:31.020000+00:00,576,578,1,3,80144.0,VIP,29,3,0.0,29,Yes,No,No,T2,T4,Yes,3,924,1,Yes,13692,11,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",60,4,2,Clothing,web,0.0
+395807,2018-01-04 20:16:39.250000+00:00,18582,18588,1,3,30130.0,Not VIP,50,3,0.0,50,Yes,No,Yes,T4,T4,No,3,1,1,No,19879,105," T-shirts, singlets and other vests",155,1,18,Clothing,web,1.0
+202743,2018-01-28 11:52:01.796000+00:00,3810,3814,2,2,150746.0,VIP,1,1,0.0,1,Yes,No,No,T2,T2,No,3,1,1,Yes,46165,101,,102,20,2,Clothing,web,0.0
+375472,2018-02-18 22:16:36.380000+00:00,148919,148952,2,9,241454.0,VIP New,4,3,0.0,4,Yes,No,No,T4,T4,Yes,4,1,1,No,175097,46," T-shirts, singlets and other vests",186,4,3,Clothing,,1.0
+277634,2018-02-10 18:38:13.533000+00:00,15905,15912,3,2,197394.0,Not VIP,1,1,5.0083,1,Yes,No,No,,,No,1,1,1,No,16940,69,Footwear with outer soles of rubber or plastics,44,1,5,Shoes,web,0.0
+396733,2018-01-12 03:28:34.100000+00:00,66185,66202,2,2,266031.0,Not VIP,1,1,0.0,1,No,No,Yes,,,No,3,924,1,Yes,74044,361,Footwear with outer soles of rubber or plastics,379,2,36,Shoes,web,1.0
+403751,2018-01-18 12:17:49.776000+00:00,4660,4664,2,2,254717.0,Not VIP,9,3,29.8699,9,No,No,No,T4,T4,No,3,1,1,No,184248,663,Swimwear,646,35,305,Clothing,,1.0
+139460,2018-01-17 12:09:01.960000+00:00,85712,85734,1,3,108686.0,Not VIP,63,3,0.0,63,Yes,No,Yes,T4,,No,3,1,1,Yes,96995,72,Dresses,83,1,19,Clothing,web,1.0
+7919,2018-01-02 17:32:27.696000+00:00,9297,9303,2,2,7317.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T3,Yes,3,1,1,Yes,9801,46,"Trousers, overalls, shorts",33,1,201,Clothing,app,0.0
+27866,2018-01-05 19:44:09.480000+00:00,74201,74219,1,3,969.0,Not VIP,4,3,0.0,4,No,No,No,T4,T4,No,3,659,1,Yes,88348,205,Jackets and blazers,227,1,27,Clothing,web,1.0
+174839,2018-01-23 15:17:52.776000+00:00,143659,143691,2,2,130595.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T2,T2,No,4,1,1,No,168471,841,Dresses,106,1,35,Clothing,,1.0
+21620,2018-01-04 21:23:24.690000+00:00,15266,15273,2,2,19380.0,Not VIP,12,4,31.5053,12,Yes,No,No,T4,,Yes,4,1,1,No,16242,2,"Handbags, whether or not with shoulder strap, including those without handle",80,3,6,Bags,web,0.0
+79960,2018-01-10 10:12:09.870000+00:00,58682,58695,2,2,66131.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T4,Yes,3,921,1,Yes,65334,844,Footwear with outer soles of rubber or plastics,134,1,79,Boys Shoes,app,0.0
+170660,2018-01-22 20:47:33.366000+00:00,93344,93366,2,2,89340.0,VIP,1,1,0.0,1,Yes,No,No,T2,T2,Yes,4,1,1,Yes,106092,8,Articles of a kind normally carried in the pocket or in the handbag,38,1,6,Accessories,web,0.0
+116895,2018-01-13 07:57:02.270000+00:00,44256,44268,2,2,20109.0,VIP New,15,4,0.0,15,Yes,No,No,T1,T2,Yes,3,924,1,Yes,48846,23,"Blouses, shirts and shirt-blouses",366,2,35,Clothing,web,1.0
+24706,2018-01-05 10:43:58.626000+00:00,23585,23593,2,9,22036.0,VIP New,5,3,0.0,5,Yes,No,Yes,VIP,VIP,Yes,3,1,1,Yes,25431,198,"Handbags, whether or not with shoulder strap, including those without handle",219,1,17,Bags,web,0.0
+258020,2018-02-07 06:39:21.450000+00:00,9224,9230,2,2,37633.0,VIP@Feb14,25,3,0.0,25,Yes,No,Yes,VIP,VIP,No,6,1,1,Yes,9724,251,Other footwear,184,4,12,Shoes,,0.0
+396428,2018-01-26 21:16:49.770000+00:00,82820,82841,2,9,57815.0,VIP,61,3,0.0,61,Yes,No,No,T1,T1,Yes,3,1,1,Yes,58415,119,Other footwear,448,1,5,Shoes,web,1.0
+186868,2018-01-25 14:35:44.523000+00:00,98227,98250,2,2,124291.0,VIP,17,4,24.3652,17,No,No,No,T1,T2,No,3,1,1,No,112074,1380,Skirts,559,1,43,Clothing,,0.0
+372673,2018-01-04 18:33:44.263000+00:00,27267,27275,1,3,253983.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,T4,No,3,1,1,No,174223,69,Footwear with outer soles of rubber or plastics,338,1,30,Shoes,web,1.0
+72678,2018-01-09 18:35:14.130000+00:00,135688,135719,2,2,50482.0,VIP New,12,4,33.3833,12,Yes,No,Yes,T2,T2,Yes,3,921,1,Yes,158503,1157," T-shirts, singlets and other vests",380,4,616,Clothing,app,1.0
+254173,2018-02-06 14:49:45.256000+00:00,117825,117853,2,2,183007.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,,No,3,1,1,Yes,136233,132,"Coats: overcoats, raincoat, cape, cloaks and similar articles",2,9,63,Clothing,web,0.0
+376156,2018-01-08 08:54:12.320000+00:00,2598,2601,2,2,255807.0,Not VIP,9,3,0.0,9,Yes,No,No,T2,T2,Yes,3,921,1,Yes,2675,177,,112,1,28,Shoes,web,1.0
+221801,2018-01-31 17:17:17.776000+00:00,61454,61469,1,3,162977.0,Not VIP,11,3,0.0,11,Yes,No,Yes,T3,T3,No,4,1,1,Yes,68583,847,,152,21,9,Clothing,,1.0
+140763,2018-01-17 16:14:58.126000+00:00,2442,2445,1,3,109575.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,1,1,No,2510,87,"Other headgear, whether or not lined or trimmed",252,2,6,Accessories,,0.0
+178468,2018-01-24 05:38:05.296000+00:00,92337,92359,2,2,112275.0,VIP New,17,4,24.3652,17,Yes,No,Yes,VIP,VIP,No,6,1,1,No,104847,195,"Trousers, overalls, shorts",12,1,196,Girls Clothing,web,0.0
+5003,2018-01-02 06:26:22.490000+00:00,151703,151736,2,2,4769.0,VIP,4,3,5.0083,4,Yes,No,Yes,T2,T2,Yes,4,1,1,Yes,178460,154,"Blouses, shirts and shirt-blouses",563,2,9,Clothing,web,1.0
+370984,2018-01-13 08:55:34.326000+00:00,130856,130886,2,2,253134.0,Not VIP,15,4,12.9314,15,Yes,No,Yes,T3,T3,Yes,3,924,1,Yes,173889,679," T-shirts, singlets and other vests",717,10,371,Clothing,,1.0
+255071,2018-02-06 17:38:14.770000+00:00,150102,150135,2,2,43108.0,VIP,19,4,0.0,19,Yes,No,Yes,T3,T3,Yes,3,4185,1,Yes,176525,13,Shirts,12,5,10,Teen Boy Clothing,app,1.0
+27525,2018-01-05 18:40:43.533000+00:00,49425,49437,2,2,24433.0,Not VIP,12,4,31.0431,12,Yes,No,No,T4,T4,No,3,1,1,Yes,54696,25,Footwear with outer soles of rubber or plastics,30,26,5,Shoes,app,1.0
+389519,2018-01-03 13:23:04.143000+00:00,17806,17813,2,2,262526.0,Not VIP,17,4,19.1182,17,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,19021,9,"Handbags, whether or not with shoulder strap, including those without handle",190,1,17,Bags,web,1.0
+78142,2018-01-10 06:41:19.553000+00:00,32993,33002,2,2,2179.0,Not VIP,16,4,14.5035,16,Yes,No,Yes,T3,T4,Yes,3,924,1,Yes,36074,19,Footwear with outer soles of rubber or plastics,247,1,5,Shoes,,1.0
+3117,2018-01-01 19:12:39.290000+00:00,629,631,2,2,2984.0,Not VIP,1,1,20.72,1,Yes,No,No,T2,,No,2,1,1,No,634,92,,36,20,35,Clothing,web,0.0
+105723,2018-01-12 12:09:55.443000+00:00,28563,28571,1,3,46581.0,Not VIP,20,3,0.0,20,Yes,No,No,T4,T4,Yes,3,924,1,Yes,31052,197,"Trousers, overalls, shorts",11,1,16,Clothing,web,1.0
+172084,2018-01-23 03:06:56.063000+00:00,12937,12944,4,2,130862.0,Not VIP,19,4,0.0,19,No,No,No,T4,,No,3,1,1,No,88957,23,Articles of a kind normally carried in the pocket or in the handbag,33,11,17,Accessories,,0.0
+100230,2018-01-11 23:40:12.766000+00:00,38854,38864,2,2,19901.0,Not VIP,3,2,0.0,3,Yes,No,No,T3,T3,Yes,4,924,1,Yes,42694,171,,72,4,8,Clothing,web,1.0
+404339,2018-01-07 21:09:34.063000+00:00,153136,153169,2,2,149229.0,Not VIP,5,3,0.0,5,No,No,No,T3,T3,No,3,4,1,Yes,21284,27,,107,20,19,Clothing,web,1.0
+397694,2018-01-11 07:14:54.916000+00:00,7717,7722,1,7,266501.0,Not VIP,36,3,0.0,36,No,No,No,,,No,3,1,1,No,8092,92,Footwear with outer soles of rubber or plastics,91,1,37,Shoes,web,1.0
+397455,2018-02-11 16:54:11.223000+00:00,154774,154806,1,6,266397.0,Not VIP,1,1,0.0,1,No,No,No,,,No,3,1,1,Yes,182189,461,Footwear with outer soles of rubber or plastics,678,1,11,Shoes,,1.0
+66884,2018-01-09 10:51:16.606000+00:00,2827,2830,4,2,56198.0,Not VIP,27,3,47.161,27,No,No,Yes,,,No,3,924,1,Yes,10680,124,Articles of a kind normally carried in the pocket or in the handbag,536,1,17,Accessories,web,0.0
+390586,2018-01-12 13:04:14.853000+00:00,7391,7396,2,2,263065.0,Not VIP,16,4,16.2855,16,Yes,No,Yes,,,No,3,921,1,Yes,7745,926,"Handbags, whether or not with shoulder strap, including those without handle",225,1,17,Bags,app,1.0
+382196,2018-02-06 23:33:07.013000+00:00,72461,72479,2,2,173904.0,Not VIP,1,1,0.0,1,No,No,No,,,Yes,4,1,1,Yes,81264,5,"Trousers, overalls, shorts",152,1,201,Clothing,,1.0
+30433,2018-01-06 06:22:12.896000+00:00,10914,10920,2,2,26924.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T2,T2,No,3,1,1,Yes,11515,69,Other footwear with outer soles of leather,349,1,30,Shoes,app,0.0
+381918,2018-01-13 06:46:21.823000+00:00,150640,150673,2,2,122433.0,VIP New,1,1,5.0083,1,Yes,No,Yes,T1,T1,Yes,6,924,1,Yes,177186,926,,155,20,17,Bags,web,1.0
+224864,2018-02-01 06:50:00.053000+00:00,91263,91285,2,2,7194.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T2,No,3,1,1,Yes,103560,1327,Footwear with outer soles of rubber or plastics,190,1,31,Shoes,web,0.0
+388476,2018-01-25 23:57:52.246000+00:00,87650,87672,2,2,262015.0,Not VIP,3,2,0.0,3,No,No,No,,,No,4,1,1,No,99300,27,,107,123,17,Bags,web,1.0
+107553,2018-01-12 14:39:50.710000+00:00,70481,70498,2,2,86120.0,VIP New,11,3,0.0,11,Yes,No,Yes,VIP,VIP,Yes,6,924,1,No,78983,86,"Coats: overcoats, raincoat, cape, cloaks and similar articles",570,3,142,Clothing,,0.0
+400368,2018-02-05 16:42:43.403000+00:00,110874,110899,2,2,267747.0,Not VIP,9,3,0.0,9,No,No,Yes,T4,T4,No,3,1,1,No,127675,92,"Trousers, overalls, shorts",1227,1,8,Clothing,web,1.0
+392469,2018-01-28 04:19:46.070000+00:00,26933,26941,2,2,146395.0,Not VIP,3,2,0.0,3,Yes,No,No,T3,T3,No,3,1,1,No,29237,189,Footwear with outer soles of rubber or plastics,33,1,38,Shoes,web,1.0
+245012,2018-02-04 23:17:50.843000+00:00,91013,91035,1,6,177410.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,1,1,Yes,133072,1411,N/D,27,40,295,Clothing,web,0.0
+9602,2018-01-02 23:51:00.993000+00:00,1152,1154,2,2,1569.0,Not VIP,40,4,5.8485,40,Yes,Yes,Yes,VIP,VIP,No,3,1,1,No,11492,11,N/D,24,26,6,Bags,,0.0
+151663,2018-01-19 13:09:42.390000+00:00,48007,48019,2,2,116980.0,VIP,1,1,5.0083,1,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,98677,67,Shirts,1175,1,292,Clothing,web,0.0
+19287,2018-01-04 14:16:48.500000+00:00,5398,5402,1,3,17330.0,Not VIP,10,3,0.0,10,Yes,No,Yes,T4,T4,Yes,4,1,1,No,5620,87,,32,1,18,Clothing,web,0.0
+390503,2018-01-07 12:44:57.466000+00:00,69466,69483,2,2,263020.0,Not VIP,5,3,0.0,5,No,No,No,,,No,3,1,1,Yes,77807,186,"Coats: overcoats, raincoat, cape, cloaks and similar articles",578,2,9,Clothing,web,1.0
+261191,2018-02-07 18:56:25.663000+00:00,155208,155241,4,2,167432.0,Not VIP,1,1,25.3376,1,Yes,Yes,Yes,T1,T1,Yes,4,1,1,No,182725,105,Shirts,330,1,14,Clothing,web,1.0
+95945,2018-01-11 15:45:35.113000+00:00,15479,15486,2,2,77986.0,Not VIP,4,3,0.0,4,No,No,Yes,T4,T4,No,3,924,1,Yes,16477,39,Dresses,302,23,13,Clothing,web,1.0
+402546,2018-01-06 22:19:49.793000+00:00,2896,2899,2,2,74395.0,VIP,5,3,0.0,5,Yes,No,No,T1,T1,Yes,2,1,1,No,2983,28,N/D,238,20,9,Clothing,app,1.0
+65498,2018-01-09 08:45:07.996000+00:00,40210,40220,2,2,23795.0,VIP New,16,4,17.0858,16,No,No,Yes,T2,T2,Yes,3,924,1,Yes,44235,14," T-shirts, singlets and other vests",417,1,47,Clothing,web,0.0
+384546,2018-01-06 16:32:32.960000+00:00,17715,17722,2,2,13357.0,Not VIP,14,3,0.0,14,Yes,No,No,T3,T3,No,3,1,1,Yes,42519,443,,388,20,13,Clothing,app,1.0
+132562,2018-01-16 09:24:25.780000+00:00,80637,80656,2,2,103979.0,Not VIP,16,4,15.4853,16,Yes,No,No,T4,,No,3,1,1,Yes,90940,75,Dresses,724,1,27,Clothing,,0.0
+179718,2018-01-24 11:26:34.480000+00:00,73314,73332,2,2,135850.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,No,3,1,1,Yes,82275,1250,"Blouses, shirts and shirt-blouses",302,24,33,Clothing,web,0.0
+132961,2018-01-16 11:06:02.433000+00:00,62665,62681,4,2,6843.0,VIP New,4,3,0.0,4,Yes,No,Yes,VIP,VIP,No,6,1,1,No,69979,310,"Trousers, overalls, shorts",190,1,231,Clothing,,1.0
+374562,2018-01-10 10:54:01.636000+00:00,9140,9146,2,9,100936.0,Not VIP,14,3,0.0,14,Yes,No,Yes,,,Yes,3,921,1,Yes,68447,39,Footwear with outer soles of rubber or plastics,274,1,334,Shoes,,1.0
+311899,2018-02-18 01:46:25.146000+00:00,426,427,3,2,10793.0,Not VIP,7,1,0.0,7,Yes,Yes,No,T3,T3,Yes,3,1,0,No,430,92,Other footwear,15,1,62,Shoes,app,0.0
+402973,2018-01-30 03:33:03.403000+00:00,72292,72310,2,2,148957.0,VIP,1,1,5.0083,1,No,No,No,T1,T1,No,6,1,1,No,81071,251,Footwear with outer soles of rubber or plastics,33,26,115,Shoes,web,1.0
+293625,2018-02-14 06:12:12.920000+00:00,29852,29860,2,2,207457.0,VIP,1,1,5.0083,1,Yes,No,No,T1,T1,No,4,1738,1,No,32513,2," T-shirts, singlets and other vests",83,4,3,Clothing,web,0.0
+388171,2018-01-02 16:01:16.340000+00:00,7773,7778,2,2,55503.0,Not VIP,29,3,0.0,29,Yes,No,Yes,,,No,4,1,1,No,8149,75,Belts,130,1,73,Accessories,web,1.0
+373835,2018-02-01 03:35:34.253000+00:00,74227,74245,2,2,142734.0,Not VIP,7,1,0.0,7,No,No,Yes,T4,T4,Yes,4,1,0,Yes,83327,308," T-shirts, singlets and other vests",30,59,3,Clothing,web,1.0
+380286,2018-01-22 19:30:32.753000+00:00,46870,46883,2,2,61608.0,VIP,49,4,0.0,49,Yes,No,Yes,T1,T1,Yes,3,1,1,No,51828,1400,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",229,3,19,Clothing,web,1.0
+373004,2018-01-25 17:51:46.980000+00:00,6928,6932,1,3,254153.0,Not VIP,11,3,0.0,11,Yes,No,Yes,,,No,3,1,1,No,128270,904,Other footwear with outer soles of leather,24,4,91,Shoes,web,1.0
+400127,2018-01-31 22:40:41.540000+00:00,32727,32736,1,3,89989.0,Not VIP,11,3,0.0,11,Yes,No,Yes,T4,T4,No,3,1,1,Yes,35770,153,Other footwear with outer soles of leather,57,1,38,Shoes,app,1.0
+371777,2018-02-06 01:24:26.386000+00:00,75960,75978,2,2,253554.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,,,Yes,4,1,1,Yes,85369,558,Jackets and blazers,487,2,425,Clothing,web,1.0
+188091,2018-01-25 17:47:27.373000+00:00,26876,26884,1,3,114931.0,Not VIP,20,3,0.0,20,Yes,No,No,T4,,No,4,1,1,Yes,29178,87,Shirts,87,1,21,Clothing,,1.0
+205310,2018-01-28 21:23:47.143000+00:00,60250,60264,3,2,152506.0,Not VIP,5,3,10.6336,5,Yes,No,No,,,Yes,3,1,1,Yes,67183,14,Footwear with outer soles of rubber or plastics,317,1,11,Shoes,app,0.0
+376669,2018-01-18 07:12:07.680000+00:00,155140,155173,2,2,256056.0,Not VIP,19,4,0.0,19,Yes,No,No,T4,T4,Yes,3,1,1,Yes,182634,36,Dresses,1076,1,8,Clothing,,1.0
+280841,2018-02-11 13:52:36.296000+00:00,124776,124806,2,2,199414.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,,Yes,3,1,1,No,91894,69,,1214,1,6,Bags,web,0.0
+389664,2018-01-13 02:28:46.726000+00:00,38651,38661,2,2,143378.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,No,4,924,1,Yes,42465,283,Belts,38,5,6,Accessories,web,1.0
+286590,2018-02-12 18:06:53.923000+00:00,73451,73469,2,2,143678.0,VIP New,1,1,5.008,1,Yes,No,Yes,T2,T3,No,4,1,1,No,82430,25,"Coats: overcoats, raincoat, cape, cloaks and similar articles",33,2,3,Clothing,web,0.0
+385713,2018-01-19 00:31:19.596000+00:00,129923,129953,2,2,260593.0,Not VIP,3,2,0.0,3,No,No,Yes,,,No,3,1,1,No,151405,173,N/D,145,1,100,Shoes,web,1.0
+195225,2018-01-26 23:36:03.016000+00:00,100669,100691,2,2,145842.0,Not VIP,2,1,30.7832,2,Yes,No,No,T4,,No,3,1,1,Yes,115087,87,"Handbags, whether or not with shoulder strap, including those without handle",252,1,17,Bags,web,0.0
+382601,2018-01-09 14:31:58.776000+00:00,8549,8554,1,3,54451.0,VIP,14,3,0.0,14,Yes,No,Yes,T2,T2,Yes,3,924,1,Yes,8997,348,N/D,85,20,13,Clothing,,1.0
+280047,2018-02-11 09:51:55.570000+00:00,39427,39437,2,2,198912.0,Not VIP,5,3,0.0,5,No,No,Yes,T3,T3,Yes,3,1,1,Yes,79908,87,"Trousers, overalls, shorts",207,1,43,Clothing,web,0.0
+189556,2018-01-25 23:17:17.620000+00:00,76011,76029,2,2,142268.0,Not VIP,16,4,14.5035,16,No,No,No,T4,,No,3,1,1,Yes,85427,119,Footwear with outer soles of rubber or plastics,334,1,76,Shoes,web,0.0
+94390,2018-01-11 13:26:38.836000+00:00,65172,65189,2,2,59144.0,Not VIP,19,4,0.0,19,Yes,No,No,T2,T2,Yes,3,924,1,Yes,72881,458,Shirts,450,12,24,Clothing,web,0.0
+385919,2018-01-18 09:07:57.826000+00:00,5865,5869,2,2,123004.0,Not VIP,19,4,0.0,19,No,No,No,T3,T3,No,3,1,1,No,6109,158,Footwear with outer soles of rubber or plastics,52,2,205,Shoes,app,1.0
+116176,2018-01-13 06:43:38.910000+00:00,36539,36548,2,2,91986.0,VIP New,12,4,40.404,12,Yes,No,Yes,T1,T1,Yes,6,921,1,Yes,83254,142,"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar",11,2,1,Bags,app,0.0
+402603,2018-01-28 16:33:29.803000+00:00,12681,12688,2,2,268759.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T3,T3,Yes,3,1,1,Yes,13417,753,Footwear with outer soles of rubber or plastics,155,2,62,Shoes,app,1.0
+151299,2018-01-19 11:49:23.070000+00:00,87018,87040,2,2,116744.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,,No,3,1,1,Yes,98528,125,Other footwear with outer soles of leather,935,1,12,Shoes,web,0.0
+85767,2018-01-10 18:54:54.176000+00:00,61366,61380,4,4,70568.0,Not VIP,7,1,0.0,7,Yes,No,Yes,T4,,No,3,1,0,Yes,68481,634,N/D,568,8,223,Accessories,web,0.0
+377859,2018-02-13 10:52:08.516000+00:00,45083,45096,2,2,256617.0,Not VIP,21,2,0.0,21,Yes,No,No,T4,T4,Yes,3,1738,1,No,122716,37,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",36,4,24,Clothing,app,1.0
+251681,2018-02-06 05:03:18.110000+00:00,1153,1155,2,2,181515.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T4,,No,3,1,1,No,1173,181,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",212,2,65,Boys Clothing,web,0.0
+207666,2018-01-29 09:59:31.650000+00:00,3690,3694,5,2,154034.0,Not VIP,7,1,0.0,7,Yes,No,Yes,T3,T4,No,4,1,0,No,3812,92,Other footwear with outer soles of leather,15,1,37,Shoes,,0.0
+375611,2018-01-23 12:43:13.873000+00:00,43993,44005,2,2,12925.0,Not VIP,16,4,15.4853,16,Yes,Yes,No,VIP,VIP,Yes,6,1,1,No,16155,120,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",38,32,10,Teen Girl Clothing,,1.0
+45600,2018-01-08 08:39:36.486000+00:00,18553,18559,4,2,39548.0,VIP,1,1,35.7236,1,Yes,No,Yes,T3,T3,Yes,2,924,1,Yes,19845,504,"Trousers, overalls, shorts",335,1,24,Clothing,app,0.0
+38600,2018-01-07 14:27:35.510000+00:00,33084,33093,2,9,33856.0,VIP,9,3,0.0,9,Yes,No,No,T2,T2,No,3,1,1,No,36179,14,Dresses,617,1,42,Clothing,web,0.0
+373874,2018-01-21 02:34:10.663000+00:00,105700,105722,2,2,2657.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T2,T2,No,3,1,1,No,121285,81,"Of base metal, whether or not plated with precious metal",33,1,1300,Jewellery,app,1.0
+405625,2018-01-04 23:56:41.196000+00:00,54804,54816,2,2,19924.0,Not VIP,1,1,5.0083,1,Yes,No,No,T3,T3,Yes,4,1,1,Yes,60876,186,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",512,2,43,Clothing,web,1.0
+386708,2018-01-26 15:46:49.566000+00:00,151880,151913,2,2,37767.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T3,T3,No,3,1,1,Yes,178656,1891,Shirts,278,23,48,Boys Clothing,app,1.0
+397483,2018-01-03 14:03:54.700000+00:00,131597,131627,1,1,240510.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,T4,No,4,1,1,Yes,153493,177,Skirts,797,2,18,Clothing,web,1.0
+243535,2018-02-04 17:41:30.880000+00:00,35216,35225,2,2,176440.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T3,No,3,4490,1,No,38588,129,Footwear with outer soles of rubber or plastics,65,1,442,Girls Shoes,app,1.0
+79634,2018-01-10 09:36:20.230000+00:00,47393,47405,1,3,57931.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T3,T3,No,3,924,1,Yes,52406,190,,1071,1,8,Clothing,web,0.0
+212438,2018-01-30 04:33:28.610000+00:00,79077,79096,2,2,157160.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,,Yes,3,1,1,No,121323,1574," T-shirts, singlets and other vests",1028,10,219,Clothing,web,0.0
+61366,2018-01-08 23:41:20.270000+00:00,49005,49017,2,2,8468.0,VIP New,17,4,24.3652,17,Yes,No,Yes,VIP,VIP,No,4,921,1,Yes,54232,394,"Trousers, overalls, shorts",85,1,43,Clothing,app,0.0
+188183,2018-01-25 18:04:37.670000+00:00,98594,98617,2,2,141320.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T3,T4,No,3,1,1,No,112531,619,"Of base metal, whether or not plated with precious metal",395,21,17,Pre-Owned,web,0.0
+45283,2018-01-08 08:31:37.960000+00:00,13376,13383,1,3,17903.0,VIP,9,3,0.0,9,Yes,No,No,T1,T1,Yes,3,921,1,Yes,14177,87," T-shirts, singlets and other vests",215,1,8,Clothing,app,1.0
+210549,2018-01-29 19:37:15.293000+00:00,26876,26884,2,2,155623.0,VIP,1,1,0.0,1,Yes,No,No,T2,T2,Yes,3,1,1,Yes,29178,87,Shirts,190,1,29,Clothing,web,0.0
+244222,2018-02-04 20:10:22.740000+00:00,108737,108761,2,2,27309.0,VIP,30,3,10.9876,30,Yes,No,Yes,T3,T3,Yes,3,1,1,No,125038,132,"Trousers, overalls, shorts",33,12,8,Clothing,,1.0
+391377,2018-01-09 21:56:28.436000+00:00,25788,25796,1,3,51130.0,Not VIP,55,3,0.0,55,Yes,No,Yes,T4,T4,No,4,924,1,Yes,27949,702,"Coats: overcoats, raincoat, cape, cloaks and similar articles",613,9,14,Clothing,app,1.0
+223899,2018-02-01 01:14:37.636000+00:00,120057,120085,4,2,164358.0,Not VIP,19,4,0.0,19,Yes,No,No,T3,T3,Yes,3,1,1,No,91671,52,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",22,4,19,Clothing,,1.0
+370945,2018-01-14 17:46:29.890000+00:00,82212,82232,2,2,253109.0,Not VIP,11,3,0.0,11,Yes,No,No,,,No,4,1,1,No,1619,158,,11,12,231,Clothing,,1.0
+379098,2018-02-02 20:45:31.930000+00:00,149878,149911,1,3,257276.0,Not VIP,4,3,0.0,4,Yes,No,Yes,,,Yes,3,1,1,No,176264,1217,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",85,4,35,Clothing,web,1.0
+243022,2018-02-04 15:58:48.096000+00:00,58518,58531,2,2,176124.0,Not VIP,19,4,0.0,19,No,No,Yes,T3,T3,Yes,3,1,1,Yes,65155,124,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",85,1,8,Clothing,,1.0
+381833,2018-02-12 21:42:38.600000+00:00,93058,93080,2,2,129302.0,Not VIP,9,3,54.9921,9,No,No,No,,,No,3,1,1,No,105753,732,"Trousers, overalls, shorts",628,14,41,Clothing,web,1.0
+45466,2018-01-08 08:36:17.603000+00:00,37797,37807,2,9,39439.0,Not VIP,20,3,0.0,20,Yes,No,No,T2,T2,Yes,3,921,1,Yes,41476,19,Dresses,93,16,47,Clothing,web,1.0
+384042,2018-01-10 14:58:21.570000+00:00,14732,14739,1,3,259748.0,Not VIP,14,3,0.0,14,No,No,No,,,No,3,924,1,Yes,15674,60,Footwear with outer soles of rubber or plastics,286,4,23,Shoes,,1.0
+371563,2018-02-02 22:15:51.040000+00:00,30294,30302,2,2,253437.0,Not VIP,25,3,0.0,25,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,33022,5,,305,20,158,Shoes,app,1.0
+387288,2018-01-07 16:01:46.353000+00:00,199,199,1,3,259584.0,Not VIP,9,3,0.0,9,Yes,No,Yes,,,No,3,1,1,No,7743,81,Footwear with outer soles of rubber or plastics,11,1,38,Shoes,web,1.0
+33573,2018-01-06 16:49:23.743000+00:00,24550,24558,2,2,4355.0,Not VIP,4,3,0.0,4,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,Yes,32351,60,Jackets and blazers,51,3,2,Clothing,web,0.0
+372408,2018-01-27 11:54:53.186000+00:00,7415,7420,2,2,253852.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T3,T3,No,4,1,1,No,7773,398," T-shirts, singlets and other vests",44,1,8,Clothing,,1.0
+386869,2018-01-28 00:57:56.490000+00:00,48076,48088,2,2,150010.0,Not VIP,3,2,0.0,3,No,No,No,T4,T4,No,3,1,1,No,105893,46,Other footwear,33,1,23,Shoes,,1.0
+300936,2018-02-15 17:25:19.663000+00:00,70432,70449,2,2,211811.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T4,No,3,1,1,No,78928,55,,56,20,285,Baby Boy Clothing,app,0.0
+134733,2018-01-16 17:11:07.650000+00:00,81353,81373,4,2,105432.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T3,T3,No,4,1,1,Yes,91826,286,"Ties, bow ties and cravats",356,1,6,Accessories,web,0.0
+85283,2018-01-10 18:04:44.983000+00:00,14498,14505,2,2,8235.0,Not VIP,4,3,0.0,4,Yes,No,No,T3,T4,No,3,921,1,Yes,18534,67,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",334,1,2,Clothing,web,1.0
+55100,2018-01-08 15:37:22.553000+00:00,7871,7876,5,2,47107.0,Not VIP,16,4,34.1055,16,Yes,Yes,No,T3,,Yes,4,921,1,Yes,8252,247,Footwear with outer soles of rubber or plastics,724,2,152,Shoes,web,0.0
+263157,2018-02-08 03:57:57.800000+00:00,96643,96666,2,2,161781.0,Not VIP,3,2,0.0,3,Yes,No,No,T4,,No,3,1,1,No,110490,528," T-shirts, singlets and other vests",85,12,3,Clothing,web,0.0
+205591,2018-01-28 22:33:10.270000+00:00,2717,2720,2,2,152707.0,Not VIP,1,1,25.6928,1,No,No,No,T4,,No,3,1,1,Yes,2798,19,"Handbags, whether or not with shoulder strap, including those without handle",183,1,17,Bags,web,0.0
+303640,2018-02-16 08:07:22.846000+00:00,50075,50087,2,2,213489.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T1,T2,Yes,2,1,1,Yes,137297,97,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",1071,1,3,Clothing,app,1.0
+243335,2018-02-04 16:59:40.793000+00:00,2377,2380,2,2,176309.0,Not VIP,5,3,0.0,5,No,No,No,T4,T4,No,3,1,1,Yes,44843,87,Footwear with outer soles of rubber or plastics,171,1,11,Shoes,web,0.0
+20963,2018-01-04 19:11:09.853000+00:00,20769,20776,2,2,18786.0,VIP,1,1,0.0,1,Yes,No,Yes,T1,T1,No,3,1,1,Yes,22299,280," T-shirts, singlets and other vests",106,1,8,Clothing,app,0.0
+48089,2018-01-08 10:10:41.226000+00:00,82047,82067,2,2,41582.0,VIP,4,3,0.0,4,Yes,No,No,T1,T1,Yes,3,921,1,Yes,92656,69,,36,20,14,Clothing,,1.0
+218741,2018-01-31 06:31:22.326000+00:00,54435,54447,5,2,143061.0,VIP,1,1,0.0,1,Yes,No,No,T2,T2,No,4,1,1,Yes,60471,1931,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",1073,2,2,Clothing,app,0.0
+289590,2018-02-13 10:29:22.470000+00:00,127098,127128,2,2,11699.0,Not VIP,16,4,15.4853,16,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,Yes,147932,2121,Dresses,881,45,33,Clothing,web,0.0
+399849,2018-02-04 18:04:09.556000+00:00,3149,3152,2,2,267522.0,Not VIP,1,1,7.2224,1,Yes,No,No,T4,T4,No,4,4490,1,No,3243,611,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",15,42,18,Clothing,app,1.0
+248530,2018-02-05 15:36:01.173000+00:00,6458,6462,2,2,58737.0,Not VIP,35,4,0.0,35,Yes,Yes,Yes,T1,T1,No,4,1,1,No,6734,189," T-shirts, singlets and other vests",52,5,3,Clothing,app,0.0
+86248,2018-01-10 19:45:56.260000+00:00,25044,25052,1,3,41051.0,VIP,64,4,0.0,64,No,No,Yes,T1,T1,Yes,3,921,1,Yes,27099,81,"Shawls, scarves, mufflers, mantillas, veils and similar articles",35,1,6,Accessories,,0.0
+27599,2018-01-05 18:53:39.866000+00:00,54476,54488,2,2,24498.0,VIP New,1,1,5.0083,1,Yes,No,Yes,T1,T2,Yes,4,1,1,Yes,60517,2,,133,1,13,Clothing,web,1.0
+171057,2018-01-22 22:09:54.486000+00:00,49887,49899,4,2,130202.0,VIP,70,3,50.0303,70,Yes,No,Yes,T3,T3,Yes,6,1,1,No,55223,310,Other footwear,1185,29,38,Shoes,web,0.0
+381370,2018-02-08 09:55:44.313000+00:00,2554,2557,2,2,258446.0,Not VIP,9,3,0.0,9,No,No,No,,,Yes,3,1,1,No,4084,19,Footwear with outer soles of rubber or plastics,197,1,28,Shoes,web,1.0
+8217,2018-01-02 18:27:18.573000+00:00,9587,9593,1,3,7593.0,Not VIP,36,3,0.0,36,Yes,No,No,T4,T4,No,3,1,1,Yes,10112,391," T-shirts, singlets and other vests",33,36,24,Clothing,web,0.0
+165118,2018-01-21 22:01:22.943000+00:00,18931,18937,1,3,126208.0,Not VIP,4,3,0.0,4,No,No,Yes,T4,,No,3,1,1,No,20263,87,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",20,2,6,Accessories,web,0.0
+258683,2018-02-07 10:56:52.763000+00:00,57250,57263,2,2,185784.0,VIP,17,4,0.0,17,Yes,No,Yes,T2,T2,Yes,3,1,1,Yes,63681,797,"Of base metal, whether or not plated with precious metal",89,1,17,Jewellery,,0.0
+178269,2018-01-24 04:26:07.793000+00:00,95671,95694,2,2,11261.0,VIP New,16,4,15.4853,16,Yes,No,Yes,T2,T2,No,4,1,1,No,108916,53,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",1217,1,8,Clothing,app,0.0
+222230,2018-01-31 18:39:31.856000+00:00,108534,108558,2,2,97933.0,VIP,16,4,16.2855,16,Yes,No,Yes,T2,T3,No,3,1,1,No,124786,68,Items of leather clothing & accessories,33,23,47,Clothing,web,0.0
+132587,2018-01-16 09:32:41.160000+00:00,9692,9698,1,3,103998.0,Not VIP,24,3,0.0,24,No,No,No,T4,,No,3,1,1,Yes,10222,20,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",22,4,3,Clothing,web,0.0
+400254,2018-02-17 04:30:53.173000+00:00,50417,50429,2,2,153520.0,Not VIP,1,1,0.0,1,No,No,No,T2,T2,No,3,1,1,No,183109,1480,Other footwear,930,1,485,Girls Shoes,app,1.0
+399991,2018-01-31 05:44:56.896000+00:00,4592,4596,2,2,37744.0,VIP New,19,4,0.0,19,Yes,No,Yes,VIP,VIP,Yes,6,1,1,Yes,4763,73,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",81,1,42,Clothing,app,1.0
+374806,2018-01-02 08:27:45.830000+00:00,27606,27614,2,2,255090.0,Not VIP,1,1,34.336,1,Yes,No,No,T4,T4,No,3,1,1,No,29990,22,Jackets and blazers,412,1,55,Clothing,web,1.0
+163027,2018-01-21 14:41:06.426000+00:00,90888,90910,1,3,124749.0,Not VIP,20,3,0.0,20,No,No,No,T4,,No,3,1,1,Yes,103112,86,"Coats: overcoats, raincoat, cape, cloaks and similar articles",107,1,142,Clothing,web,0.0
+43169,2018-01-08 07:17:07.390000+00:00,61687,61702,2,2,37602.0,VIP New,61,3,0.0,61,Yes,No,Yes,VIP,VIP,No,3,921,1,Yes,68854,17,"Trousers, overalls, shorts",95,1,201,Clothing,,1.0
+165176,2018-01-21 22:15:34.270000+00:00,30872,30880,2,2,102347.0,Not VIP,9,3,0.0,9,No,No,No,T4,T4,No,3,1,1,Yes,33671,191,Footwear with outer soles of rubber or plastics,375,4,12,Shoes,web,1.0
+231975,2018-02-02 12:39:54.813000+00:00,70812,70829,1,3,169253.0,Not VIP,11,3,0.0,11,No,No,No,T4,,No,3,1,1,Yes,79355,90,"Trousers, overalls, shorts",1216,14,19,Clothing,web,0.0
+231663,2018-02-02 11:27:50.410000+00:00,111271,111296,1,3,169066.0,Not VIP,9,3,0.0,9,No,No,No,T3,,No,4,1,1,No,128155,182,"Blouses, shirts and shirt-blouses",825,36,114,Clothing,web,0.0
+227296,2018-02-01 16:05:10.346000+00:00,110055,110079,4,2,166381.0,Not VIP,1,1,5.0083,1,No,No,Yes,T4,,Yes,4,1,1,No,126682,565,"Trousers, overalls, shorts",22,6,34,Clothing,web,0.0
+294862,2018-02-14 12:07:08.416000+00:00,101916,101938,5,2,117305.0,VIP New,3,2,0.0,3,Yes,No,No,VIP,VIP,Yes,6,1,1,No,116595,194," T-shirts, singlets and other vests",214,2,18,Clothing,web,0.0
+228749,2018-02-01 21:00:52.503000+00:00,110447,110471,3,4,167339.0,Not VIP,7,1,0.0,7,Yes,No,No,T4,T4,Yes,8,1,0,Yes,127168,1065,N/D,787,8,17,Clothing,web,0.0
+259721,2018-02-07 14:25:32.166000+00:00,44189,44201,1,3,90366.0,Not VIP,11,3,0.0,11,Yes,No,Yes,T4,T4,No,3,1,1,Yes,48773,153,Other footwear with outer soles of leather,83,1,28,Shoes,web,0.0
+386120,2018-01-03 15:46:10.613000+00:00,22207,22215,2,2,260801.0,VIP New,3,2,0.0,3,Yes,No,No,T1,T1,Yes,3,1,1,No,90805,55,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",203,1,65,Girls Clothing,app,1.0
+393182,2018-02-01 04:33:51.440000+00:00,4239,4243,1,1,264326.0,Not VIP,1,1,0.0,1,No,No,No,,,No,3,1,1,Yes,2431,203,Other footwear,226,26,235,Shoes,web,1.0
+169755,2018-01-22 17:44:17.243000+00:00,52621,52633,2,2,51097.0,VIP New,85,3,0.0,85,Yes,No,Yes,VIP,VIP,Yes,6,1,1,Yes,105738,723,Jackets and blazers,160,4,33,Clothing,app,0.0
+251677,2018-02-06 05:00:13.790000+00:00,135675,135706,2,2,127390.0,VIP New,17,4,24.3652,17,Yes,No,No,VIP,VIP,Yes,6,1,1,No,158486,23,"Trousers, overalls, shorts",26,2,174,Clothing,,1.0
+17446,2018-01-04 07:59:15.056000+00:00,17963,17970,2,2,15755.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,,No,3,1,1,Yes,19192,308,"Handbags, whether or not with shoulder strap, including those without handle",30,1,17,Bags,app,0.0
+119572,2018-01-13 15:23:42.896000+00:00,43634,43646,1,3,94584.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,,No,3,1,1,Yes,10114,158,,38,20,80,Clothing,web,0.0
+296575,2018-02-14 18:55:15.073000+00:00,13294,13301,2,2,193270.0,Not VIP,30,3,10.2922,30,Yes,No,No,T3,T4,Yes,3,1,1,No,174367,46,"Coats: overcoats, raincoat, cape, cloaks and similar articles",267,1,13,Clothing,web,1.0
+2628,2018-01-01 16:53:06.960000+00:00,3570,3574,2,2,2516.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,,No,3,1,1,No,3688,20,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",584,2,6,Accessories,web,0.0
+251270,2018-02-06 02:55:31.783000+00:00,22749,22757,2,2,181268.0,Not VIP,12,4,28.7029,12,Yes,No,Yes,T4,,Yes,3,1,1,Yes,24498,37,,36,20,17,Bags,web,0.0
+374243,2018-01-21 06:26:06.700000+00:00,5974,5978,2,2,254811.0,Not VIP,1,1,21.312,1,Yes,No,No,,,Yes,3,1,1,Yes,6223,19,"Coats: overcoats, raincoat, cape, cloaks and similar articles",197,1,47,Clothing,web,1.0
+396256,2018-01-17 20:27:28.600000+00:00,11882,11887,2,2,13167.0,VIP New,1,1,5.0083,1,No,No,Yes,VIP,VIP,No,6,1,1,No,12558,28,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",305,1,17,Accessories,web,1.0
+174931,2018-01-23 15:35:12.666000+00:00,16328,16335,2,2,132695.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T4,,Yes,3,1,1,Yes,17390,212,Footwear with outer soles of rubber or plastics,95,1,36,Shoes,web,0.0
+253975,2018-02-06 14:19:29.046000+00:00,74356,74374,1,3,182891.0,Not VIP,29,3,0.0,29,Yes,No,Yes,T4,,No,3,4185,1,No,83471,212,,75,1,76,Shoes,app,0.0
+376260,2018-01-13 01:11:17.476000+00:00,8964,8969,2,2,73160.0,Not VIP,1,1,12.6688,1,Yes,No,Yes,,,Yes,3,924,1,Yes,41896,2,,104,1,17,Bags,web,1.0
+77242,2018-01-10 04:34:26.676000+00:00,17954,17961,2,2,64103.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T3,T4,No,3,924,1,Yes,63827,219,Footwear with outer soles of rubber or plastics,178,26,387,Shoes,web,0.0
+84544,2018-01-10 16:53:20.343000+00:00,14773,14780,1,3,69614.0,VIP,14,3,0.0,14,Yes,No,Yes,T2,T2,Yes,3,924,1,Yes,15717,73,Skirts,245,1,57,Clothing,web,0.0
+294513,2018-02-14 10:18:08.686000+00:00,95319,95342,2,2,207959.0,Not VIP,58,3,0.0,58,Yes,No,No,T4,T4,No,3,1,1,Yes,108488,587,"Trousers, overalls, shorts",128,1,269,Clothing,app,0.0
+372109,2018-01-19 12:23:19.910000+00:00,50049,50061,1,3,98020.0,Not VIP,14,3,0.0,14,Yes,No,No,T2,T2,No,3,6982,1,Yes,55406,177,,1115,79,19,Clothing,,1.0
+141328,2018-01-17 18:04:16.653000+00:00,83677,83698,1,3,47688.0,Not VIP,13,3,0.0,13,Yes,No,No,T3,T3,No,4,1,1,Yes,94570,183,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",22,2,71,Clothing,web,0.0
+137086,2018-01-17 01:28:59.620000+00:00,38062,38072,2,2,107123.0,Not VIP,20,3,0.0,20,Yes,No,No,T3,T3,No,4,1,1,Yes,41772,308," T-shirts, singlets and other vests",30,12,3,Clothing,,1.0
+404357,2018-01-27 11:14:48.600000+00:00,820,822,1,3,269588.0,Not VIP,14,3,0.0,14,Yes,No,No,,,No,4,1,1,No,831,2,Other footwear,44,4,91,Shoes,web,1.0
+128830,2018-01-15 16:17:20.693000+00:00,9931,9937,1,14,101347.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,1,1,No,10469,2,Articles of a kind normally carried in the pocket or in the handbag,15,1,6,Bags,web,0.0
+238977,2018-02-03 19:47:43.040000+00:00,75732,75750,3,4,173558.0,Not VIP,7,1,0.0,7,No,No,No,,,No,1,1,0,No,85075,145," T-shirts, singlets and other vests",998,8,308,Clothing,web,0.0
+398094,2018-02-06 17:17:21.690000+00:00,5766,5770,5,2,183259.0,Not VIP,1,1,5.0083,1,No,No,No,,,Yes,2,1,1,No,182402,831,"Handbags, whether or not with shoulder strap, including those without handle",691,27,17,Bags,web,1.0
+399922,2018-01-27 00:24:38.420000+00:00,135365,135396,2,2,130534.0,VIP New,1,1,5.0083,1,Yes,No,Yes,T2,T2,Yes,3,1,1,No,158102,642,Dresses,573,1,8,Clothing,web,1.0
+120590,2018-01-13 19:59:53.213000+00:00,2849,2852,2,2,95371.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,Yes,3,1,1,Yes,2936,575,Other footwear,30,1,38,Shoes,,1.0
+101573,2018-01-12 03:43:13.426000+00:00,51508,51520,2,2,9458.0,VIP,16,4,17.0858,16,Yes,No,No,T1,T2,Yes,3,924,1,Yes,76151,35,Dresses,384,1,9,Clothing,,0.0
+401566,2018-02-01 22:53:41.730000+00:00,13943,13950,2,2,63250.0,VIP New,4,3,21.2546,4,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,128342,28,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",17,3,148,Clothing,web,1.0
+258771,2018-02-07 11:13:12.343000+00:00,78546,78564,2,2,185832.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,1,1,No,88382,101,Other footwear,249,2,97,Shoes,web,0.0
+385082,2018-01-01 07:47:27.893000+00:00,82721,82742,2,2,260265.0,Not VIP,3,2,0.0,3,No,No,No,,,No,3,1,1,Yes,93452,1454,Dresses,921,35,238,Clothing,web,1.0
+371799,2018-01-13 04:50:39.663000+00:00,150937,150970,2,2,85004.0,Not VIP,12,4,35.7236,12,No,No,No,T4,T4,No,3,924,1,Yes,177533,761,Skirts,59,1,9,Clothing,,1.0
+197353,2018-01-27 10:41:09.070000+00:00,8095,8100,2,2,147191.0,VIP,61,3,0.0,61,Yes,No,Yes,T3,,Yes,4,1,1,No,8489,87," T-shirts, singlets and other vests",106,4,27,Clothing,web,1.0
+67903,2018-01-09 12:23:16.376000+00:00,52750,52762,2,2,56971.0,Not VIP,16,4,15.4853,16,Yes,No,Yes,T4,T4,No,3,921,1,Yes,58496,13,,163,2,171,Baby Boy Clothing,web,0.0
+404862,2018-01-18 15:27:08.296000+00:00,19034,19040,2,2,8671.0,Not VIP,60,3,0.0,60,Yes,No,No,T4,T4,No,3,1,1,Yes,69851,433,"Trousers, overalls, shorts",1115,6,249,Clothing,app,1.0
+397913,2018-01-05 12:03:45.263000+00:00,41962,41972,5,2,21878.0,Not VIP,19,4,0.0,19,No,No,No,,,No,3,1,1,Yes,46255,48,"Trousers, overalls, shorts",968,1,14,Clothing,web,1.0
+104721,2018-01-12 10:55:42.620000+00:00,8890,8895,2,2,84294.0,Not VIP,16,4,0.0,16,No,No,No,T4,,No,3,924,1,Yes,9361,158," T-shirts, singlets and other vests",38,12,182,Clothing,web,0.0
+99545,2018-01-11 22:00:17.653000+00:00,2388,2391,1,3,80646.0,Not VIP,14,3,0.0,14,No,No,Yes,T4,,No,3,924,1,Yes,18550,87," T-shirts, singlets and other vests",207,1,2,Clothing,web,0.0
+396221,2018-02-09 12:37:43.766000+00:00,33351,33360,2,2,192104.0,Not VIP,44,4,43.2407,44,Yes,No,No,T4,T4,No,4,1,1,No,36488,79,Footwear with outer soles of rubber or plastics,174,26,413,Shoes,web,1.0
+225238,2018-02-01 08:40:54.070000+00:00,109413,109437,5,2,91009.0,Not VIP,46,4,5.008,46,Yes,No,Yes,T2,T3,Yes,3,1,1,No,125858,1289,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",305,24,14,Clothing,web,0.0
+192262,2018-01-26 12:44:23.546000+00:00,13199,13206,2,2,143933.0,VIP,9,3,0.0,9,Yes,No,Yes,T2,T2,No,3,1,1,Yes,13981,87,"Trousers, overalls, shorts",211,1,63,Clothing,app,1.0
+388329,2018-01-08 23:45:25.020000+00:00,60719,60733,2,2,261942.0,Not VIP,24,3,0.0,24,No,No,No,,,No,3,1,1,Yes,67716,17,Footwear with outer soles of rubber or plastics,145,1,23,Shoes,web,1.0
+293276,2018-02-14 03:53:56.330000+00:00,8408,8413,2,2,52285.0,Not VIP,1,1,12.6688,1,Yes,No,Yes,T2,T4,No,3,1,1,No,149034,22,,286,1,17,Bags,web,0.0
+402200,2018-01-05 10:07:01.970000+00:00,11064,11069,1,3,201824.0,Not VIP,20,3,0.0,20,Yes,No,No,T2,T2,No,3,1,1,Yes,11679,17,Footwear with outer soles of rubber or plastics,11,1,23,Shoes,,1.0
+384928,2018-01-02 05:13:47.530000+00:00,28757,28765,1,1,260183.0,Not VIP,1,1,0.0,1,Yes,No,No,T4,,Yes,3,1,1,Yes,31267,97,Other footwear,397,4,30,Shoes,web,1.0
+20669,2018-01-04 18:09:52.750000+00:00,20461,20468,3,4,18521.0,Not VIP,7,1,0.0,7,No,No,Yes,,,No,3,1,0,Yes,21950,18,N/D,16,8,15,Shoes,web,0.0
+248682,2018-02-05 16:02:43.680000+00:00,116388,116417,2,2,179598.0,Not VIP,7,1,0.0,7,No,No,No,T2,T3,Yes,7,1,1,No,134468,74,Footwear with outer soles of leather or composition leather,106,1,5,Shoes,web,0.0
+299070,2018-02-15 09:38:59.336000+00:00,115138,115165,2,2,210651.0,Not VIP,10,3,0.0,10,Yes,No,No,T4,,No,4,1,1,No,142599,1863,Sunglasses,259,10,784,Accessories,web,0.0
+23820,2018-01-05 07:22:02.983000+00:00,22928,22936,2,2,21280.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,No,3,1,1,No,24706,14,"Trousers, overalls, shorts",44,1,55,Clothing,web,0.0
+204762,2018-01-28 19:22:29.796000+00:00,32890,32899,2,2,152111.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,Yes,3,1,1,Yes,35954,167,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",177,2,8,Activewear,web,1.0
+6522,2018-01-02 13:02:35.200000+00:00,7939,7944,2,2,6088.0,VIP New,1,1,5.0083,1,Yes,No,Yes,VIP,T1,No,6,1,1,No,8322,587,,7,20,34,Clothing,app,0.0
+219922,2018-01-31 11:19:56.236000+00:00,74346,74364,1,3,161793.0,Not VIP,24,3,0.0,24,Yes,No,Yes,T4,T4,No,4,1,1,Yes,83461,87," T-shirts, singlets and other vests",22,1,19,Clothing,,0.0
+257099,2018-02-07 01:34:53.686000+00:00,28775,28783,2,2,184850.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,T4,Yes,3,1,1,Yes,33325,155,Dresses,125,1,9,Clothing,web,0.0
+382407,2018-01-08 12:26:26+00:00,2006,2009,2,2,258955.0,Not VIP,3,2,0.0,3,No,No,Yes,T4,T4,No,4,921,1,Yes,2061,158,Footwear with outer soles of rubber or plastics,435,2,205,Shoes,web,1.0
+28899,2018-01-05 23:07:55.103000+00:00,6111,6115,2,2,25640.0,VIP,24,3,0.0,24,Yes,No,No,T2,T2,No,4,1,1,Yes,6369,99,Footwear with outer soles of rubber or plastics,33,26,199,Shoes,app,0.0
+378715,2018-01-05 10:52:47.143000+00:00,52865,52877,2,2,94189.0,Not VIP,51,4,0.0,51,Yes,No,No,T2,T2,Yes,4,1,1,No,58630,23,Other footwear,208,2,276,Shoes,web,1.0
+192226,2018-01-26 12:34:18.073000+00:00,8283,8288,1,3,89527.0,VIP New,3,2,0.0,3,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,8697,92,"Trousers, overalls, shorts",330,1,66,Clothing,app,0.0
+238508,2018-02-03 17:49:17.360000+00:00,113299,113325,2,2,173254.0,VIP,1,1,5.0083,1,No,No,No,T1,T1,No,3,1,1,No,130650,337,Footwear with outer soles of rubber or plastics,1202,1,38,Shoes,web,0.0
+74665,2018-01-09 22:04:25.473000+00:00,56133,56146,2,2,62103.0,VIP New,4,3,0.0,4,Yes,No,Yes,T1,T1,Yes,6,924,1,Yes,62401,1622,"Shawls, scarves, mufflers, mantillas, veils and similar articles",331,10,1,Accessories,,0.0
+387552,2018-01-08 06:36:34.290000+00:00,3316,3319,1,3,261539.0,Not VIP,13,3,0.0,13,Yes,No,No,,,No,4,921,1,Yes,60670,14,"Handbags, whether or not with shoulder strap, including those without handle",128,1,17,Bags,app,1.0
+71519,2018-01-09 16:50:19.443000+00:00,319,320,2,2,33.0,Not VIP,12,4,0.0,12,Yes,Yes,Yes,VIP,VIP,No,6,924,1,Yes,321,74,Footwear with outer soles of leather or composition leather,106,1,37,Shoes,web,0.0
+382622,2018-01-20 03:51:23.820000+00:00,42695,42705,2,2,20099.0,Not VIP,12,4,35.7236,12,Yes,No,No,T4,T4,No,3,1,1,Yes,47081,87,"Trousers, overalls, shorts",85,1,9,Clothing,app,1.0
+124859,2018-01-14 20:11:00.923000+00:00,30378,30386,2,2,98514.0,Not VIP,36,3,0.0,36,No,No,No,T4,,No,3,1,1,No,33126,892,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",370,3,39,Boys Clothing,web,0.0
+84835,2018-01-10 17:18:47.543000+00:00,22760,22768,4,2,69847.0,Not VIP,9,3,41.0947,9,No,No,No,,,No,3,924,1,Yes,24512,504,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",92,1,35,Clothing,web,0.0
+400171,2018-01-04 17:40:42.150000+00:00,16471,16478,3,4,143685.0,Not VIP,7,1,0.0,7,Yes,No,No,T4,T4,No,4,1,0,Yes,17547,219,Articles of a kind normally carried in the pocket or in the handbag,560,8,17,Accessories,web,1.0
+90473,2018-01-11 05:46:54.633000+00:00,53097,53109,2,2,10030.0,VIP,1,1,0.0,1,Yes,No,No,VIP,VIP,No,6,921,1,Yes,58887,101,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",48,2,3,Clothing,app,1.0
+65118,2018-01-09 08:09:15.516000+00:00,156533,156566,2,2,54834.0,VIP,70,3,0.0,70,Yes,No,No,T2,T2,Yes,3,921,1,Yes,184351,9,"Ties, bow ties and cravats",34,1,6,Accessories,app,1.0
+381868,2018-01-11 19:21:03.996000+00:00,13533,13540,2,2,258687.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,Yes,4,924,1,Yes,14351,33,"Blouses, shirts and shirt-blouses",79,1,42,Clothing,web,1.0
+185367,2018-01-25 09:13:11.573000+00:00,56232,56245,2,2,29495.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T3,T3,No,3,1,1,No,90864,28,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",2,17,371,Clothing,app,1.0
+115198,2018-01-13 04:29:21.226000+00:00,27793,27801,2,2,91575.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,T4,Yes,3,924,1,Yes,82744,953,"Trousers, overalls, shorts",254,1,47,Clothing,web,0.0
+390040,2018-01-09 14:08:07.193000+00:00,47086,47098,5,2,262797.0,Not VIP,21,2,0.0,21,No,No,No,T4,T4,No,4,924,1,Yes,52063,101,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",334,26,52,Clothing,web,1.0
+309479,2018-02-17 13:54:03.010000+00:00,132180,132210,2,2,216859.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T3,T4,Yes,4,1,1,No,154199,311,Other footwear with outer soles of leather,15,1,38,Shoes,web,0.0
+386770,2018-02-12 12:10:57.866000+00:00,2428,2431,2,2,203234.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T3,No,3,1,1,No,10763,92," T-shirts, singlets and other vests",1283,1,35,Clothing,app,1.0
+393215,2018-01-05 21:53:53.423000+00:00,38407,38417,2,2,98749.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,No,3,1,1,Yes,42171,25,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",87,2,52,Clothing,app,1.0
+252256,2018-02-06 07:50:22.566000+00:00,117344,117373,2,2,136118.0,Not VIP,17,4,24.3652,17,Yes,No,Yes,T4,,No,4,4185,1,No,135618,13,N/D,132,2,65,Girls Clothing,,0.0
+372708,2018-01-08 16:19:29.810000+00:00,54065,54077,1,3,254003.0,Not VIP,11,3,0.0,11,Yes,No,Yes,,,No,3,921,1,Yes,129752,658,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",236,2,9,Clothing,web,1.0
+22708,2018-01-05 01:50:23.790000+00:00,19714,19720,2,2,20347.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T4,T4,No,3,1,1,No,21128,50," T-shirts, singlets and other vests",141,4,55,Clothing,web,0.0
+400657,2018-01-12 09:28:54.803000+00:00,56539,56552,2,5,69329.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,T4,No,3,922,1,Yes,62866,4,Footwear with outer soles of rubber or plastics,240,2,4,Shoes,app,1.0
+250564,2018-02-05 23:26:45.443000+00:00,40650,40660,2,2,180841.0,Not VIP,4,3,5.8485,4,Yes,No,Yes,T3,T4,Yes,3,4185,1,No,108211,33," T-shirts, singlets and other vests",1216,1,27,Clothing,app,1.0
+44569,2018-01-08 08:10:10.653000+00:00,37568,37577,2,2,38706.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T2,T2,No,3,921,1,Yes,41223,13,Footwear with outer soles of rubber or plastics,11,26,79,Boys Shoes,,0.0
+179901,2018-01-24 12:06:06.833000+00:00,96214,96237,2,2,135967.0,Not VIP,4,3,35.7236,4,No,No,Yes,T4,,No,3,1,1,Yes,101813,468,N/D,22,20,14,Clothing,web,0.0
+263518,2018-02-08 06:17:57.233000+00:00,22312,22320,2,2,188737.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,No,3,1,1,Yes,24014,140,,86,4,18,Clothing,app,0.0
+268870,2018-02-09 03:38:17.060000+00:00,63264,63280,5,2,130994.0,VIP,39,4,7.6715,39,Yes,No,No,T3,T4,No,3,1,1,No,70681,172,Tableware and kitchenware,186,1,1,Homeware,web,0.0
+371448,2018-01-24 04:41:39.936000+00:00,139744,139775,2,2,26905.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,T4,No,4,1,1,Yes,163570,290,"Trousers, overalls, shorts",133,1,176,Clothing,app,1.0
+230405,2018-02-02 05:05:40.356000+00:00,87591,87613,2,2,63377.0,Not VIP,16,4,0.0,16,Yes,No,No,T3,T3,No,3,1,1,No,114839,1303,"T-shirts, singlets and other vests",85,1,48,Boys Clothing,,0.0
+384167,2018-01-15 19:58:45.986000+00:00,37407,37416,2,2,259820.0,Not VIP,9,3,0.0,9,Yes,No,No,T3,T3,Yes,3,1,1,Yes,124084,839,Other footwear,30,1,5,Shoes,web,1.0
+295930,2018-02-14 16:19:50.223000+00:00,99341,99364,2,2,118511.0,Not VIP,16,4,15.4853,16,No,No,No,T4,T4,No,3,1,1,No,113451,25,Jackets and blazers,85,2,2,Clothing,web,0.0
+382933,2018-02-02 20:44:20.103000+00:00,61693,61708,2,2,186426.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,T4,No,3,1,1,Yes,138145,163,N/D,35,2,493,Clothing,web,1.0
+388640,2018-01-20 10:27:51.520000+00:00,28354,28362,5,2,21752.0,VIP,69,3,21.0,69,Yes,No,Yes,T2,T2,Yes,3,1,1,No,30827,118,"Trousers, overalls, shorts",122,2,8,Activewear,web,1.0
+43641,2018-01-08 07:36:58.393000+00:00,43064,43075,2,2,37972.0,VIP New,19,4,0.0,19,Yes,No,No,VIP,VIP,Yes,6,921,1,Yes,47500,67," T-shirts, singlets and other vests",933,1,27,Clothing,,1.0
+198682,2018-01-27 15:47:48.786000+00:00,10335,10341,2,2,148069.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,3431,1,Yes,10891,464,Footwear with outer soles of rubber or plastics,15,2,276,Shoes,web,0.0
+27335,2018-01-05 18:04:45.813000+00:00,25402,25410,2,2,24265.0,VIP New,46,4,5.008,46,Yes,No,Yes,VIP,T1,Yes,3,1,1,Yes,27513,25," T-shirts, singlets and other vests",22,23,8,Clothing,,0.0
+371439,2018-01-19 22:34:22.360000+00:00,86892,86914,2,2,253377.0,Not VIP,1,1,5.0083,1,Yes,No,No,,,Yes,4,1,1,Yes,98370,41,Other footwear,40,1,30,Shoes,web,1.0
+146133,2018-01-18 13:59:26.860000+00:00,3893,3897,2,2,112624.0,VIP,64,4,0.0,64,Yes,No,No,T2,T2,Yes,4,1,1,No,4023,5,Other footwear,461,1,23,Shoes,web,0.0
+45293,2018-01-08 08:31:53.006000+00:00,555,557,2,2,39295.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,,No,3,921,1,Yes,560,5,Footwear with outer soles of rubber or plastics,130,1,72,Shoes,web,0.0
+372907,2018-02-04 19:21:05.596000+00:00,39798,39808,2,2,254107.0,Not VIP,24,3,0.0,24,No,No,No,,,Yes,3,1,1,Yes,43762,452,"Coats: overcoats, raincoat, cape, cloaks and similar articles",459,1,29,Clothing,,1.0
+85935,2018-01-10 19:13:04.086000+00:00,61441,61456,4,2,8991.0,Not VIP,4,3,38.8178,4,Yes,Yes,Yes,VIP,VIP,Yes,6,921,1,Yes,68567,81,"Handbags, whether or not with shoulder strap, including those without handle",84,1,17,Bags,app,0.0
+221690,2018-01-31 16:59:20.300000+00:00,1638,1640,1,3,162904.0,Not VIP,36,3,0.0,36,No,No,No,T4,T4,No,3,1,1,No,4215,81,Other footwear,36,1,53,Shoes,web,0.0
+112914,2018-01-12 22:56:31.230000+00:00,703,705,2,2,86302.0,VIP New,1,1,20.9568,1,Yes,No,Yes,VIP,VIP,No,6,924,1,No,110182,92,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",15,1,18,Clothing,web,1.0
+29119,2018-01-05 23:59:14.703000+00:00,156869,156902,2,2,25836.0,VIP New,19,4,0.0,19,Yes,No,Yes,VIP,VIP,No,6,59,1,Yes,184766,380,Dresses,394,2,238,Clothing,app,1.0
+399111,2018-01-10 22:13:42.716000+00:00,155218,155251,1,3,267153.0,Not VIP,24,3,0.0,24,No,No,No,T4,,No,3,924,1,Yes,182739,1438,Other footwear,15,24,186,Shoes,web,1.0
+29940,2018-01-06 04:07:50.343000+00:00,14644,14651,2,2,17688.0,Not VIP,41,4,5.0,41,Yes,No,Yes,T2,T2,Yes,3,1,1,No,15574,33,,232,1,1,Clothing,app,0.0
+293277,2018-02-14 03:55:05.076000+00:00,127990,128020,2,2,124717.0,VIP New,46,4,5.008,46,No,No,No,VIP,VIP,No,4,1,1,No,149042,717,"Shawls, scarves, mufflers, mantillas, veils and similar articles",1292,1,1,Accessories,app,0.0
+44300,2018-01-08 08:01:38.390000+00:00,21026,21033,1,3,38487.0,VIP,4,3,0.0,4,Yes,No,Yes,T1,T1,Yes,3,921,1,Yes,22582,99,Footwear with outer soles of rubber or plastics,80,26,45,Shoes,app,0.0
+143752,2018-01-18 03:45:12.036000+00:00,153380,153413,2,2,111686.0,Not VIP,3,2,0.0,3,Yes,No,No,T4,,Yes,3,1,1,Yes,180517,1041,,183,20,19,Clothing,web,1.0
+402895,2018-01-13 08:42:55.800000+00:00,3605,3609,2,2,268899.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T4,,No,3,924,1,Yes,14059,82,"Handbags, whether or not with shoulder strap, including those without handle",128,1,17,Bags,web,1.0
+384992,2018-02-02 10:32:02.173000+00:00,44831,44844,2,2,260217.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,No,3,1,1,Yes,178123,242,Other footwear,405,1,5,Shoes,,1.0
+388546,2018-01-16 02:45:35.276000+00:00,125817,125847,1,3,262051.0,Not VIP,4,3,0.0,4,Yes,No,Yes,,,No,3,1,1,No,146327,461,Other footwear with outer soles of leather,521,1,76,Shoes,web,1.0
+142398,2018-01-17 21:31:30.616000+00:00,84020,84041,2,2,110747.0,Not VIP,1,1,5.008,1,Yes,No,Yes,T3,T4,No,3,1,1,No,94965,126,Other,85,1,6,Accessories,app,0.0
+81352,2018-01-10 12:27:37.893000+00:00,26852,26860,2,2,7577.0,VIP New,4,3,0.0,4,Yes,No,Yes,VIP,VIP,No,4,1,1,No,66111,72," T-shirts, singlets and other vests",570,1,35,Clothing,web,0.0
+11810,2018-01-03 10:45:01+00:00,2163,2166,2,2,10793.0,Not VIP,7,1,0.0,7,Yes,Yes,No,T4,T4,Yes,3,1,0,Yes,2225,99,Footwear with outer soles of rubber or plastics,15,26,199,Shoes,web,0.0
+391054,2018-01-22 23:29:50.516000+00:00,92505,92527,2,2,263302.0,Not VIP,11,3,0.0,11,No,No,No,,,No,3,1,1,No,105057,764,Dresses,63,2,8,Clothing,app,1.0
+199925,2018-01-27 20:31:59.623000+00:00,100945,100967,5,2,148932.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T2,No,3,1,1,No,115403,1262," T-shirts, singlets and other vests",15,14,3,Clothing,app,0.0
+235076,2018-02-03 00:42:42.856000+00:00,154526,154558,1,1,171196.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,Yes,3,1,1,No,181881,33,"Trousers, overalls, shorts",144,1,162,Clothing,web,1.0
+206125,2018-01-29 01:37:30.933000+00:00,19526,19532,2,2,153067.0,Not VIP,1,1,0.0,1,Yes,No,No,T3,T3,Yes,3,1,1,Yes,20922,181,Jackets and blazers,65,2,85,Girls Clothing,web,0.0
+371292,2018-01-11 01:51:15.290000+00:00,81467,81487,2,2,73229.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T2,T2,No,3,921,1,Yes,91966,1413,Articles of apparel and clothing accessories,906,24,8,Clothing,app,1.0
+62267,2018-01-09 01:50:24.240000+00:00,49548,49560,2,2,52766.0,Not VIP,12,4,0.0,12,Yes,No,No,T4,T4,No,3,921,1,Yes,54836,132," T-shirts, singlets and other vests",72,12,2,Clothing,app,0.0
+63795,2018-01-09 05:24:02.293000+00:00,11850,11855,2,2,53878.0,Not VIP,15,4,0.0,15,No,No,No,T2,T2,Yes,3,921,1,Yes,12524,99,Footwear with outer soles of rubber or plastics,139,26,446,Shoes,web,0.0
+379416,2018-02-11 00:50:05.266000+00:00,8866,8871,1,3,257450.0,Not VIP,9,3,0.0,9,Yes,No,No,,,Yes,3,1,1,Yes,9331,87,,1216,1,6,Accessories,app,1.0
+186759,2018-01-25 14:15:29.180000+00:00,98194,98217,5,2,140403.0,Not VIP,4,3,0.0,4,Yes,No,No,T2,T2,No,3,1,1,No,112033,407,Shirts,479,1,54,Clothing,web,0.0
+233451,2018-02-02 17:52:47.256000+00:00,104458,104480,2,2,170162.0,Not VIP,5,3,0.0,5,No,No,No,T4,T4,No,4,1,1,Yes,119721,69,Other footwear with outer soles of leather,44,1,5,Shoes,web,0.0
+242900,2018-02-04 15:36:01.480000+00:00,150363,150396,2,2,35680.0,VIP,60,3,0.0,60,Yes,No,Yes,T1,T2,Yes,3,1,1,No,176850,105,,1214,1,8,Clothing,web,1.0
+380800,2018-01-12 12:58:19.833000+00:00,14835,14842,2,3,258162.0,Not VIP,9,3,0.0,9,Yes,No,Yes,,,No,3,924,1,Yes,16860,445,"Trousers, overalls, shorts",442,4,3,Clothing,web,1.0
+175444,2018-01-23 17:07:07.516000+00:00,64749,64766,2,2,60742.0,Not VIP,11,3,0.0,11,Yes,No,Yes,T4,T4,No,4,1,1,Yes,72390,331,"Trousers, overalls, shorts",80,1,306,Clothing,app,0.0
+404040,2018-01-23 09:21:06.453000+00:00,38942,38952,2,2,269423.0,Not VIP,3,2,0.0,3,No,No,No,T4,T4,Yes,3,1,1,Yes,42793,81,Other footwear with outer soles of leather,271,1,95,Shoes,web,1.0
+175104,2018-01-23 16:02:55.550000+00:00,58411,58424,2,2,78535.0,VIP,16,4,17.0858,16,Yes,No,No,T3,T3,No,3,1,1,Yes,65028,362,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",15,1,18,Clothing,app,0.0
+402364,2018-01-05 02:14:59.683000+00:00,30628,30636,2,2,268649.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,33405,93,Jackets and blazers,8,3,55,Clothing,,1.0
+6634,2018-01-02 13:26:21.570000+00:00,251,251,3,11,6189.0,Not VIP,3,2,0.0,3,Yes,Yes,Yes,VIP,VIP,No,3,1,1,No,2523,92," T-shirts, singlets and other vests",196,1,14,Clothing,app,1.0
+984,2018-01-01 08:05:04.030000+00:00,35066,35075,4,2,941.0,VIP New,15,4,12.9314,15,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,38424,46,Items of leather clothing & accessories,52,12,114,Clothing,web,1.0
+153003,2018-01-19 17:37:36.783000+00:00,49914,49926,4,2,18210.0,VIP New,16,4,0.0,16,No,No,No,T1,T1,Yes,3,1,1,No,99222,11,Articles of a kind normally carried in the pocket or in the handbag,33,2,1,Homeware,web,0.0
+61978,2018-01-09 01:06:18.210000+00:00,14170,14177,1,3,52552.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,T4,No,3,921,1,Yes,15052,75," T-shirts, singlets and other vests",671,1,29,Clothing,web,0.0
+113564,2018-01-13 00:20:55.696000+00:00,149960,149993,1,3,52175.0,Not VIP,20,3,0.0,20,Yes,No,No,T3,T3,No,3,921,1,Yes,176358,73,"Coats: overcoats, raincoat, cape, cloaks and similar articles",106,1,29,Clothing,app,1.0
+258235,2018-02-07 07:47:23.833000+00:00,24190,24198,6,2,7094.0,VIP,3,2,0.0,3,Yes,No,Yes,VIP,T1,No,4,1,1,Yes,26104,369,Other footwear,443,8,15,Shoes,app,0.0
+273325,2018-02-09 20:47:02.783000+00:00,38366,38376,2,2,194718.0,Not VIP,7,1,0.0,7,Yes,No,No,T4,T4,No,4,1,0,Yes,42127,99,Footwear with outer soles of rubber or plastics,22,26,420,Shoes,web,0.0
+56944,2018-01-08 17:23:01.983000+00:00,5176,5180,1,3,48553.0,Not VIP,11,3,0.0,11,Yes,No,No,T4,,Yes,3,924,1,Yes,5378,280," T-shirts, singlets and other vests",85,1,14,Clothing,web,0.0
+127284,2018-01-15 10:22:51.926000+00:00,76457,76475,1,3,100281.0,Not VIP,10,3,0.0,10,Yes,No,No,T4,,No,3,1,1,No,85962,23,Other footwear,1076,26,210,Shoes,web,0.0
+285298,2018-02-12 13:14:55.960000+00:00,19295,19301,1,3,88781.0,VIP New,9,3,0.0,9,No,No,No,T1,T2,Yes,3,5448,1,No,20665,46,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",402,4,3,Clothing,,0.0
+276512,2018-02-10 14:02:30.336000+00:00,44268,44280,5,2,61583.0,Not VIP,7,1,0.0,7,Yes,No,Yes,T2,T2,Yes,7,1,0,No,48857,859," T-shirts, singlets and other vests",15,10,14,Clothing,web,1.0
+161275,2018-01-21 07:15:20.936000+00:00,66198,66215,2,2,123510.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,,Yes,3,1,1,No,74059,1028,Footwear with outer soles of leather or composition leather,15,1,28,Shoes,web,0.0
+280281,2018-02-11 11:05:43.950000+00:00,69942,69959,2,2,199058.0,Not VIP,41,4,10.621,41,Yes,No,Yes,T4,,No,4,1,1,No,78371,74,Other footwear with outer soles of leather,33,1,38,Shoes,app,0.0
+37796,2018-01-07 11:36:43.456000+00:00,2349,2352,2,2,23788.0,VIP New,1,1,5.1665,1,Yes,No,Yes,VIP,VIP,Yes,3,1,1,No,2416,2,Shirts,147,6,27,Clothing,web,0.0
+386060,2018-01-26 14:20:00.236000+00:00,26538,26546,1,3,248426.0,Not VIP,10,3,0.0,10,Yes,No,Yes,T4,T4,Yes,3,4,1,Yes,64937,440,Jackets and blazers,125,2,18,Clothing,web,1.0
+121352,2018-01-14 00:38:39.510000+00:00,25235,25243,2,2,95959.0,Not VIP,7,1,0.0,7,Yes,No,Yes,T1,T1,No,6,1,0,No,27319,404,Sunglasses,15,1,527,Accessories,web,0.0
+8755,2018-01-02 20:25:09.436000+00:00,24337,24345,1,3,8093.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T4,,No,3,1,1,Yes,44074,740,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",11,1,21,Clothing,web,1.0
+175722,2018-01-23 18:03:49.513000+00:00,4392,4396,2,2,133224.0,Not VIP,31,1,40.5563,31,Yes,No,No,T3,,Yes,6,1,1,No,23481,92,"Handbags, whether or not with shoulder strap, including those without handle",15,1,17,Accessories,web,0.0
+178987,2018-01-24 08:15:17.513000+00:00,16023,16030,2,2,135382.0,VIP,1,1,5.008,1,Yes,No,No,T4,T4,No,3,1,1,No,17065,92,,36,20,17,Homeware,web,0.0
+233088,2018-02-02 16:40:16.880000+00:00,32122,32131,2,2,169941.0,Not VIP,58,3,0.0,58,No,No,No,T4,,No,3,1,1,Yes,17219,137,,1214,20,29,Clothing,web,0.0
+14396,2018-01-03 18:28:11.676000+00:00,15327,15334,2,2,13074.0,VIP New,19,4,0.0,19,Yes,No,Yes,VIP,VIP,Yes,4,332,1,No,16308,120,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",127,32,48,Boys Clothing,,0.0
+117261,2018-01-13 08:23:14.170000+00:00,49829,49841,2,2,71060.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,T3,Yes,4,924,1,No,55163,64,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",311,2,346,Boys Accessories,web,1.0
+393447,2018-01-28 10:46:12.136000+00:00,53832,53844,2,2,27713.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,T3,No,3,1,1,Yes,180879,53,"Coats: overcoats, raincoat, cape, cloaks and similar articles",266,1,42,Clothing,app,1.0
+161695,2018-01-21 09:31:55.320000+00:00,78442,78460,2,2,123808.0,Not VIP,11,3,0.0,11,Yes,No,Yes,T4,,Yes,4,1,1,Yes,88270,356,Other footwear with outer soles of leather,375,4,38,Shoes,web,0.0
+47606,2018-01-08 09:51:19.513000+00:00,16424,16431,2,2,41193.0,VIP,1,1,5.0083,1,Yes,No,No,T2,T2,Yes,3,921,1,Yes,17491,772,Dresses,653,2,238,Clothing,app,1.0
+229733,2018-02-02 01:12:54.903000+00:00,110689,110713,1,1,167465.0,Not VIP,1,1,0.0,1,Yes,No,No,T2,T3,No,3,1,1,No,127461,742,Other footwear,1220,1,23,Shoes,web,0.0
+373803,2018-02-01 07:30:04.243000+00:00,2613,2616,2,2,26267.0,Not VIP,1,1,35.7236,1,Yes,Yes,Yes,VIP,VIP,Yes,3,1,1,Yes,174598,64,"Trousers, overalls, shorts",1160,2,39,Girls Clothing,web,1.0
+141870,2018-01-17 19:50:38.423000+00:00,4084,4088,2,2,110338.0,Not VIP,9,3,11.544,9,No,No,Yes,T4,,No,3,1,1,No,58979,87,Articles of a kind normally carried in the pocket or in the handbag,341,2,6,Homeware,app,0.0
+99145,2018-01-11 21:15:00.316000+00:00,35641,35650,2,9,80327.0,Not VIP,24,3,0.0,24,Yes,No,No,T4,T4,No,4,921,1,Yes,51507,60,"Shawls, scarves, mufflers, mantillas, veils and similar articles",62,1,6,Accessories,,0.0
+167480,2018-01-22 09:52:15.246000+00:00,90431,90453,2,2,108140.0,Not VIP,46,4,5.008,46,Yes,No,No,T2,T3,Yes,3,1,1,No,102589,441,Babies' Blanket Sleepers,1064,2,138,Baby Girl Accessories,,0.0
+223925,2018-02-01 01:27:56.706000+00:00,2264,2267,5,2,10594.0,Not VIP,4,3,0.0,4,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,No,125377,913,"Of base metal, whether or not plated with precious metal",1095,24,17,Fine Jewellery,web,0.0
+384174,2018-01-16 05:57:09.983000+00:00,12192,12197,2,2,80578.0,Not VIP,1,1,0.0,1,Yes,No,No,T3,T3,Yes,3,1,1,No,62876,70," T-shirts, singlets and other vests",155,10,18,Clothing,web,1.0
+394686,2018-02-14 15:42:26.670000+00:00,30436,30444,1,3,231685.0,Not VIP,11,3,0.0,11,No,No,No,,,No,3,1,1,No,33189,87,Swimwear,359,1,63,Clothing,web,1.0
+388927,2018-01-12 13:33:27.060000+00:00,156685,156718,2,2,35953.0,VIP,17,4,24.3652,17,Yes,No,Yes,VIP,VIP,Yes,6,924,1,Yes,184543,1148,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",565,10,148,Clothing,,1.0
+185232,2018-01-25 08:40:34.213000+00:00,49483,49495,2,2,139395.0,Not VIP,4,3,0.0,4,Yes,No,No,T3,T3,Yes,3,1,1,Yes,54767,616,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",1117,10,3,Clothing,web,1.0
+31686,2018-01-06 11:26:52.653000+00:00,28466,28474,2,2,27986.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,,No,3,1,1,No,30952,1009,"Shawls, scarves, mufflers, mantillas, veils and similar articles",429,1,138,Girls Accessories,web,0.0
+100030,2018-01-11 23:09:06.290000+00:00,152149,152182,2,2,81012.0,VIP,5,3,0.0,5,Yes,No,Yes,T1,T1,No,3,921,1,Yes,178992,1693,Jackets and blazers,131,21,13,Clothing,web,1.0
+384164,2018-01-13 11:58:37.350000+00:00,60696,60710,1,3,259817.0,Not VIP,54,3,0.0,54,No,No,No,,,No,3,1,1,Yes,67691,46,Other footwear,35,1,353,Shoes,,1.0
+57630,2018-01-08 18:11:40.786000+00:00,35685,35694,4,2,49102.0,VIP,3,2,0.0,3,Yes,No,Yes,T2,T2,Yes,3,921,1,Yes,39115,129,"Babies' Trousers, breeches and shorts, except those imported as parts of sets",85,1,169,Baby Boy Clothing,web,0.0
+59489,2018-01-08 20:42:32.870000+00:00,47856,47868,2,2,50569.0,VIP New,9,3,0.0,9,No,No,No,VIP,VIP,Yes,3,1,1,No,52934,87,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",252,1,17,Homeware,web,0.0
+267283,2018-02-08 19:54:29.626000+00:00,89902,89924,2,2,191026.0,Not VIP,19,4,0.0,19,Yes,No,No,T4,T4,Yes,3,1,1,No,68964,351,,1214,1,61,Boys Shoes,app,0.0
+85824,2018-01-10 19:02:12.853000+00:00,71793,71811,1,3,70610.0,VIP,63,3,0.0,63,Yes,No,Yes,T2,,Yes,4,921,1,Yes,80501,87,Footwear with outer soles of rubber or plastics,128,1,121,Shoes,web,1.0
+43456,2018-01-08 07:29:31.153000+00:00,35051,35060,2,2,37829.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,T4,No,3,921,1,Yes,38406,651,Other footwear,751,23,528,Shoes,,0.0
+86587,2018-01-10 20:21:17.313000+00:00,61756,61771,2,2,71207.0,Not VIP,1,1,5.0083,1,No,No,Yes,T3,T4,Yes,4,921,1,Yes,68933,533,Jackets and blazers,445,3,63,Clothing,web,0.0
+376201,2018-01-04 08:37:33.026000+00:00,149129,149162,2,2,10262.0,VIP New,12,4,33.3833,12,Yes,No,Yes,VIP,VIP,Yes,6,1,1,Yes,70047,1333,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",373,24,80,Clothing,app,1.0
+21405,2018-01-04 20:39:37.606000+00:00,15889,15896,2,2,19182.0,Not VIP,1,1,5.0083,1,No,No,No,T4,,Yes,4,1,1,No,16923,33,"Other e.g. braces, suspenders, garters and similar articles",314,1,6,Accessories,web,0.0
+198104,2018-01-27 13:47:56.093000+00:00,7061,7065,1,3,117119.0,Not VIP,54,3,0.0,54,Yes,No,No,T3,T4,No,3,1,1,Yes,48008,83,Footwear with outer soles of rubber or plastics,22,1,25,Shoes,web,0.0
+314999,2018-02-18 17:43:29.236000+00:00,147880,147912,2,2,34605.0,Not VIP,16,4,17.0858,16,Yes,No,No,T4,T4,No,3,1,1,No,173837,376,Skirts,1330,8,89,Clothing,web,1.0
+14461,2018-01-03 18:39:38.370000+00:00,15390,15397,2,2,13128.0,VIP New,39,4,7.6715,39,Yes,No,Yes,T1,T3,No,4,1,1,Yes,16373,17,N/D,85,20,14,Clothing,web,0.0
+161164,2018-01-21 06:38:56.496000+00:00,16500,16507,2,2,84207.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,Yes,4,1,1,Yes,44220,340," T-shirts, singlets and other vests",22,12,3,Clothing,app,1.0
+105083,2018-01-12 11:21:59.853000+00:00,149386,149419,2,2,84488.0,Not VIP,52,4,0.0,52,Yes,No,Yes,T3,T3,No,3,1,1,Yes,175668,216,Jackets and blazers,128,1,21,Clothing,app,1.0
+388168,2018-01-10 23:53:55.886000+00:00,18378,18384,2,2,53627.0,Not VIP,3,2,0.0,3,No,No,Yes,T4,T4,No,3,921,1,Yes,47335,2," T-shirts, singlets and other vests",72,1,14,Clothing,,1.0
+35980,2018-01-07 02:12:30.073000+00:00,31288,31296,2,2,31692.0,Not VIP,3,2,0.0,3,Yes,No,No,T4,,No,3,1,1,No,34134,19,Footwear with outer soles of rubber or plastics,33,1,38,Shoes,,0.0
+405490,2018-02-05 10:14:54.036000+00:00,54133,54145,1,3,270138.0,Not VIP,24,3,0.0,24,No,No,No,,,No,3,1,1,Yes,60100,41,Other footwear,95,1,12,Shoes,,1.0
+46137,2018-01-08 08:57:23.573000+00:00,20036,20042,3,2,39980.0,Not VIP,17,4,0.0,17,Yes,No,No,T4,,Yes,3,921,1,Yes,21094,163,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",166,26,2,Clothing,web,0.0
+305924,2018-02-16 17:36:35.306000+00:00,77759,77777,2,2,214778.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T3,T3,Yes,6,1,1,No,87457,132,Footwear with outer soles of rubber or plastics,94,2,38,Shoes,web,1.0
+207379,2018-01-29 08:47:30.396000+00:00,104354,104375,2,2,153857.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,1,1,No,119589,1692,Other footwear,472,38,175,Shoes,web,0.0
+266014,2018-02-08 15:44:31.113000+00:00,118630,118658,5,2,998.0,Not VIP,41,4,0.0,41,Yes,Yes,No,VIP,VIP,No,3,4185,1,No,137267,2459,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",15,27,8,Clothing,,1.0
+381433,2018-02-03 23:53:25.943000+00:00,150505,150538,1,3,258480.0,VIP,14,3,0.0,14,Yes,No,No,T2,T2,No,3,1,1,No,177026,2,Dresses,167,3,33,Clothing,web,1.0
+177658,2018-01-24 01:19:11.046000+00:00,12296,12303,2,2,72996.0,Not VIP,2,1,40.8163,2,No,No,No,T3,T3,Yes,4,1,1,Yes,13005,25,"Trousers, overalls, shorts",33,6,620,Clothing,web,0.0
+199822,2018-01-27 20:01:18.576000+00:00,2442,2445,2,2,148862.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,3,1,1,No,2510,87,"Other headgear, whether or not lined or trimmed",231,2,6,Accessories,web,0.0
+231519,2018-02-02 10:53:26.286000+00:00,111226,111251,2,2,168992.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T4,,No,3,1,1,Yes,128104,2112,Dresses,151,1,9,Clothing,,0.0
+59516,2018-01-08 20:44:51.560000+00:00,4199,4203,1,3,50591.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T2,T2,Yes,3,921,1,Yes,4345,60,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",50,4,3,Clothing,web,0.0
+383508,2018-01-14 22:02:01.016000+00:00,115433,115460,2,2,177432.0,Not VIP,1,1,5.0083,1,No,No,No,T4,T4,No,3,1,1,No,133265,74,,325,20,28,Shoes,web,1.0
+179450,2018-01-24 10:07:53.373000+00:00,91484,91506,4,2,135679.0,VIP,16,4,17.0858,16,Yes,No,Yes,T2,T2,No,3,1,1,No,103828,38," T-shirts, singlets and other vests",174,4,14,Clothing,app,1.0
+224518,2018-02-01 04:58:09.616000+00:00,22227,22235,2,2,164731.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,,No,3,1,1,No,23919,70,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",400,10,18,Clothing,app,0.0
+404971,2018-01-04 20:41:10.913000+00:00,13860,13867,2,2,118708.0,VIP,5,3,0.0,5,Yes,No,No,T1,T1,No,3,1,1,No,628,92,,36,20,5,Shoes,app,1.0
+389629,2018-01-24 09:00:20.260000+00:00,48347,48359,2,2,262583.0,Not VIP,61,3,0.0,61,Yes,No,Yes,T3,T3,No,3,1,1,Yes,53504,87,"Trousers, overalls, shorts",207,1,18,Clothing,,1.0
+102979,2018-01-12 07:38:52.673000+00:00,149816,149849,1,3,83070.0,Not VIP,36,3,0.0,36,Yes,No,Yes,T4,T4,Yes,4,921,1,Yes,176185,216,Jackets and blazers,8,1,63,Clothing,web,1.0
+270895,2018-02-09 12:34:43.676000+00:00,21798,21806,2,2,59903.0,VIP,5,3,0.0,5,Yes,No,No,T1,T1,No,3,1,1,No,23434,22,Footwear with outer soles of leather or composition leather,520,1,36,Shoes,app,0.0
+375568,2018-01-06 06:39:57.103000+00:00,51269,51281,1,3,129655.0,Not VIP,9,3,0.0,9,Yes,No,No,T3,T3,Yes,3,1,1,Yes,175132,300,"Blouses, shirts and shirt-blouses",274,2,148,Clothing,web,1.0
+78356,2018-01-10 07:10:18.926000+00:00,57967,57980,2,2,64923.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,Yes,3,924,1,Yes,64513,72,"Trousers, overalls, shorts",83,1,8,Clothing,web,0.0
+386401,2018-02-10 14:19:19.796000+00:00,46277,46290,1,3,260948.0,Not VIP,9,3,0.0,9,No,No,No,,,No,4,1,1,No,154094,452,"Coats: overcoats, raincoat, cape, cloaks and similar articles",254,1,9,Clothing,web,1.0
+47564,2018-01-08 09:49:23.693000+00:00,19286,19292,2,2,41157.0,Not VIP,58,3,0.0,58,Yes,No,Yes,T4,T4,Yes,3,921,1,Yes,20655,745,"Trousers, overalls, shorts",148,14,56,Clothing,web,1.0
+50773,2018-01-08 12:17:24.253000+00:00,13383,13390,2,2,28899.0,Not VIP,41,4,15.835,41,Yes,Yes,Yes,VIP,VIP,Yes,3,1,1,No,14186,4,Footwear with outer soles of rubber or plastics,363,2,297,Shoes,app,1.0
+257515,2018-02-07 03:47:27.776000+00:00,56959,56972,2,2,185101.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,63344,194,"Trousers, overalls, shorts",214,35,34,Clothing,web,1.0
+296491,2018-02-14 18:32:07.576000+00:00,128767,128797,5,3,209140.0,VIP,27,3,0.0,27,Yes,No,No,T2,T2,No,3,1,1,No,150014,1119,Books,808,2,1,Homeware,web,0.0
+213484,2018-01-30 09:40:52.893000+00:00,13954,13961,1,7,157798.0,Not VIP,4,3,0.0,4,Yes,No,No,T2,T2,No,4,1,1,No,14807,92,Belts,91,1,105,Accessories,,1.0
+207136,2018-01-29 07:31:58.346000+00:00,43147,43158,2,2,153709.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,,No,3,1,1,Yes,107812,340,Footwear with outer soles of rubber or plastics,22,2,25,Shoes,app,0.0
+387705,2018-01-07 20:32:49.980000+00:00,42413,42423,2,2,261619.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T3,Yes,4,1,1,Yes,46754,462,"T-shirts, singlets and other vests",67,12,85,Boys Clothing,web,1.0
+392655,2018-02-17 15:37:39.140000+00:00,153454,153487,2,2,34465.0,VIP,14,3,0.0,14,No,No,No,T1,T1,Yes,4,1,1,No,180616,303,"Trousers, overalls, shorts",344,2,42,Clothing,web,1.0
+90572,2018-01-11 06:03:02.236000+00:00,24309,24317,2,2,74163.0,VIP,1,1,0.0,1,Yes,No,No,VIP,VIP,Yes,6,924,1,Yes,26239,335,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",633,1,9,Clothing,web,1.0
+47902,2018-01-08 10:02:44.830000+00:00,3250,3253,2,2,41434.0,Not VIP,12,4,33.3833,12,Yes,No,No,T4,T4,Yes,3,921,1,Yes,3351,132,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",143,12,2,Clothing,app,0.0
+158628,2018-01-20 17:59:22.413000+00:00,18392,18398,2,2,121682.0,Not VIP,1,1,5.0083,1,No,No,No,T4,,No,4,1,1,Yes,19656,19,"Trousers, overalls, shorts",1076,1,34,Clothing,,0.0
+212566,2018-01-30 05:09:40.500000+00:00,93326,93348,2,2,44661.0,VIP New,19,4,0.0,19,Yes,No,Yes,T2,T2,Yes,3,1,1,No,108305,28,Jackets and blazers,308,22,52,Clothing,,0.0
+67828,2018-01-09 12:17:13.453000+00:00,47010,47022,2,2,1311.0,VIP,1,1,0.0,1,Yes,No,Yes,VIP,VIP,No,6,921,1,Yes,51984,133,,140,20,14,Clothing,app,0.0
+78196,2018-01-10 06:49:19.160000+00:00,57891,57904,2,2,64802.0,Not VIP,19,4,0.0,19,No,No,Yes,T4,,Yes,3,924,1,Yes,64419,27,"Coats: overcoats, raincoat, cape, cloaks and similar articles",128,4,13,Clothing,,0.0
+166264,2018-01-22 03:55:18.793000+00:00,54816,54828,2,2,127004.0,VIP New,40,4,5.8485,40,Yes,No,Yes,VIP,T1,Yes,3,1,1,No,60890,75,,341,20,181,Clothing,web,0.0
+404528,2018-01-10 19:50:19.063000+00:00,199,199,2,2,102354.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T3,T3,Yes,3,1,1,No,1018,81,Footwear with outer soles of rubber or plastics,106,1,76,Shoes,app,1.0
+382382,2018-01-05 14:23:14.390000+00:00,22769,22777,1,3,258944.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T4,,Yes,4,1,1,Yes,24523,467,N/D,190,1,19,Clothing,web,1.0
+196773,2018-01-27 07:57:02.990000+00:00,96902,96925,2,2,9646.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T3,Yes,3,1,1,No,114431,14,N/D,17,20,21,Clothing,app,1.0
+67276,2018-01-09 11:29:27.860000+00:00,22507,22515,1,3,32811.0,VIP New,38,3,0.0,38,No,No,No,VIP,VIP,Yes,3,924,1,No,24235,126,Footwear with outer soles of rubber or plastics,334,1,38,Shoes,,1.0
+374267,2018-02-14 22:31:44.880000+00:00,92255,92277,2,2,254823.0,Not VIP,1,1,5.0083,1,No,No,No,T2,T2,No,4,1,1,No,104751,311,N/D,22,20,2,Clothing,web,1.0
+13130,2018-01-03 14:53:51.626000+00:00,9419,9425,3,7,11934.0,Not VIP,14,3,0.0,14,No,No,No,,,No,1,1,1,No,15108,92,Footwear with outer soles of rubber or plastics,91,1,62,Shoes,web,0.0
+113591,2018-01-13 00:25:11.290000+00:00,125146,125176,1,3,90467.0,Not VIP,9,3,0.0,9,No,No,No,T2,T2,No,3,924,1,Yes,145503,72,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",128,1,8,Clothing,web,1.0
+145439,2018-01-18 11:19:19.266000+00:00,60802,60816,2,2,112800.0,VIP,5,3,0.0,5,Yes,No,Yes,T1,T1,Yes,3,1,1,Yes,67819,2033,Footwear with outer soles of rubber or plastics,12,1,92,Boys Shoes,web,1.0
+77154,2018-01-10 04:21:26.173000+00:00,23871,23879,2,2,10460.0,Not VIP,19,4,0.0,19,No,No,Yes,T4,T4,No,3,924,1,Yes,35823,87,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",249,1,17,Accessories,,1.0
+56840,2018-01-08 17:16:17.790000+00:00,46198,46211,1,3,48471.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,921,1,Yes,51058,60,"Shawls, scarves, mufflers, mantillas, veils and similar articles",238,4,6,Accessories,web,0.0
+371418,2018-02-10 19:59:00.776000+00:00,92803,92825,3,8,253367.0,Not VIP,1,1,0.0,1,Yes,No,No,T4,T4,Yes,3,1,1,No,105432,92,"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar",120,1,17,Bags,web,1.0
+311259,2018-02-17 21:44:47.250000+00:00,128583,128613,2,2,163654.0,Not VIP,4,3,0.0,4,No,No,No,T4,T4,Yes,3,1,1,No,149787,37,Other footwear,36,1,158,Shoes,web,0.0
+381272,2018-01-28 20:40:57.063000+00:00,93211,93233,1,3,163649.0,VIP,9,3,0.0,9,Yes,No,Yes,T4,T4,Yes,3,1,1,No,116122,559,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",85,2,6,Accessories,web,1.0
+285482,2018-02-12 13:56:48.283000+00:00,126047,126077,2,2,91515.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,No,3,1,1,Yes,25474,17," T-shirts, singlets and other vests",9,1,8,Clothing,app,0.0
+290271,2018-02-13 13:39:15.430000+00:00,9491,9497,2,2,45948.0,VIP New,61,3,0.0,61,Yes,No,No,VIP,VIP,Yes,6,1,1,No,10009,81,,83,20,43,Clothing,,1.0
+124199,2018-01-14 17:22:08.480000+00:00,26247,26255,2,2,24474.0,Not VIP,49,4,0.0,49,Yes,No,No,T4,T4,No,3,1,1,Yes,28456,308,Footwear with outer soles of rubber or plastics,30,1,11,Shoes,app,0.0
+248929,2018-02-05 16:45:45.896000+00:00,1580,1582,2,2,30835.0,Not VIP,93,1,5.0083,93,Yes,Yes,Yes,VIP,VIP,No,6,1,1,Yes,29817,2,Footwear with outer soles of rubber or plastics,316,1,121,Shoes,,0.0
+119922,2018-01-13 16:47:47.993000+00:00,58345,58358,1,1,94855.0,Not VIP,1,1,0.0,1,Yes,No,No,T4,,No,4,1,1,Yes,64945,487,"Blouses, shirts and shirt-blouses",343,2,41,Clothing,web,0.0
+134325,2018-01-16 15:58:25.870000+00:00,75440,75458,2,2,87682.0,Not VIP,45,4,0.0,45,Yes,Yes,Yes,T2,T2,No,4,1,1,No,91662,265,Swimwear,86,2,8,Clothing,app,0.0
+120421,2018-01-13 19:03:52.493000+00:00,75971,75989,2,2,24042.0,Not VIP,19,4,0.0,19,Yes,Yes,Yes,VIP,VIP,Yes,3,1,1,Yes,85383,161,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",139,1,14,Clothing,app,0.0
+2459,2018-01-01 16:09:46.233000+00:00,3367,3370,2,2,2355.0,VIP,4,3,0.0,4,No,No,Yes,T2,T2,Yes,3,1,1,Yes,3472,270,"Handbags, whether or not with shoulder strap, including those without handle",115,1,17,Bags,web,0.0
+217028,2018-01-30 21:31:59.576000+00:00,105402,105424,5,2,156370.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,T4,No,4,1,1,No,120920,499,"T-shirts, singlets and other vests",65,1,196,Boys Clothing,,0.0
+140087,2018-01-17 14:12:42.453000+00:00,2264,2267,2,2,109125.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T2,No,6,1,1,No,94085,114,Other footwear,1107,24,36,Shoes,web,0.0
+156998,2018-01-20 12:23:45.556000+00:00,14479,14486,2,2,120551.0,Not VIP,15,4,7.0,15,No,No,No,T4,,Yes,3,1738,1,No,15395,37,,36,2,24,Clothing,,0.0
+270670,2018-02-09 11:44:23.583000+00:00,109213,109237,2,2,68153.0,VIP,3,2,0.0,3,Yes,No,Yes,T2,T2,Yes,3,1,1,No,125619,4," T-shirts, singlets and other vests",341,2,24,Clothing,app,1.0
+390823,2018-01-08 14:30:22.656000+00:00,152957,152990,1,3,263189.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T3,T3,No,3,921,1,Yes,179998,216,Suits,8,1,63,Clothing,app,1.0
+230686,2018-02-02 06:37:36.203000+00:00,99501,99524,2,2,168517.0,VIP,3,2,0.0,3,Yes,No,Yes,VIP,VIP,Yes,3,1,1,No,113658,180,,56,20,49,Boys Clothing,web,0.0
+99920,2018-01-11 22:51:42.280000+00:00,849,851,2,2,80924.0,Not VIP,32,4,0.0,32,Yes,No,No,T4,,No,3,1,1,No,861,11," T-shirts, singlets and other vests",147,4,3,Clothing,app,0.0
+208869,2018-01-29 14:22:16.593000+00:00,104812,104834,2,2,154803.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,1,1,No,120167,624,"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar",85,12,138,Boys Accessories,web,0.0
+191726,2018-01-26 10:23:33.400000+00:00,99654,99677,2,2,112713.0,VIP New,39,4,0.0,39,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,113840,468,"Shawls, scarves, mufflers, mantillas, veils and similar articles",885,2,1,Accessories,web,0.0
+401103,2018-02-07 12:23:54.980000+00:00,68381,68398,1,3,268069.0,Not VIP,9,3,0.0,9,Yes,No,No,,,No,3,1,1,No,76578,37,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",36,4,19,Clothing,web,1.0
+87995,2018-01-10 22:48:13.016000+00:00,2456,2459,2,2,57264.0,Not VIP,5,3,0.0,5,Yes,Yes,Yes,T1,T1,Yes,3,924,1,Yes,55281,203,Other footwear,138,2,235,Shoes,web,0.0
+379837,2018-01-31 16:22:19.706000+00:00,97301,97324,5,3,157830.0,Not VIP,9,3,0.0,9,Yes,No,No,,,Yes,3,1,1,No,110940,41,Other footwear with outer soles of leather,44,1,38,Shoes,web,1.0
+383717,2018-01-11 13:34:46.886000+00:00,1384,1386,2,2,117258.0,Not VIP,27,3,59.1032,27,Yes,No,No,,,Yes,3,1,1,No,98879,19,"Coats: overcoats, raincoat, cape, cloaks and similar articles",54,9,646,Clothing,,1.0
+372557,2018-02-04 22:29:08.123000+00:00,10827,10833,2,2,253925.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,T4,Yes,3,1,1,Yes,11421,554,Swimwear,577,8,401,Clothing,web,1.0
+3718,2018-01-01 22:07:27.966000+00:00,4864,4868,1,3,3567.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T3,T4,Yes,4,1,1,Yes,5053,186,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",101,4,14,Clothing,app,0.0
+398542,2018-01-22 05:43:40.170000+00:00,155053,155086,2,2,24340.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,No,3,1,1,Yes,70872,171,,88,20,8,Clothing,web,1.0
+133933,2018-01-16 14:42:59.666000+00:00,23772,23780,1,3,104879.0,Not VIP,54,3,0.0,54,No,No,No,T4,T4,No,3,1,1,Yes,25642,918,Footwear with outer soles of rubber or plastics,106,1,91,Shoes,,0.0
+129397,2018-01-15 18:16:25.556000+00:00,117169,117198,2,2,74574.0,VIP New,4,3,0.0,4,Yes,No,Yes,VIP,VIP,Yes,6,664,1,No,177222,1271," T-shirts, singlets and other vests",311,1,10,Teen Boy Clothing,web,1.0
+83395,2018-01-10 15:16:10.370000+00:00,14882,14889,2,2,68739.0,Not VIP,3,2,0.0,3,Yes,No,No,T4,T4,No,3,924,1,Yes,15832,74,Footwear with outer soles of leather or composition leather,70,1,38,Shoes,web,1.0
+74166,2018-01-09 21:08:10.956000+00:00,23740,23748,2,2,61699.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T4,No,3,924,1,Yes,25603,263,Other types of undergarments,295,2,19,Clothing,app,1.0
+274746,2018-02-10 04:40:31.233000+00:00,85894,85916,2,2,195599.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,3,1,1,Yes,97222,37,,36,2,33,Clothing,,1.0
+234576,2018-02-02 21:55:02.700000+00:00,8549,8554,1,3,109053.0,VIP New,55,3,0.0,55,No,No,No,T3,T4,Yes,3,1,1,Yes,8997,348,"Trousers, overalls, shorts",1115,3,150,Clothing,web,1.0
+31097,2018-01-06 09:23:13.776000+00:00,172,172,2,2,27493.0,Not VIP,112,4,0.0,112,Yes,No,No,T4,T4,No,3,1,1,Yes,173,34,,106,1,8,Clothing,web,0.0
+292765,2018-02-14 00:19:41.453000+00:00,127856,127886,2,2,187332.0,Not VIP,1,1,22.7328,1,Yes,No,No,T3,T4,Yes,3,1,1,No,148872,113,Suits,51,1,21,Clothing,web,0.0
+202789,2018-01-28 12:06:22.853000+00:00,10832,10838,1,3,19548.0,VIP,4,3,0.0,4,Yes,No,No,VIP,T1,Yes,3,1,1,Yes,11427,48,"Trousers, overalls, shorts",10,1,66,Clothing,web,1.0
+58210,2018-01-08 18:54:54.520000+00:00,50538,50550,1,3,9982.0,VIP New,9,3,0.0,9,Yes,No,No,VIP,VIP,Yes,3,1,1,No,55969,72,"Trousers, overalls, shorts",107,1,18,Clothing,web,1.0
+164877,2018-01-21 21:04:52.866000+00:00,29941,29949,1,3,126054.0,Not VIP,29,3,0.0,29,Yes,No,No,T4,T4,No,4,1,1,Yes,32617,34,,7,20,8,Clothing,web,1.0
+44558,2018-01-08 08:09:51.806000+00:00,57218,57231,4,2,20109.0,VIP New,15,4,0.0,15,Yes,No,No,T1,T1,Yes,3,921,1,Yes,84077,186," T-shirts, singlets and other vests",935,12,43,Clothing,web,1.0
+389563,2018-01-07 09:49:30.070000+00:00,36966,36975,1,3,71471.0,Not VIP,14,3,0.0,14,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,40554,257,Skirts,332,47,18,Clothing,web,1.0
+55953,2018-01-08 16:22:04.956000+00:00,45595,45608,1,3,47768.0,Not VIP,63,3,0.0,63,Yes,No,Yes,T4,T4,No,3,921,1,Yes,50358,1728,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",67,12,85,Girls Clothing,web,0.0
+75875,2018-01-10 01:00:00.740000+00:00,56710,56723,2,2,28717.0,Not VIP,3,2,0.0,3,Yes,No,No,T3,T4,No,4,921,1,Yes,63068,50,"Handbags, whether or not with shoulder strap, including those without handle",147,1,17,Bags,,0.0
+147537,2018-01-18 18:40:11.703000+00:00,21214,21221,2,2,114208.0,Not VIP,36,3,0.0,36,No,No,No,T4,,No,4,1,1,No,22787,572,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",102,3,3,Clothing,web,0.0
+158434,2018-01-20 17:18:21.903000+00:00,30272,30280,5,9,121547.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,No,3,1,1,Yes,30756,69,Other footwear with outer soles of leather,349,1,72,Shoes,web,1.0
+197133,2018-01-27 09:43:51.426000+00:00,88199,88221,2,2,147033.0,VIP,12,4,31.0431,12,Yes,No,Yes,T3,T3,No,3,1,1,No,99960,4,N/D,363,2,205,Shoes,app,0.0
+68033,2018-01-09 12:33:34.806000+00:00,1595,1597,2,2,57057.0,Not VIP,1,1,5.0083,1,No,No,No,T3,T4,No,3,924,1,Yes,58581,12,Other footwear,316,2,62,Shoes,web,0.0
+392063,2018-02-08 15:58:29.106000+00:00,122718,122747,4,2,263781.0,Not VIP,41,4,13.1309,41,No,No,No,,,No,3,1,1,No,142475,99,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",33,26,162,Clothing,web,1.0
+380613,2018-01-15 08:06:36.900000+00:00,150274,150307,2,2,53596.0,VIP New,19,4,0.0,19,Yes,No,Yes,T1,T1,Yes,3,1,1,No,176742,897,Articles of apparel and clothing accessories,215,2,33,Clothing,app,1.0
+48053,2018-01-08 10:09:04.493000+00:00,6189,6193,1,3,41549.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T2,T2,Yes,3,921,1,Yes,6455,90,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",150,26,3,Clothing,app,1.0
+299041,2018-02-15 09:27:24.630000+00:00,99850,99873,4,2,175772.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,No,3,1,1,No,114072,50,Swimwear,15,1,43,Clothing,app,0.0
+55995,2018-01-08 16:24:40.870000+00:00,13486,13493,2,2,34371.0,VIP New,5,3,0.0,5,Yes,No,No,T1,T1,Yes,3,921,1,Yes,14303,9,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",152,1,18,Clothing,app,0.0
+383711,2018-01-23 15:45:24.110000+00:00,57120,57133,2,2,133131.0,Not VIP,24,3,0.0,24,No,No,No,,,Yes,4,1,1,Yes,63525,749,Footwear with outer soles of rubber or plastics,227,1,38,Shoes,web,1.0
+71573,2018-01-09 16:54:37.670000+00:00,54634,54646,2,2,59718.0,Not VIP,5,3,0.0,5,No,No,Yes,T4,,No,3,921,1,Yes,60683,778,Footwear with outer soles of rubber or plastics,17,4,11,Shoes,,0.0
+193451,2018-01-26 16:57:48.200000+00:00,100166,100189,2,2,19287.0,VIP New,4,3,0.0,4,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,114473,80,"Trousers, overalls, shorts",411,11,18,Activewear,web,0.0
+258042,2018-02-07 06:46:06.023000+00:00,25016,25024,2,2,146680.0,VIP,19,4,31.0431,19,No,No,No,VIP,VIP,No,3,1,1,No,27067,105,,479,1,53,Shoes,web,0.0
+293115,2018-02-14 02:38:56.363000+00:00,153437,153470,2,2,207141.0,VIP New,1,1,5.0083,1,Yes,No,Yes,T1,T1,Yes,3,1,1,No,180593,12," T-shirts, singlets and other vests",1242,1,14,Clothing,web,1.0
+400001,2018-01-30 03:30:18.273000+00:00,73486,73504,1,1,267582.0,Not VIP,1,1,0.0,1,No,No,No,,,No,3,1,1,Yes,82469,152,Jackets and blazers,202,2,18,Clothing,web,1.0
+404248,2018-02-01 02:43:53.593000+00:00,108728,108752,2,5,269536.0,Not VIP,14,3,0.0,14,Yes,No,Yes,,,Yes,3,7573,1,Yes,125026,69,Footwear with outer soles of rubber or plastics,590,1,11,Shoes,web,1.0
+275877,2018-02-10 11:06:24.806000+00:00,66479,66496,2,2,196168.0,VIP,2,1,0.0,2,Yes,No,Yes,T2,T2,No,3,1,1,No,74381,120," T-shirts, singlets and other vests",414,4,10,Teen Boy Clothing,app,1.0
+91062,2018-01-11 07:09:25.306000+00:00,16098,16105,2,2,74501.0,Not VIP,12,4,33.3833,12,No,No,Yes,T4,,No,3,924,1,Yes,71227,136," T-shirts, singlets and other vests",34,4,35,Clothing,web,0.0
+285382,2018-02-12 13:34:05.910000+00:00,80681,80700,2,2,202335.0,Not VIP,5,3,0.0,5,No,No,No,T2,,No,3,1,1,No,90993,22,N/D,520,1,9,Clothing,,1.0
+287510,2018-02-12 21:47:56.270000+00:00,11784,11789,1,3,203659.0,Not VIP,4,3,0.0,4,No,No,Yes,T4,,Yes,3,5091,1,No,12450,177,Other footwear with outer soles of leather,35,2,12,Shoes,web,0.0
+372683,2018-01-06 08:41:39.053000+00:00,914,916,2,2,211719.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,T4,Yes,3,1,1,Yes,932,48,Footwear with outer soles of rubber or plastics,85,1,11,Shoes,app,1.0
+244848,2018-02-04 22:32:04.176000+00:00,69379,69396,3,2,177307.0,Not VIP,7,1,0.0,7,No,No,Yes,,,No,3,1,0,Yes,133020,166,"Handbags, whether or not with shoulder strap, including those without handle",30,1,17,Bags,web,0.0
+398060,2018-01-08 08:18:12.223000+00:00,59156,59170,1,3,111260.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T4,T4,Yes,4,921,1,Yes,65880,12,Footwear with outer soles of rubber or plastics,32,1,194,Shoes,web,1.0
+314414,2018-02-18 15:22:23.370000+00:00,133432,133462,2,2,219982.0,Not VIP,1,1,28.7029,1,Yes,No,No,T4,,No,4,1,1,Yes,155709,1180,Other footwear with outer soles of leather,1306,1,31,Shoes,web,0.0
+79948,2018-01-10 10:10:54.280000+00:00,8502,8507,2,2,25376.0,VIP New,4,3,0.0,4,Yes,No,No,T2,T2,No,4,924,1,Yes,149582,443,"Trousers, overalls, shorts",142,51,13,Clothing,web,1.0
+238222,2018-02-03 16:45:05.943000+00:00,107741,107765,5,2,173081.0,Not VIP,25,3,0.0,25,Yes,No,Yes,T3,T4,No,3,1,1,Yes,123811,14,"Handbags, whether or not with shoulder strap, including those without handle",590,1,17,Bags,app,0.0
+268887,2018-02-09 03:43:11.430000+00:00,7175,7179,2,2,191983.0,Not VIP,15,4,0.0,15,Yes,No,No,T4,T4,No,4,1,1,No,7514,99,,138,26,275,Shoes,web,0.0
+374730,2018-01-06 15:25:29.886000+00:00,148731,148764,2,2,77304.0,VIP New,12,4,37.4837,12,Yes,No,Yes,T1,T1,No,3,1,1,No,174868,588,"Blouses, shirts and shirt-blouses",107,2,222,Clothing,app,1.0
+221399,2018-01-31 16:02:38.583000+00:00,94584,94607,1,14,87299.0,VIP New,28,3,0.0,28,Yes,No,Yes,VIP,VIP,No,6,1,1,No,107612,33,"Blouses, shirts and shirt-blouses",15,1,47,Clothing,,0.0
+11624,2018-01-03 10:04:32.953000+00:00,12845,12852,4,3,10631.0,Not VIP,14,3,0.0,14,No,No,No,,,No,3,1,1,No,13592,1040,,99,21,334,Shoes,web,0.0
+314119,2018-02-18 14:07:06.836000+00:00,11,11,2,2,219798.0,VIP,1,1,0.0,1,Yes,No,Yes,T2,T2,No,6,1,1,No,4045,11," T-shirts, singlets and other vests",239,4,19,Clothing,,0.0
+382562,2018-01-15 22:10:30.830000+00:00,54213,54225,2,2,2804.0,VIP,60,3,0.0,60,Yes,No,No,T1,T1,Yes,4,1,1,No,60194,29,Suits,208,12,63,Clothing,app,1.0
+121550,2018-01-14 01:59:47.910000+00:00,76412,76430,2,2,96111.0,Not VIP,1,1,5.0083,1,No,No,No,T4,T4,Yes,3,1,1,No,85913,53,"Blouses, shirts and shirt-blouses",212,1,43,Clothing,,0.0
+402033,2018-02-02 17:42:37.826000+00:00,155981,156014,2,2,116936.0,Not VIP,4,3,0.0,4,Yes,No,No,T2,T2,No,3,1,1,No,183690,443,Other footwear with outer soles of leather,33,4,334,Shoes,web,1.0
+111040,2018-01-12 19:37:28.063000+00:00,69039,69056,2,2,88632.0,Not VIP,19,4,0.0,19,Yes,No,No,T1,T2,No,3,924,1,Yes,77319,703," T-shirts, singlets and other vests",85,4,63,Clothing,web,0.0
+190874,2018-01-26 06:34:03.226000+00:00,19975,19981,1,3,50649.0,VIP,50,3,0.0,50,No,No,No,T1,T1,Yes,4,1,1,Yes,21406,87," T-shirts, singlets and other vests",252,1,8,Clothing,web,0.0
+138135,2018-01-17 06:38:22.670000+00:00,70060,70077,6,2,106494.0,VIP New,39,4,5.0083,39,Yes,No,Yes,T2,T2,Yes,4,1,1,Yes,78512,423,Dresses,654,8,89,Clothing,app,1.0
+13888,2018-01-03 16:50:55.240000+00:00,2597,2600,2,9,12618.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,No,3,1,1,No,15855,69,Footwear with outer soles of rubber or plastics,349,1,30,Shoes,,0.0
+152171,2018-01-19 14:52:04.350000+00:00,32684,32693,2,2,117294.0,Not VIP,11,3,0.0,11,Yes,No,No,T4,,Yes,3,1,1,Yes,1417,20,"Trousers, overalls, shorts",22,2,8,Clothing,,0.0
+146566,2018-01-18 15:18:20.233000+00:00,29727,29735,2,2,113559.0,Not VIP,16,4,0.0,16,Yes,No,Yes,T3,T3,No,3,1,1,Yes,32374,25," T-shirts, singlets and other vests",87,25,24,Clothing,,0.0
+118297,2018-01-13 09:41:33.353000+00:00,41635,41645,2,2,41690.0,Not VIP,3,2,0.0,3,No,No,No,T3,T4,No,4,1,1,Yes,45884,257,"Trousers, overalls, shorts",1,10,18,Clothing,web,1.0
+232452,2018-02-02 14:28:47.470000+00:00,62266,62282,2,2,169550.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,,Yes,3,1,1,Yes,69516,376,"Trousers, overalls, shorts",1228,8,398,Clothing,web,0.0
+312700,2018-02-18 06:16:05.716000+00:00,124454,124484,5,2,218930.0,Not VIP,17,4,0.0,17,No,No,No,,,No,3,1,1,No,144647,60," T-shirts, singlets and other vests",62,4,2,Clothing,web,0.0
+310220,2018-02-17 17:02:14.230000+00:00,17702,17709,1,3,24443.0,VIP New,4,3,0.0,4,Yes,No,Yes,VIP,T1,Yes,3,1,1,No,18903,9,,1216,1,101,Shoes,app,0.0
+271180,2018-02-09 13:36:27.206000+00:00,2448,2451,2,2,86003.0,VIP,3,2,0.0,3,Yes,No,No,T2,T2,Yes,3,1,1,No,2520,92,Swimwear,1203,1,63,Clothing,app,0.0
+36372,2018-01-07 04:26:26.353000+00:00,1905,1908,5,2,24526.0,VIP,2,1,42.2351,2,Yes,No,No,T1,T1,Yes,4,1,1,Yes,1959,129,Footwear with outer soles of rubber or plastics,457,1,442,Girls Shoes,web,1.0
+38345,2018-01-07 13:36:00.036000+00:00,317,318,2,2,33638.0,Not VIP,9,3,0.0,9,Yes,No,No,T3,T3,Yes,3,1,1,No,319,87,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",211,2,1,Accessories,web,0.0
+23347,2018-01-05 05:02:58.436000+00:00,14818,14825,4,2,20877.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T3,T3,Yes,3,1,1,Yes,15767,14," T-shirts, singlets and other vests",70,1,63,Clothing,app,0.0
+134655,2018-01-16 16:55:28.133000+00:00,152350,152383,4,12,72700.0,VIP,1,1,0.0,1,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,179254,2,"Blouses, shirts and shirt-blouses",144,6,315,Clothing,web,1.0
+71946,2018-01-09 17:26:38.920000+00:00,38840,38850,2,2,59991.0,VIP,5,3,0.0,5,Yes,No,No,T2,T2,No,3,921,1,Yes,41203,20,,152,4,19,Clothing,web,0.0
+389834,2018-01-10 03:09:38.710000+00:00,13614,13621,1,6,81990.0,Not VIP,1,1,0.0,1,Yes,No,Yes,,,Yes,3,924,1,Yes,42453,75,N/D,407,40,53,Shoes,web,1.0
+97735,2018-01-11 18:40:57.263000+00:00,13897,13904,1,3,79258.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T4,,Yes,3,924,1,Yes,14743,19,"Handbags, whether or not with shoulder strap, including those without handle",1092,1,17,Bags,web,1.0
+46180,2018-01-08 08:58:53.336000+00:00,33500,33509,2,2,40017.0,Not VIP,24,3,0.0,24,Yes,No,Yes,T4,,Yes,3,921,1,Yes,80182,39,"Coats: overcoats, raincoat, cape, cloaks and similar articles",170,36,114,Clothing,,1.0
+46482,2018-01-08 09:08:34.020000+00:00,37840,37850,2,2,40270.0,VIP New,1,1,35.7236,1,Yes,No,Yes,VIP,VIP,No,6,921,1,Yes,168223,52,"Trousers, overalls, shorts",84,21,114,Clothing,,1.0
+20628,2018-01-04 18:03:39.993000+00:00,10382,10388,2,2,18482.0,Not VIP,25,3,0.0,25,Yes,No,Yes,T4,,No,4,1,1,Yes,10942,5,Footwear with outer soles of rubber or plastics,29,1,158,Shoes,app,0.0
+81170,2018-01-10 12:11:32.293000+00:00,131185,131215,2,2,67064.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T3,Yes,3,924,1,Yes,141888,67,N/D,24,1,136,Clothing,web,1.0
+117717,2018-01-13 08:50:09.230000+00:00,74913,74931,2,2,93252.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,Yes,3,924,1,Yes,84111,213,Footwear with outer soles of rubber or plastics,85,1,241,Shoes,web,0.0
+301925,2018-02-15 21:22:00.720000+00:00,98813,98836,5,2,156555.0,VIP New,1,1,0.0,1,Yes,No,No,T1,T2,No,6,1,1,Yes,174664,1901,Shirts,186,21,3,Clothing,web,1.0
+104097,2018-01-12 09:57:29.950000+00:00,2533,2536,2,2,74750.0,VIP,12,4,28.7029,12,No,No,Yes,T2,T2,Yes,3,1,1,Yes,2608,23,"Handbags, whether or not with shoulder strap, including those without handle",187,2,17,Bags,,0.0
+30454,2018-01-06 06:27:30.933000+00:00,17552,17559,2,2,26945.0,Not VIP,16,4,14.5035,16,No,No,No,T4,,Yes,3,1,1,Yes,8839,159,Footwear with outer soles of rubber or plastics,15,1,28,Shoes,web,0.0
+396071,2018-01-09 23:16:43.020000+00:00,18482,18488,2,2,79515.0,Not VIP,1,1,5.0083,1,No,No,No,,,No,3,924,1,Yes,115283,84,"Handbags, whether or not with shoulder strap, including those without handle",643,1,17,Bags,web,1.0
+385913,2018-01-18 21:09:01.696000+00:00,4568,4572,2,2,260692.0,Not VIP,9,3,0.0,9,Yes,No,No,T2,T2,No,3,1,1,Yes,4737,2,,94,20,201,Clothing,web,1.0
+278340,2018-02-10 22:03:56.843000+00:00,11506,11511,2,2,197847.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,5082,1,No,12167,283,"Handbags, whether or not with shoulder strap, including those without handle",284,31,17,Bags,web,0.0
+248745,2018-02-05 16:14:31.533000+00:00,65417,65434,3,2,179638.0,Not VIP,55,3,0.0,55,No,No,No,,,No,3,1,1,No,73162,28,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",589,12,2,Clothing,web,0.0
+22292,2018-01-04 23:57:12.746000+00:00,6553,6557,2,2,19985.0,Not VIP,30,3,11.9486,30,Yes,No,No,T4,,Yes,3,1,1,No,6834,4,N/D,363,20,14,Clothing,web,1.0
+384326,2018-02-16 00:42:42.530000+00:00,103766,103787,1,1,70113.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T2,T2,No,3,1,1,No,120132,4,"Trousers, overalls, shorts",942,2,3,Clothing,web,1.0
+216792,2018-01-30 20:45:23.620000+00:00,60517,60531,3,4,159864.0,Not VIP,7,1,0.0,7,Yes,No,Yes,T3,T3,Yes,3,1,0,Yes,67489,18,Other footwear with outer soles of leather,982,8,139,Shoes,web,0.0
+393751,2018-01-17 20:17:40.906000+00:00,95162,95185,2,2,140245.0,Not VIP,9,3,41.0947,9,No,No,No,T4,T4,Yes,3,1,1,Yes,108316,1821,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",271,2,493,Clothing,web,1.0
+372187,2018-01-24 06:40:24.260000+00:00,30262,30270,1,3,253755.0,Not VIP,14,3,0.0,14,No,No,No,T4,T4,No,3,1,1,Yes,32990,86,"Coats: overcoats, raincoat, cape, cloaks and similar articles",1175,3,43,Clothing,web,1.0
+37948,2018-01-07 12:09:19.413000+00:00,19045,19051,2,2,33311.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,No,3,1,1,Yes,20396,136,"Trousers, overalls, shorts",72,6,135,Clothing,web,1.0
+403096,2018-02-06 06:46:12.843000+00:00,22660,22668,2,2,191981.0,Not VIP,1,1,0.0,1,No,No,No,,,No,3,1,1,No,24400,28,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",417,3,104,Clothing,web,1.0
+383885,2018-02-15 10:04:02.993000+00:00,14503,14510,6,16,74694.0,VIP,4,3,0.0,4,Yes,No,No,VIP,VIP,No,3,1,1,No,99005,4,Footwear with outer soles of rubber or plastics,312,2,1272,Shoes,,1.0
+225103,2018-02-01 08:02:55.850000+00:00,66572,66589,2,2,139712.0,Not VIP,16,4,17.0858,16,Yes,No,Yes,T3,T4,No,3,1,1,Yes,74487,185,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",85,1,2,Clothing,web,0.0
+372735,2018-01-07 19:51:27.086000+00:00,108994,109018,2,2,2114.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T2,T2,Yes,4,1,1,Yes,125344,171,"Trousers, overalls, shorts",607,69,13,Clothing,web,1.0
+395722,2018-01-10 01:25:26.003000+00:00,72975,72993,2,2,259096.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,,,Yes,4,924,1,Yes,81866,141,Other footwear with outer soles of leather,643,1,5,Shoes,web,1.0
+73445,2018-01-09 19:56:04.983000+00:00,55574,55586,1,3,61126.0,VIP,9,3,0.0,9,Yes,No,Yes,T1,T1,Yes,3,924,1,Yes,61737,1115,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",128,2,19,Clothing,web,0.0
+84426,2018-01-10 16:43:47.100000+00:00,38060,38070,1,3,69522.0,Not VIP,24,3,0.0,24,Yes,No,No,T4,T4,No,3,924,1,Yes,41771,233," T-shirts, singlets and other vests",128,14,182,Clothing,web,1.0
+381296,2018-01-10 14:21:38.596000+00:00,84547,84568,2,2,258404.0,Not VIP,4,3,0.0,4,No,No,No,,,Yes,3,924,1,Yes,95586,279,"Trousers, overalls, shorts",65,4,48,Boys Clothing,web,1.0
+14451,2018-01-03 18:38:28.360000+00:00,15375,15382,1,1,13120.0,VIP,1,1,0.0,1,No,No,Yes,T1,T1,Yes,4,1,1,Yes,16359,245,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",199,1,9,Clothing,web,0.0
+166482,2018-01-22 05:07:24.363000+00:00,13084,13091,2,2,127144.0,Not VIP,1,1,5.0083,1,No,No,Yes,T4,,No,1,1,1,No,13858,33,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",498,1,2,Clothing,web,0.0
+268417,2018-02-09 00:55:14.913000+00:00,121138,121166,2,2,147840.0,VIP New,17,4,24.3652,17,Yes,No,Yes,VIP,T1,No,3,1,1,No,140464,129,Other footwear,551,1,485,Girls Shoes,web,0.0
+379799,2018-01-07 01:09:29.233000+00:00,55712,55725,2,2,257653.0,Not VIP,4,3,48.0236,4,No,No,No,,,No,3,1,1,Yes,61909,177,Other footwear with outer soles of leather,556,1,30,Shoes,app,1.0
+376935,2018-01-26 19:38:47.780000+00:00,38484,38494,1,3,256188.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,T4,Yes,3,1,1,No,42258,318,Other footwear,382,29,38,Shoes,web,1.0
+375999,2018-01-19 08:32:12.086000+00:00,36753,36762,2,2,255721.0,Not VIP,3,2,28.7029,3,Yes,No,Yes,T4,T4,No,3,1,1,Yes,8887,731,Other footwear with outer soles of leather,5,1,5,Shoes,web,1.0
+282279,2018-02-11 20:09:54.960000+00:00,125192,125222,1,1,26509.0,VIP New,1,1,0.0,1,Yes,No,Yes,VIP,VIP,Yes,2,5404,1,No,145558,22,"Handbags, whether or not with shoulder strap, including those without handle",1285,1,6,Bags,,0.0
+188032,2018-01-25 17:35:43.240000+00:00,1443,1445,2,2,141215.0,VIP,9,3,7.6715,9,Yes,No,No,VIP,T1,No,6,1,1,No,1478,92,Other footwear,1053,1,12,Shoes,web,0.0
+94846,2018-01-11 14:08:34.170000+00:00,4,4,2,2,77217.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,T4,No,3,921,1,Yes,4,4,Footwear with outer soles of rubber or plastics,188,2,115,Shoes,,0.0
+400662,2018-01-04 03:30:58.536000+00:00,155614,155647,2,2,63804.0,VIP,1,1,12.6688,1,Yes,No,No,T1,T1,No,3,1,1,No,183235,105,"Handbags, whether or not with shoulder strap, including those without handle",8,1,17,Bags,,1.0
+379816,2018-01-05 04:41:43.986000+00:00,41734,41744,5,2,378.0,Not VIP,19,4,0.0,19,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,Yes,74695,142,"Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed",15,2,17,Accessories,app,1.0
+45315,2018-01-08 08:32:20.103000+00:00,38133,38143,2,2,28788.0,Not VIP,12,4,35.7236,12,Yes,No,Yes,T3,T3,No,3,924,1,Yes,41858,1211,Jackets and blazers,153,14,27,Clothing,,0.0
+224941,2018-02-01 07:17:07.163000+00:00,70856,70873,1,3,84197.0,VIP,9,3,0.0,9,No,No,No,T2,T2,Yes,4,1,1,No,174936,103,"Trousers, overalls, shorts",1242,1,221,Clothing,app,1.0
+65550,2018-01-09 08:48:47.800000+00:00,83710,83731,2,2,55146.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,T4,Yes,3,924,1,Yes,94611,80,N/D,78,20,8,Clothing,web,1.0
+19756,2018-01-04 15:39:30.846000+00:00,12467,12474,2,2,17733.0,Not VIP,6,4,0.0,6,No,No,Yes,T2,T2,Yes,4,1,1,No,13188,46,,7,20,52,Clothing,web,0.0
+378784,2018-02-09 22:08:53.153000+00:00,70965,70982,1,3,257108.0,Not VIP,9,3,0.0,9,Yes,No,No,T3,T3,No,3,1,1,No,79540,84,"Handbags, whether or not with shoulder strap, including those without handle",511,1,17,Bags,app,1.0
+388655,2018-01-13 07:41:42.090000+00:00,94855,94878,2,2,262100.0,Not VIP,9,3,47.5089,9,No,No,No,T4,T4,No,3,924,1,Yes,107948,777,Other footwear,1070,1,121,Shoes,web,1.0
+154418,2018-01-19 22:58:23.883000+00:00,88021,88043,2,2,118859.0,Not VIP,30,3,14.0728,30,No,No,Yes,T4,,No,3,1,1,Yes,99722,312,"Blouses, shirts and shirt-blouses",429,6,39,Girls Clothing,web,0.0
+393052,2018-02-01 13:40:26.166000+00:00,68641,68658,2,2,103106.0,Not VIP,19,4,0.0,19,Yes,No,No,T4,T4,No,3,1,1,No,76873,120,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",132,3,39,Boys Clothing,app,1.0
+271961,2018-02-09 16:00:50.863000+00:00,19312,19318,2,2,131319.0,Not VIP,12,4,26.3626,12,Yes,No,No,T3,T3,Yes,3,1,1,No,20682,760,"Shawls, scarves, mufflers, mantillas, veils and similar articles",15,24,17,Accessories,app,0.0
+377338,2018-02-09 17:06:13.360000+00:00,1956,1959,2,2,156736.0,VIP,1,1,5.0083,1,No,No,No,T1,T1,Yes,4,1,1,No,4178,5,Footwear with outer soles of rubber or plastics,190,1,5,Shoes,web,1.0
+391695,2018-02-15 16:26:05.650000+00:00,153188,153221,2,5,196026.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T3,T3,Yes,3,1,1,Yes,180282,1217,"Trousers, overalls, shorts",590,1,18,Clothing,,1.0
+164593,2018-01-21 20:04:18.490000+00:00,56232,56245,1,3,125849.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,3,1,1,No,97800,28,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",2,17,96,Clothing,web,0.0
+292262,2018-02-13 21:39:20.320000+00:00,69523,69540,1,3,206580.0,Not VIP,27,3,0.0,27,No,No,No,T4,,No,3,1,1,No,77870,23,Footwear with outer soles of rubber or plastics,155,2,208,Shoes,web,0.0
+123913,2018-01-14 16:05:31.046000+00:00,5727,5731,2,2,97811.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T4,,No,3,1,1,Yes,50499,67,,44,20,14,Clothing,web,0.0
+402318,2018-01-01 14:59:47.636000+00:00,54483,54495,1,3,268625.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,T4,Yes,3,1,1,Yes,34912,69,,36,20,29,Clothing,web,1.0
+371395,2018-01-08 09:50:50.200000+00:00,34342,34351,2,2,253355.0,Not VIP,9,3,0.0,9,No,No,Yes,T4,T4,Yes,3,921,1,Yes,37618,87,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",339,4,14,Clothing,web,1.0
+198647,2018-01-27 15:40:32.133000+00:00,52749,52761,5,2,54416.0,Not VIP,41,4,5.0,41,Yes,Yes,Yes,VIP,VIP,Yes,3,1,1,No,116189,50,Articles of a kind normally carried in the pocket or in the handbag,15,2,17,Homeware,,0.0
+228870,2018-02-01 21:22:40.206000+00:00,110481,110505,2,2,3284.0,Not VIP,75,3,0.0,75,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,No,127206,132,Footwear with outer soles of rubber or plastics,1217,2,23,Shoes,web,0.0
+115972,2018-01-13 06:18:24.946000+00:00,109475,109499,4,2,87165.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T3,T3,Yes,3,921,1,Yes,125937,87,"Trousers, overalls, shorts",48,1,42,Clothing,app,1.0
+385078,2018-02-03 07:39:53.393000+00:00,106808,106830,2,2,134230.0,Not VIP,1,1,5.0083,1,Yes,No,No,T1,T1,No,4,1,1,No,122665,38,"Trousers, overalls, shorts",22,1,3,Clothing,app,1.0
+132624,2018-01-16 09:45:27.893000+00:00,17569,17576,2,2,104020.0,Not VIP,12,4,35.7236,12,Yes,No,Yes,T4,,Yes,3,1,1,Yes,18755,53,,484,20,9,Clothing,web,1.0
+140728,2018-01-17 16:06:58.536000+00:00,17714,17721,2,2,99318.0,Not VIP,12,4,28.7029,12,Yes,No,Yes,T3,T3,No,2,1,1,Yes,18917,283,Articles of a kind normally carried in the pocket or in the handbag,38,5,17,Accessories,web,0.0
+130448,2018-01-15 22:07:35.070000+00:00,34633,34642,1,3,102527.0,VIP,27,3,0.0,27,Yes,No,No,T1,T1,Yes,3,1,1,No,37952,461,Other footwear with outer soles of leather,521,1,28,Shoes,web,1.0
+373894,2018-02-16 00:46:28.153000+00:00,29480,29488,2,2,182105.0,Not VIP,1,1,20.9568,1,Yes,No,No,T1,T1,Yes,4,1,1,No,150430,37,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",36,1,14,Clothing,app,1.0
+393257,2018-02-02 13:32:56.786000+00:00,2264,2267,2,2,193567.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T3,No,6,1,1,No,180811,105,Other footwear,1095,24,91,Shoes,,1.0
+397978,2018-01-08 13:29:47.746000+00:00,123889,123919,2,2,109659.0,VIP,19,4,0.0,19,Yes,No,Yes,VIP,VIP,No,6,921,1,Yes,143922,998,Dresses,57,1,9,Clothing,app,1.0
+160316,2018-01-21 01:27:43.593000+00:00,36764,36773,2,2,122896.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,,No,3,1,1,Yes,40331,673,"Handbags, whether or not with shoulder strap, including those without handle",11,26,17,Bags,web,0.0
+84128,2018-01-10 16:17:22.996000+00:00,477,479,1,3,69290.0,Not VIP,4,3,0.0,4,No,No,No,T3,T4,Yes,4,924,1,Yes,482,48,Footwear with outer soles of rubber or plastics,1071,1,25,Shoes,web,0.0
+251261,2018-02-06 02:53:21.943000+00:00,65336,65353,1,1,51545.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,73070,97,Other footwear,452,4,38,Shoes,web,0.0
+387727,2018-02-06 08:17:57.760000+00:00,115851,115880,1,3,178536.0,Not VIP,8,3,0.0,8,No,No,No,,,No,3,1,1,Yes,133783,25,"Trousers, overalls, shorts",33,2,34,Clothing,web,1.0
+139046,2018-01-17 10:37:26.503000+00:00,82893,82914,3,4,108418.0,Not VIP,7,1,0.0,7,Yes,No,Yes,T4,,No,4,1,0,Yes,93648,634,N/D,568,8,17,Bags,web,0.0
+131230,2018-01-16 02:17:35.100000+00:00,458,460,2,2,36406.0,Not VIP,1,1,0.0,1,Yes,Yes,Yes,VIP,VIP,No,3,1,1,No,17331,50," T-shirts, singlets and other vests",212,4,109,Clothing,web,1.0
+192237,2018-01-26 12:37:52.310000+00:00,68605,68622,4,2,143917.0,Not VIP,5,3,0.0,5,No,No,No,T4,,Yes,3,1,1,Yes,76828,1282,Swimwear,102,2,85,Girls Clothing,web,0.0
+48607,2018-01-08 10:33:11.186000+00:00,25014,25022,2,2,41997.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,No,3,924,1,Yes,73912,14,"Trousers, overalls, shorts",155,1,47,Clothing,,1.0
+272536,2018-02-09 17:45:12.073000+00:00,100286,100308,2,2,194224.0,Not VIP,1,1,5.0083,1,No,No,Yes,T4,,No,3,5082,1,No,114620,79,Other footwear,250,26,413,Shoes,web,0.0
+56149,2018-01-08 16:34:06.320000+00:00,1832,1835,2,2,41778.0,VIP New,12,4,28.7029,12,Yes,No,Yes,VIP,VIP,No,6,921,1,Yes,56510,460,Belts,53,1,102,Accessories,app,1.0
+391565,2018-01-08 08:41:41.753000+00:00,43071,43082,2,2,45030.0,VIP,9,3,0.0,9,No,No,No,VIP,VIP,No,3,1,1,Yes,47507,922,Articles of apparel and clothing accessories,112,89,8,Clothing,,1.0
+389875,2018-01-11 13:00:42.333000+00:00,7455,7460,2,2,254666.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,Yes,3,924,1,Yes,7817,36,Other footwear with outer soles of leather,192,1,387,Shoes,web,1.0
+373611,2018-02-10 22:07:13.510000+00:00,38814,38824,2,2,61508.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T4,T4,Yes,3,1,1,Yes,42646,9,,106,1,289,Accessories,web,1.0
+382104,2018-01-19 11:55:34.746000+00:00,16215,16222,2,2,143218.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,Yes,3,1,1,No,117810,614,Footwear with outer soles of rubber or plastics,643,51,156,Shoes,app,1.0
+51039,2018-01-08 12:29:44.203000+00:00,12664,12671,2,2,43929.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T3,T3,No,3,921,1,Yes,13400,731,Other footwear with outer soles of leather,80,1,31,Shoes,app,0.0
+386628,2018-02-08 13:57:21.410000+00:00,151854,151887,2,2,59192.0,VIP,1,1,13.1424,1,Yes,No,No,T1,T1,Yes,3,1,1,No,178630,189,N/D,8,24,222,Clothing,web,1.0
+218756,2018-01-31 06:36:07.726000+00:00,96682,96705,5,2,112717.0,VIP,19,4,0.0,19,Yes,No,Yes,T1,T2,No,3,1,1,No,110149,2196,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",36,15,39,Boys Clothing,web,1.0
+388668,2018-01-08 15:02:22.253000+00:00,152376,152409,2,2,47656.0,Not VIP,3,2,0.0,3,Yes,No,Yes,T4,T4,Yes,3,921,1,Yes,179290,998,Dresses,9,1,43,Clothing,web,1.0
+95725,2018-01-11 15:26:39.066000+00:00,65059,65076,2,2,77843.0,Not VIP,5,3,0.0,5,Yes,No,No,T3,T4,No,3,921,1,Yes,72753,887,Footwear with outer soles of rubber or plastics,274,2,28,Shoes,app,0.0
+188563,2018-01-25 19:23:48.543000+00:00,22727,22735,1,1,141590.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,,Yes,3,1,1,Yes,24474,1509,Footwear with outer soles of rubber or plastics,608,2,488,Shoes,web,0.0
+312949,2018-02-18 07:44:52.273000+00:00,17994,18001,2,2,219077.0,Not VIP,1,1,0.0,1,No,No,Yes,T4,,No,3,1,1,No,118691,270,Other footwear with outer soles of leather,44,1,28,Shoes,web,0.0
+246456,2018-02-05 07:39:45.793000+00:00,115728,115756,2,2,25175.0,VIP,24,3,0.0,24,Yes,No,Yes,T2,T3,Yes,3,1,1,No,133617,443,Items of leather clothing & accessories,500,12,33,Clothing,,0.0
+44023,2018-01-08 07:50:47.773000+00:00,37095,37104,2,2,711.0,Not VIP,16,4,15.4853,16,Yes,Yes,No,T2,T2,Yes,3,921,1,Yes,40690,97,"Trousers, overalls, shorts",577,3,29,Clothing,web,0.0
+3454,2018-01-01 20:51:11.400000+00:00,4579,4583,1,3,3310.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,3,1,1,No,4749,35,"Handbags, whether or not with shoulder strap, including those without handle",87,2,17,Bags,web,0.0
+372352,2018-01-23 23:17:58.453000+00:00,153945,153977,2,2,253829.0,Not VIP,16,4,15.4853,16,Yes,No,Yes,T3,T3,Yes,3,1,1,Yes,181192,452,"Coats: overcoats, raincoat, cape, cloaks and similar articles",26,1,21,Clothing,app,1.0
+1595,2018-01-01 12:08:19.623000+00:00,2271,2274,3,3,1529.0,Not VIP,4,3,0.0,4,No,No,No,,,No,2,1,1,Yes,2336,105,Other footwear with outer soles of leather,11,1,30,Shoes,web,0.0
+385314,2018-02-07 06:33:38.053000+00:00,1840,1843,2,2,260382.0,Not VIP,19,4,0.0,19,Yes,No,Yes,,,No,3,1,1,No,1889,318,Other footwear,623,29,108,Shoes,web,1.0
+67557,2018-01-09 11:54:24.936000+00:00,18857,18863,1,3,56709.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,,No,3,924,1,Yes,20186,166,Footwear with outer soles of rubber or plastics,67,11,25,Shoes,web,0.0
+49477,2018-01-08 11:12:35.946000+00:00,50363,50375,2,2,42692.0,VIP New,19,4,0.0,19,Yes,No,Yes,VIP,VIP,Yes,3,921,1,Yes,55765,299,Other footwear with outer soles of leather,44,1,28,Shoes,app,1.0
+23176,2018-01-05 04:06:43.810000+00:00,7839,7844,4,2,20738.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,3,1,1,Yes,39611,313,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",203,1,65,Girls Clothing,web,1.0
+207135,2018-01-29 07:31:45.900000+00:00,16926,16933,2,2,153708.0,Not VIP,1,1,19.4557,1,Yes,No,No,T4,T4,No,3,1,1,No,115277,70,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",1070,10,2,Clothing,,0.0
+250380,2018-02-05 22:39:15.486000+00:00,116820,116849,1,3,158435.0,VIP,19,4,0.0,19,Yes,No,Yes,T1,T2,Yes,4,1,1,No,134986,232,"Trousers, overalls, shorts",174,14,201,Clothing,app,0.0
+402913,2018-01-05 07:19:32.416000+00:00,156231,156264,2,2,268905.0,Not VIP,4,3,13.8528,4,Yes,No,No,T3,T4,Yes,3,1,1,No,183993,310,Other footwear with outer soles of leather,22,2,78,Shoes,web,1.0
+126395,2018-01-15 05:05:25.483000+00:00,70929,70946,2,2,99672.0,Not VIP,1,1,12.6688,1,No,No,No,T3,,No,3,1,1,Yes,79499,81,"Handbags, whether or not with shoulder strap, including those without handle",286,1,17,Bags,web,0.0
+258098,2018-02-07 07:03:56.616000+00:00,1866,1869,2,2,185455.0,Not VIP,5,3,0.0,5,No,No,No,T4,,Yes,3,1,1,Yes,1919,464,Footwear with outer soles of rubber or plastics,15,2,213,Shoes,web,0.0
+23438,2018-01-05 05:29:53.996000+00:00,2428,2431,2,2,20956.0,Not VIP,5,3,0.0,5,No,No,Yes,T4,T4,No,3,1,1,No,2496,92," T-shirts, singlets and other vests",182,1,19,Clothing,web,1.0
+97613,2018-01-11 18:28:12.883000+00:00,17436,17443,2,2,79165.0,Not VIP,32,4,0.0,32,Yes,No,Yes,T4,T4,Yes,3,924,1,Yes,18611,36,Other footwear with outer soles of leather,192,1,387,Shoes,web,0.0
+270580,2018-02-09 11:25:04.140000+00:00,80890,80909,2,2,30078.0,VIP,40,4,5.8485,40,Yes,No,No,T3,T3,No,3,1,1,No,91250,214," T-shirts, singlets and other vests",67,22,35,Clothing,,0.0
+291187,2018-02-13 17:14:45.026000+00:00,49258,49270,2,2,106804.0,Not VIP,2,1,42.2351,2,No,Yes,No,T1,T1,Yes,6,1,1,Yes,54511,25," T-shirts, singlets and other vests",33,23,18,Clothing,web,0.0
+389081,2018-01-24 11:31:52.013000+00:00,151799,151832,2,2,262307.0,Not VIP,4,3,0.0,4,No,No,No,,,No,3,1,1,Yes,178568,407,Suits,334,1,181,Clothing,web,1.0
+385416,2018-01-22 06:07:49.073000+00:00,151537,151570,2,2,69530.0,VIP New,16,4,15.4853,16,Yes,No,No,T2,T2,Yes,4,1,1,Yes,28736,410,Dresses,27,2,228,Clothing,web,1.0
+9562,2018-01-02 23:39:12.570000+00:00,1821,1824,2,2,8832.0,Not VIP,9,3,0.0,9,Yes,No,Yes,T4,,Yes,3,1,1,Yes,11455,87,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",189,2,6,Accessories,web,0.0
+376525,2018-01-10 18:24:53.853000+00:00,26539,26547,2,2,255981.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T4,T4,Yes,4,924,1,Yes,28793,67,Other,459,1,6,Accessories,web,1.0
+89029,2018-01-11 01:41:17.280000+00:00,17246,17253,2,2,73047.0,Not VIP,3,2,0.0,3,No,No,No,T4,,No,3,1,1,No,18403,50,Footwear with outer soles of rubber or plastics,132,1,31,Shoes,web,0.0
+399033,2018-02-01 00:49:55.020000+00:00,60599,60613,2,2,267119.0,Not VIP,1,1,5.0083,1,Yes,No,No,,,No,3,1,1,Yes,67581,141,Other footwear with outer soles of leather,1248,1,28,Shoes,web,1.0
+399371,2018-01-18 17:35:58.743000+00:00,26386,26394,2,2,105935.0,Not VIP,18,4,0.0,18,No,No,No,,,No,3,1,1,No,71553,105,"Of base metal, whether or not plated with precious metal",133,1,6,Jewellery,web,1.0
+204754,2018-01-28 19:21:51.510000+00:00,148216,148249,2,2,67703.0,VIP New,1,1,5.0083,1,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,174261,141,Other footwear with outer soles of leather,17,1,37,Shoes,web,1.0
+371259,2018-02-14 19:53:00.826000+00:00,33500,33509,2,9,253280.0,Not VIP,4,3,0.0,4,Yes,No,No,,,Yes,3,1,1,Yes,80182,39,"Coats: overcoats, raincoat, cape, cloaks and similar articles",803,36,114,Clothing,web,1.0
+126809,2018-01-15 07:48:01.563000+00:00,73998,74016,2,2,11732.0,VIP New,5,3,0.0,5,Yes,No,No,VIP,VIP,No,6,1,1,No,88423,1629,"Coats: overcoats, raincoat, cape, cloaks and similar articles",994,10,29,Clothing,web,0.0
+58656,2018-01-08 19:32:14.253000+00:00,28370,28378,2,2,24042.0,Not VIP,19,4,35.7236,19,Yes,Yes,Yes,VIP,VIP,Yes,3,924,1,Yes,52366,87,"Trousers, overalls, shorts",315,3,29,Clothing,app,0.0
+6145,2018-01-02 11:48:59.706000+00:00,7577,7582,2,2,5758.0,VIP,12,4,31.0431,12,Yes,No,No,T4,T4,No,3,1,1,Yes,7947,212,Footwear with outer soles of rubber or plastics,236,1,72,Shoes,web,0.0
+137736,2018-01-17 04:37:38.726000+00:00,75535,75553,3,2,107554.0,Not VIP,1,1,0.0,1,Yes,No,Yes,,,Yes,2,1,1,Yes,84852,25," T-shirts, singlets and other vests",33,2,3,Clothing,web,0.0
+199837,2018-01-27 20:06:36.133000+00:00,11036,11041,5,3,148871.0,Not VIP,9,3,0.0,9,No,No,No,T4,,Yes,3,1,1,No,11649,11,"Shawls, scarves, mufflers, mantillas, veils and similar articles",33,1,17,Accessories,web,1.0
+386384,2018-01-19 02:54:55.603000+00:00,151775,151808,2,2,99884.0,Not VIP,12,4,0.0,12,Yes,No,No,,,No,3,1,1,No,178542,290,"Coats: overcoats, raincoat, cape, cloaks and similar articles",656,1,176,Clothing,web,1.0
+387971,2018-01-08 23:51:45.596000+00:00,18453,18459,2,9,261755.0,Not VIP,4,3,0.0,4,Yes,No,Yes,,,No,3,921,1,Yes,19726,198,N/D,219,1,31,Shoes,app,1.0
+120766,2018-01-13 20:56:26.720000+00:00,2682,2685,2,2,63874.0,VIP New,31,1,46.557,31,Yes,No,Yes,T1,T1,Yes,4,1,1,Yes,2762,2,Shirts,366,6,54,Clothing,web,0.0
+403267,2018-01-28 21:32:17.346000+00:00,15936,15943,2,2,269073.0,Not VIP,5,3,0.0,5,No,No,No,,,No,3,1,1,No,16972,23,Other footwear,75,2,210,Shoes,web,1.0
+70043,2018-01-09 15:03:01.836000+00:00,53881,53893,2,2,58554.0,Not VIP,40,4,5.8485,40,Yes,No,No,T2,T2,Yes,3,924,1,Yes,59816,635,"Footwear with outer soles of leather, and uppers which consist of leather straps across the instep and around the big toe",505,19,31,Shoes,web,0.0
+391247,2018-01-06 22:01:14.940000+00:00,153082,153115,2,2,117559.0,Not VIP,24,3,0.0,24,Yes,No,No,T2,T2,Yes,4,1,1,Yes,180154,968,Other footwear with outer soles of leather,60,1,5,Shoes,web,1.0
+104389,2018-01-12 10:23:35.740000+00:00,54286,54298,2,2,7941.0,VIP New,2,1,45.0845,2,Yes,No,Yes,VIP,VIP,Yes,6,924,1,No,60285,36,Footwear with outer soles of rubber or plastics,38,1,246,Shoes,web,0.0
+51165,2018-01-08 12:34:39.046000+00:00,42228,42238,5,2,44039.0,Not VIP,24,3,0.0,24,Yes,No,Yes,T3,T4,No,4,921,1,Yes,46551,67,"Trousers, overalls, shorts",459,1,201,Clothing,web,0.0
+178352,2018-01-24 04:59:01.370000+00:00,71037,71054,2,2,21806.0,VIP New,4,3,0.0,4,No,No,No,VIP,VIP,Yes,6,1,1,No,79623,16,Dresses,15,9,13,Clothing,web,1.0
+43373,2018-01-08 07:26:06.080000+00:00,30857,30865,2,2,37768.0,Not VIP,12,4,35.7236,12,Yes,No,Yes,T2,T2,Yes,3,921,1,Yes,33655,11,N/D,17,20,19,Clothing,web,0.0
+383536,2018-02-03 13:25:36.750000+00:00,25986,25994,1,3,186053.0,Not VIP,27,3,0.0,27,Yes,No,Yes,T4,T4,Yes,3,1,1,No,28163,9,Other footwear,106,1,78,Shoes,web,1.0
+134589,2018-01-16 16:44:57.070000+00:00,29735,29743,2,2,95310.0,Not VIP,20,3,0.0,20,Yes,No,No,T4,T4,No,3,1,1,Yes,32385,998,Footwear with outer soles of rubber or plastics,30,1,5,Shoes,web,0.0
+231524,2018-02-02 10:54:28.793000+00:00,77362,77380,2,2,45009.0,VIP New,44,4,43.2407,44,Yes,No,Yes,VIP,VIP,Yes,6,1,1,Yes,87001,75,Other footwear,313,1,334,Shoes,web,0.0
+276127,2018-02-10 12:10:25.490000+00:00,75477,75495,2,2,196433.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,,Yes,3,1,1,No,84777,27,Footwear with outer soles of rubber or plastics,33,2,12,Shoes,app,1.0
+390991,2018-01-02 08:37:55.046000+00:00,8908,8913,2,2,263267.0,Not VIP,19,4,0.0,19,No,No,No,,,Yes,3,1,1,Yes,9381,361,Other footwear,379,2,36,Shoes,app,1.0
+396208,2018-01-08 14:48:04.990000+00:00,33323,33332,1,14,56634.0,Not VIP,9,3,0.0,9,No,No,No,,,No,3,921,1,Yes,36457,713,Dresses,822,36,295,Clothing,,1.0
+148770,2018-01-18 23:15:45.673000+00:00,204,204,4,2,106510.0,Not VIP,1,1,0.0,1,Yes,No,No,T4,T4,Yes,3,1738,1,No,5211,123,Jackets and blazers,116,2,52,Clothing,app,0.0
+43631,2018-01-08 07:36:47.813000+00:00,3961,3965,2,2,422.0,VIP New,3,2,24.7308,3,Yes,No,Yes,VIP,VIP,Yes,3,921,1,Yes,4093,46,,14,1,114,Clothing,app,0.0
+311935,2018-02-18 02:00:34.386000+00:00,129144,129174,5,2,218407.0,Not VIP,17,4,0.0,17,No,No,No,,,No,3,1,1,No,150463,60,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",62,4,27,Clothing,web,0.0
+78908,2018-01-10 08:19:41.643000+00:00,3946,3950,3,2,65325.0,Not VIP,3,2,0.0,3,No,No,No,T2,T3,No,3,1,1,No,7504,6,N/D,6,1,104,Clothing,app,0.0
+83359,2018-01-10 15:12:59.876000+00:00,35609,35618,2,2,67716.0,VIP New,12,4,0.0,12,Yes,No,Yes,T1,T1,Yes,6,924,1,Yes,39033,141,Other footwear with outer soles of leather,72,1,31,Shoes,web,1.0
+379064,2018-01-08 14:27:24.286000+00:00,2391,2394,2,2,40172.0,Not VIP,10,3,0.0,10,Yes,No,No,T2,T2,Yes,3,921,1,Yes,6990,5,Footwear with outer soles of rubber or plastics,197,1,5,Shoes,app,1.0
+398752,2018-02-02 18:49:01.720000+00:00,155118,155151,2,2,266993.0,Not VIP,1,1,0.0,1,No,No,No,,,No,3,1,1,Yes,182610,139,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",429,4,129,Girls Clothing,web,1.0
+59994,2018-01-08 21:25:38.930000+00:00,19812,19818,2,2,50981.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T4,,Yes,6,921,1,Yes,21229,5,,249,20,38,Shoes,,0.0
+143583,2018-01-18 02:57:32.976000+00:00,5143,5147,1,1,111570.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T2,T2,No,3,1,1,No,82104,310,"Trousers, overalls, shorts",1178,19,231,Clothing,web,0.0
+195412,2018-01-27 00:38:58.980000+00:00,100715,100737,2,2,145971.0,Not VIP,50,3,0.0,50,Yes,No,Yes,T3,T3,Yes,3,1,1,Yes,32216,1177,"Blouses, shirts and shirt-blouses",1216,36,150,Clothing,web,0.0
+142317,2018-01-17 21:19:25.830000+00:00,65276,65293,2,2,110686.0,Not VIP,1,1,0.0,1,Yes,No,No,T4,T4,No,3,1,1,Yes,73000,730,Swimwear,627,2,99,Clothing,web,1.0
+390712,2018-01-30 10:57:38.166000+00:00,7563,7568,1,3,158006.0,VIP,4,3,0.0,4,Yes,No,No,T1,T1,No,3,1,1,Yes,7931,79,"Trousers, overalls, shorts",316,2,27,Clothing,app,1.0
+62607,2018-01-09 02:39:54.880000+00:00,50231,50243,2,2,53019.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,No,4,921,1,Yes,55618,87,,197,1,42,Clothing,web,1.0
+381070,2018-01-08 08:35:41.953000+00:00,11152,11157,2,2,258301.0,Not VIP,12,4,28.7029,12,Yes,No,No,,,No,3,921,1,Yes,11781,318,N/D,115,1,38,Shoes,,1.0
+253520,2018-02-06 13:04:52.436000+00:00,84128,84149,5,2,13001.0,VIP,4,3,0.0,4,Yes,No,No,VIP,VIP,Yes,6,1,1,No,95095,599,Dresses,15,27,222,Clothing,,1.0
+113297,2018-01-12 23:42:11.016000+00:00,9815,9821,3,2,90248.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,T4,No,3,921,1,Yes,10348,391,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",47,36,182,Clothing,,0.0
+403066,2018-02-04 22:55:03.790000+00:00,107939,107963,2,2,268981.0,Not VIP,4,3,0.0,4,No,No,No,,,No,3,1,1,No,125088,11,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",103,4,27,Clothing,web,1.0
+43296,2018-01-08 07:22:28.220000+00:00,18075,18082,2,2,5180.0,Not VIP,19,4,0.0,19,Yes,Yes,Yes,VIP,VIP,No,6,921,1,Yes,7170,41,Other footwear,132,24,38,Shoes,web,0.0
+264339,2018-02-08 09:58:38.690000+00:00,120467,120495,2,2,178681.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,T4,No,3,1,1,No,139638,127,"Handbags, whether or not with shoulder strap, including those without handle",1071,1,17,Bags,,0.0
+254797,2018-02-06 16:46:03.810000+00:00,114902,114929,2,2,16790.0,VIP New,12,4,33.3833,12,Yes,No,Yes,T2,T2,No,3,1,1,No,132618,189,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",39,4,19,Clothing,app,1.0
+292250,2018-02-13 21:37:19.240000+00:00,77797,77815,2,2,50990.0,VIP,61,3,0.0,61,Yes,No,No,T1,T1,Yes,4,1,1,No,101549,14," T-shirts, singlets and other vests",1227,1,63,Clothing,web,0.0
+260821,2018-02-07 17:43:42.386000+00:00,13764,13771,4,2,60465.0,Not VIP,5,3,0.0,5,Yes,Yes,No,T2,T2,No,3,1,1,Yes,86540,456,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",452,1,17,Accessories,web,0.0
+308009,2018-02-17 05:32:21.526000+00:00,123764,123794,2,2,168948.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T3,T3,Yes,3,1,1,No,143771,2013,Swimwear,15,2,8,Clothing,,1.0
+36422,2018-01-07 04:47:43.406000+00:00,20630,20637,2,2,32043.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,T4,No,4,1,1,Yes,22144,318,N/D,115,29,5,Shoes,app,0.0
+281631,2018-02-11 17:08:32.070000+00:00,76153,76171,3,4,199921.0,Not VIP,7,1,0.0,7,No,No,No,,,No,3,1,0,No,85597,956,N/D,794,8,220,Clothing,,0.0
+68121,2018-01-09 12:39:07.240000+00:00,219,219,2,2,5536.0,Not VIP,48,4,0.0,48,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,No,6650,37," T-shirts, singlets and other vests",36,4,2,Clothing,web,1.0
+313307,2018-02-18 10:00:22.833000+00:00,133138,133168,2,2,135066.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,T4,No,3,1,1,No,155341,94," T-shirts, singlets and other vests",335,1,27,Clothing,app,0.0
+385604,2018-01-10 15:40:41.833000+00:00,114851,114878,2,2,260548.0,Not VIP,9,3,35.9539,9,No,No,No,,,No,3,924,1,No,132553,263,Brassi?res,295,14,399,Clothing,web,1.0
+46260,2018-01-08 09:01:43.290000+00:00,47448,47460,1,3,40086.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,Yes,3,921,1,Yes,52466,60,"Trousers, overalls, shorts",449,4,201,Clothing,web,1.0
+46770,2018-01-08 09:19:38.956000+00:00,23537,23545,4,2,40505.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T2,Yes,3,921,1,Yes,25374,346,"Trousers, overalls, shorts",368,23,75,Activewear,,0.0
+219793,2018-01-31 10:49:47.026000+00:00,82156,82176,2,2,161714.0,Not VIP,41,4,5.0,41,No,No,Yes,T4,,No,3,1,1,No,96679,6," T-shirts, singlets and other vests",402,1,2,Clothing,web,0.0
+383797,2018-02-15 22:29:26.590000+00:00,151129,151162,2,2,143531.0,Not VIP,3,2,0.0,3,Yes,No,No,T2,T2,No,3,1,1,Yes,177758,355,,155,20,19,Clothing,app,1.0
+386180,2018-01-26 13:09:20.610000+00:00,3024,3027,2,2,260831.0,Not VIP,15,4,12.9314,15,Yes,No,Yes,T4,T4,No,3,1,1,No,59613,92,"Handbags, whether or not with shoulder strap, including those without handle",217,1,17,Bags,web,1.0
+36267,2018-01-07 03:43:06.606000+00:00,25341,25349,3,4,31920.0,Not VIP,7,1,0.0,7,Yes,No,Yes,VIP,VIP,Yes,7,1,0,Yes,27442,420,"Blouses, shirts and shirt-blouses",732,8,146,Clothing,app,0.0
+405070,2018-01-08 09:10:25.440000+00:00,91875,91897,2,2,269937.0,Not VIP,17,4,19.1182,17,Yes,No,No,T4,T4,No,3,921,1,Yes,104297,36,"Handbags, whether or not with shoulder strap, including those without handle",103,1,17,Bags,web,1.0
+395752,2018-01-04 12:28:53.963000+00:00,8105,8110,1,3,6223.0,VIP New,9,3,0.0,9,Yes,No,Yes,VIP,VIP,No,4,1,1,Yes,8501,530,Other footwear,163,4,515,Girls Shoes,app,1.0
+226459,2018-02-01 13:33:32.943000+00:00,5708,5712,2,2,165888.0,Not VIP,12,4,28.7029,12,Yes,No,Yes,T4,,No,3,1,1,Yes,65569,27,Articles of a kind normally carried in the pocket or in the handbag,24,12,17,Accessories,,0.0
+384549,2018-01-09 08:21:14.790000+00:00,25931,25939,1,3,32697.0,VIP,27,3,0.0,27,No,No,No,T2,T2,Yes,3,924,1,Yes,34794,1228,Footwear with outer soles of rubber or plastics,32,1,38,Shoes,,1.0
+259866,2018-02-07 14:51:46.490000+00:00,22803,22811,1,3,186472.0,Not VIP,24,3,0.0,24,No,No,No,T4,,Yes,3,1,1,No,138180,140,Other footwear with outer soles of leather,106,1,31,Shoes,web,0.0
+372269,2018-01-31 20:11:32.813000+00:00,123542,123572,2,2,253797.0,VIP New,1,1,20.9568,1,Yes,No,Yes,T2,T3,Yes,3,1,1,No,143505,92,Dresses,267,1,35,Clothing,web,1.0
+393761,2018-02-09 17:00:40.523000+00:00,76375,76393,2,2,188704.0,Not VIP,17,4,19.1182,17,Yes,No,No,,,Yes,3,1,1,No,85870,87,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",23,1,6,Accessories,web,1.0
+12380,2018-01-03 12:48:18.370000+00:00,13513,13520,2,2,11292.0,Not VIP,45,4,0.0,45,Yes,Yes,Yes,VIP,VIP,Yes,6,1,1,No,14330,105,Other footwear with outer soles of leather,128,1,28,Shoes,,0.0
+207586,2018-01-29 09:41:06.360000+00:00,23549,23557,1,3,153987.0,Not VIP,9,3,0.0,9,No,No,No,T4,,No,3,1,1,Yes,40575,27,N/D,22,4,452,Clothing,web,0.0
+250251,2018-02-05 22:15:58.140000+00:00,56,56,2,2,26535.0,VIP New,1,1,5.0083,1,Yes,No,Yes,T2,T3,Yes,4,1,1,No,657,46,,595,4,264,Clothing,web,1.0
+241554,2018-02-04 10:38:58.120000+00:00,61877,61892,2,5,175190.0,Not VIP,14,3,0.0,14,Yes,No,No,T4,,Yes,3,1,1,Yes,69066,41,Other footwear,40,24,101,Shoes,web,0.0
+272147,2018-02-09 16:33:55.390000+00:00,94647,94670,2,2,122311.0,Not VIP,7,1,0.0,7,No,No,No,T1,T1,No,7,1,0,No,110900,101," T-shirts, singlets and other vests",190,26,3,Clothing,web,0.0
+10813,2018-01-03 06:21:27.563000+00:00,12067,12072,2,2,9918.0,VIP,12,4,33.3833,12,Yes,No,Yes,T2,T2,Yes,3,1,1,Yes,12755,101,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",38,2,3,Clothing,,0.0
+393986,2018-01-21 16:29:08.413000+00:00,91101,91123,1,1,125123.0,Not VIP,1,1,0.0,1,No,No,No,,,Yes,3,1,1,No,103368,2290,Other footwear,456,1,208,Shoes,web,1.0
+150519,2018-01-19 08:37:28.910000+00:00,47847,47859,1,3,109707.0,Not VIP,14,3,0.0,14,No,No,No,T4,,No,3,1,1,Yes,52924,87,Footwear with outer soles of rubber or plastics,207,1,12,Shoes,,0.0
+189658,2018-01-25 23:49:53.790000+00:00,66782,66799,2,2,142334.0,Not VIP,1,1,5.0083,1,No,No,No,T4,,No,4,1,1,Yes,74718,170,Shirts,2,1,465,Clothing,web,0.0
+146409,2018-01-18 14:46:55.663000+00:00,31051,31059,2,2,56045.0,Not VIP,18,4,0.0,18,Yes,No,Yes,T2,T2,Yes,4,1,1,Yes,33875,5,Footwear with outer soles of rubber or plastics,286,1,12,Shoes,web,1.0
+400563,2018-01-10 17:22:24.966000+00:00,22642,22650,2,2,138407.0,VIP New,5,3,0.0,5,Yes,No,Yes,T1,T1,No,3,1,1,No,14286,92,"Shawls, scarves, mufflers, mantillas, veils and similar articles",15,1,1,Accessories,app,1.0
+381342,2018-02-13 22:38:32.373000+00:00,136042,136073,2,2,258431.0,Not VIP,4,3,0.0,4,No,No,Yes,,,No,3,5082,1,No,176997,53,N/D,145,1,9,Clothing,,1.0
+253921,2018-02-06 14:09:44.163000+00:00,849,851,1,3,182850.0,Not VIP,9,3,0.0,9,No,No,Yes,T4,,Yes,4,1,1,No,861,11," T-shirts, singlets and other vests",341,4,3,Clothing,web,0.0
+377983,2018-02-17 12:24:37.786000+00:00,149580,149613,2,2,248159.0,Not VIP,30,3,12.9601,30,Yes,No,No,T3,T3,Yes,3,1,1,Yes,123133,543,Dresses,334,2,35,Clothing,web,1.0
+109858,2018-01-12 17:43:34.263000+00:00,15889,15896,2,2,36388.0,VIP,15,4,0.0,15,Yes,No,No,T2,T2,Yes,3,1,1,No,16923,33,"Other e.g. braces, suspenders, garters and similar articles",316,1,6,Accessories,app,1.0
+42405,2018-01-08 05:52:26.646000+00:00,35605,35614,2,2,5087.0,Not VIP,4,3,0.0,4,Yes,Yes,Yes,VIP,VIP,Yes,6,921,1,Yes,39008,333,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",15,4,35,Clothing,web,0.0
+81892,2018-01-10 13:13:59.176000+00:00,59572,59586,2,2,67603.0,Not VIP,15,4,12.9314,15,Yes,No,Yes,T2,T2,No,4,924,1,Yes,66382,422,Other footwear with outer soles of leather,230,1,38,Shoes,web,0.0
+208976,2018-01-29 14:43:16.213000+00:00,83285,83306,5,2,14342.0,VIP,7,1,0.0,7,Yes,No,No,VIP,VIP,Yes,7,1,0,No,114129,33,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",15,4,2,Clothing,web,1.0
+83006,2018-01-10 14:45:19.563000+00:00,69964,69981,2,2,68440.0,Not VIP,30,3,10.3428,30,Yes,No,Yes,T2,,Yes,3,1,1,Yes,78396,87,Items of leather clothing & accessories,83,3,42,Clothing,,1.0
+203607,2018-01-28 15:10:43.426000+00:00,62210,62226,1,3,151329.0,Not VIP,14,3,0.0,14,Yes,No,No,T3,T4,No,3,1,1,No,110593,28," T-shirts, singlets and other vests",341,179,2,Clothing,web,0.0
+380307,2018-01-10 20:44:20.953000+00:00,73725,73743,1,3,18347.0,Not VIP,24,3,0.0,24,No,No,No,T3,T3,Yes,3,921,1,Yes,82742,132,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",22,2,3,Clothing,app,1.0
+181157,2018-01-24 15:46:21.803000+00:00,52531,52543,2,2,129389.0,Not VIP,1,1,0.0,1,No,No,Yes,T2,T2,No,3,1,1,No,58260,70," T-shirts, singlets and other vests",1217,10,8,Clothing,web,0.0
+275718,2018-02-10 10:22:07.173000+00:00,12480,12487,2,9,14846.0,Not VIP,4,3,0.0,4,Yes,No,No,T3,T4,No,3,1,1,No,51044,87,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",218,1,2,Clothing,web,0.0
+371025,2018-01-09 20:16:54.890000+00:00,73602,73620,2,2,104863.0,Not VIP,1,1,5.0083,1,No,No,No,T4,T4,No,3,1,1,No,82606,189,"Coats: overcoats, raincoat, cape, cloaks and similar articles",85,5,88,Clothing,,1.0
+224647,2018-02-01 05:41:35.700000+00:00,7792,7797,2,2,61823.0,VIP New,4,3,5.0083,4,Yes,No,No,VIP,VIP,No,6,1,1,No,123569,33,Other footwear,459,1,11,Shoes,app,0.0
+263232,2018-02-08 04:32:04.966000+00:00,65206,65223,2,2,188574.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,No,4,1,1,Yes,72919,2076,"Trousers, overalls, shorts",240,27,63,Clothing,web,1.0
+371567,2018-01-19 10:19:53.553000+00:00,16435,16442,1,3,170538.0,Not VIP,4,3,0.0,4,Yes,No,Yes,T3,T3,No,4,1,1,No,91941,787,"Trousers, overalls, shorts",89,14,317,Clothing,web,1.0
+403919,2018-02-02 01:24:41.576000+00:00,90154,90176,2,2,160624.0,Not VIP,4,3,5.0083,4,Yes,No,Yes,T4,T4,No,3,1,1,No,102264,11,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",412,4,8,Clothing,web,1.0
+100225,2018-01-11 23:38:41.633000+00:00,65764,65781,3,4,81159.0,Not VIP,7,1,0.0,7,Yes,No,No,T4,,No,4,1,0,Yes,73567,634,N/D,786,8,15,Shoes,web,0.0
+377310,2018-01-08 23:23:02.696000+00:00,149422,149455,1,1,256375.0,Not VIP,1,1,0.0,1,No,No,Yes,,,Yes,4,921,1,Yes,175715,938,Other footwear with outer soles of leather,452,1,37,Shoes,web,1.0
+19009,2018-01-04 13:30:40.066000+00:00,10201,10207,2,2,17093.0,Not VIP,1,1,5.0083,1,Yes,No,No,T4,,No,4,1,1,Yes,20620,739,Footwear with outer soles of rubber or plastics,215,29,38,Shoes,web,0.0
+7593,2018-01-02 16:27:05.606000+00:00,15294,15301,2,2,7018.0,Not VIP,4,3,0.0,4,Yes,No,No,T3,T4,No,4,1,1,Yes,179156,81,"Blouses, shirts and shirt-blouses",221,1,9,Clothing,app,1.0
+241522,2018-02-04 10:31:37.580000+00:00,951,953,1,3,175169.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,No,4,1,1,No,969,33," T-shirts, singlets and other vests",208,4,3,Clothing,,1.0
+223847,2018-02-01 00:56:27.863000+00:00,109003,109027,2,2,1087.0,Not VIP,1,1,5.8485,1,Yes,Yes,Yes,VIP,VIP,No,3,1,1,No,125356,402,,1115,3,40,Clothing,app,0.0
+377810,2018-02-01 04:23:31.336000+00:00,154797,154829,2,2,184651.0,Not VIP,19,4,0.0,19,Yes,No,No,T4,T4,No,3,1,1,No,182217,1009,Other footwear,429,1,442,Girls Shoes,app,1.0
+399163,2018-01-10 17:10:11.133000+00:00,55408,55420,2,2,77523.0,Not VIP,11,3,22.0,11,No,No,No,,,No,4,924,1,Yes,61560,203," T-shirts, singlets and other vests",226,2,35,Clothing,web,1.0
+247142,2018-02-05 10:46:18.370000+00:00,32394,32403,1,3,178693.0,Not VIP,4,3,0.0,4,Yes,No,No,T2,T2,Yes,3,4414,1,Yes,57728,443,"Blouses, shirts and shirt-blouses",72,23,114,Clothing,,0.0
+374729,2018-01-04 10:43:01.293000+00:00,152197,152230,1,3,255046.0,Not VIP,9,3,0.0,9,Yes,No,No,T4,T4,Yes,3,1,1,No,179052,750,"Trousers, overalls, shorts",212,2,9,Clothing,web,1.0
+394471,2018-01-08 10:24:27.303000+00:00,2206,2209,1,3,264943.0,Not VIP,11,3,0.0,11,No,No,Yes,T4,,Yes,3,1,1,Yes,6747,280," T-shirts, singlets and other vests",85,1,14,Clothing,web,1.0
+122747,2018-01-14 10:33:44.330000+00:00,11225,11230,2,2,96963.0,Not VIP,15,4,0.0,15,No,No,No,T4,T4,No,4,1,1,No,53196,279,N/D,12,20,341,Baby Girl Clothing,web,1.0
+388363,2018-01-08 18:11:14.226000+00:00,8476,8481,2,2,261961.0,Not VIP,16,4,17.0858,16,No,No,No,,,Yes,3,1,1,Yes,8915,35,Dresses,52,1,19,Clothing,web,1.0
+130903,2018-01-16 00:13:12.770000+00:00,155372,155405,2,2,6843.0,VIP New,4,3,0.0,4,Yes,No,Yes,VIP,VIP,No,6,1,1,No,184656,75,"Blouses, shirts and shirt-blouses",186,1,114,Clothing,web,1.0
+205444,2018-01-28 21:56:57.233000+00:00,103785,103806,3,4,152601.0,Not VIP,7,1,0.0,7,No,No,No,T4,,No,4,1,0,Yes,118901,239,N/D,261,8,17,Bags,web,0.0
+69785,2018-01-09 14:43:32.016000+00:00,8202,8207,2,2,58357.0,Not VIP,10,3,0.0,10,Yes,Yes,Yes,VIP,VIP,Yes,6,924,1,Yes,8607,212,Other footwear,396,1,26,Shoes,web,0.0
+120657,2018-01-13 20:18:33.096000+00:00,3946,3950,2,2,95419.0,Not VIP,1,1,5.8485,1,Yes,No,No,T3,T4,No,3,1,1,No,4077,6,Underpants and briefs,11,63,2,Clothing,,0.0
+159222,2018-01-20 20:10:54.236000+00:00,74478,74496,2,2,68166.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T3,T3,Yes,4,1,1,Yes,83614,414,Dresses,287,4,187,Clothing,app,1.0
+40564,2018-01-07 20:54:00.533000+00:00,155026,155059,2,2,2534.0,VIP,1,1,11.9584,1,Yes,No,Yes,T1,T1,Yes,6,1,1,No,182500,270,Dresses,152,1,42,Clothing,web,1.0
+52637,2018-01-08 13:40:48.110000+00:00,22905,22913,2,2,45212.0,Not VIP,5,3,0.0,5,Yes,No,No,T2,T4,No,3,921,1,Yes,24678,14,Jackets and blazers,10,1,21,Clothing,web,1.0
+394074,2018-02-17 19:21:32.900000+00:00,63035,63051,2,2,9770.0,VIP New,1,1,0.0,1,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,70410,74,Footwear with outer soles of rubber or plastics,44,1,91,Shoes,,1.0
+215780,2018-01-30 17:22:25.010000+00:00,106711,106733,2,2,26225.0,VIP New,25,3,0.0,25,Yes,No,Yes,VIP,VIP,Yes,6,1,1,No,122537,497,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",141,59,14,Clothing,web,0.0
+128218,2018-01-15 14:10:23.503000+00:00,11135,11140,4,2,100924.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,T4,Yes,4,1,1,No,11761,92,"Pantyhose, tights",15,1,18,Clothing,web,0.0
+302130,2018-02-15 22:17:53.983000+00:00,140849,140880,2,2,186969.0,VIP,58,3,0.0,58,Yes,No,No,VIP,T1,Yes,3,1,1,No,164963,5,Footwear with outer soles of rubber or plastics,286,1,53,Shoes,app,1.0
+396351,2018-01-08 05:50:12.670000+00:00,7472,7477,1,3,54367.0,Not VIP,9,3,0.0,9,Yes,No,No,,,Yes,3,921,1,Yes,7834,63,"Handbags, whether or not with shoulder strap, including those without handle",633,2,17,Bags,web,1.0
+387386,2018-01-28 03:40:05.250000+00:00,28166,28174,2,2,261462.0,Not VIP,3,2,0.0,3,Yes,No,Yes,,,No,3,1,1,No,89023,2," T-shirts, singlets and other vests",33,4,2,Clothing,app,1.0
+164264,2018-01-21 18:54:06.493000+00:00,84895,84916,1,3,125615.0,Not VIP,14,3,0.0,14,Yes,No,No,T4,T4,Yes,3,1,1,Yes,95998,186,"Trousers, overalls, shorts",85,6,16,Clothing,web,1.0
+44087,2018-01-08 07:53:28.626000+00:00,31959,31968,2,2,38316.0,Not VIP,25,3,0.0,25,Yes,No,Yes,T3,T4,No,3,921,1,Yes,1838,9,Footwear with outer soles of rubber or plastics,391,1,38,Shoes,,1.0
+185765,2018-01-25 10:53:54.096000+00:00,60761,60775,2,2,60895.0,VIP New,15,4,0.0,15,Yes,No,No,VIP,VIP,Yes,3,1,1,No,67766,314," T-shirts, singlets and other vests",336,4,19,Clothing,web,0.0
+237153,2018-02-03 12:46:37.013000+00:00,3767,3771,2,2,172427.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,4,1,1,Yes,31969,46,"Trousers, overalls, shorts",22,10,249,Clothing,web,0.0
+302504,2018-02-16 00:26:52.030000+00:00,130319,130349,2,2,107769.0,Not VIP,16,4,34.1055,16,Yes,No,Yes,T2,T2,No,3,1,1,No,151900,320,Footwear with outer soles of leather or composition leather,83,1,72,Shoes,web,0.0
+26134,2018-01-05 14:46:54.823000+00:00,24602,24610,4,2,23248.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T3,,No,3,1,1,Yes,26568,48,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",421,1,2,Clothing,,0.0
+399716,2018-01-12 17:57:51.080000+00:00,5,5,2,2,267449.0,VIP,48,4,0.0,48,Yes,No,No,T2,T2,Yes,4,924,1,Yes,5,5,Footwear with outer soles of rubber or plastics,286,1,72,Shoes,web,1.0
+284638,2018-02-12 10:21:07.056000+00:00,30999,31007,2,2,201860.0,Not VIP,5,3,0.0,5,Yes,No,No,T4,T4,No,3,1,1,No,33814,81,"Handbags, whether or not with shoulder strap, including those without handle",33,1,17,Bags,app,0.0
+107081,2018-01-12 14:01:21.183000+00:00,39078,39088,2,2,85785.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,,No,3,921,1,Yes,42953,805,Dresses,572,4,18,Clothing,,1.0
+63209,2018-01-09 04:00:36.473000+00:00,40555,40565,2,2,31875.0,Not VIP,1,1,0.0,1,Yes,No,No,T4,T4,No,3,921,1,Yes,44629,5,"Trousers, overalls, shorts",152,1,8,Clothing,web,1.0
+56867,2018-01-08 17:18:04.823000+00:00,106113,106135,1,3,48488.0,Not VIP,9,3,0.0,9,Yes,No,No,T3,T4,Yes,3,924,1,Yes,121791,19,"Trousers, overalls, shorts",22,16,47,Clothing,web,1.0
+292782,2018-02-14 00:25:42.403000+00:00,119852,119880,4,2,206921.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,,,No,4,1,1,No,138834,28,,132,17,14,Clothing,web,0.0
+395291,2018-02-10 15:01:59.540000+00:00,127557,127587,1,1,133313.0,Not VIP,1,1,0.0,1,No,No,No,T3,T3,Yes,4,1,1,No,150240,100,Dresses,98,2,228,Clothing,web,1.0
+297088,2018-02-14 21:14:21.680000+00:00,153294,153327,2,2,44561.0,VIP,1,1,5.0083,1,Yes,No,No,T2,T2,Yes,3,1,1,Yes,180412,67,"Trousers, overalls, shorts",459,1,201,Clothing,,1.0
+49878,2018-01-08 11:33:17.070000+00:00,20231,20237,2,2,43004.0,Not VIP,7,1,0.0,7,Yes,No,Yes,T1,T2,No,9,921,0,Yes,45555,131,"Handbags, whether or not with shoulder strap, including those without handle",106,2,17,Bags,,0.0
+52129,2018-01-08 13:16:56.526000+00:00,24490,24498,2,2,44814.0,Not VIP,3,2,0.0,3,Yes,No,No,T4,,Yes,3,921,1,Yes,52627,279,,11,4,48,Boys Clothing,,1.0
+176647,2018-01-23 20:57:15.030000+00:00,76915,76933,2,2,53951.0,VIP,17,4,19.1182,17,Yes,No,No,T1,T1,No,4,1,1,Yes,20889,69,,36,20,6,Accessories,,0.0
+199725,2018-01-27 19:40:10.406000+00:00,40374,40384,2,2,148793.0,Not VIP,78,1,0.0,78,Yes,No,No,T4,T4,Yes,3,1,1,Yes,44424,11,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",71,4,3,Clothing,web,1.0
+375709,2018-01-26 19:28:24.790000+00:00,866,868,1,3,239033.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,No,3,1,1,No,884,126,Other footwear,325,1,30,Shoes,web,1.0
+134191,2018-01-16 15:32:48.286000+00:00,45360,45373,2,2,105065.0,Not VIP,4,3,0.0,4,Yes,No,No,T4,,No,3,1,1,Yes,50096,1246,"Blouses, shirts and shirt-blouses",15,23,18,Clothing,web,0.0
+277081,2018-02-10 16:25:09.286000+00:00,14031,14038,2,2,197047.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T4,,No,3,1,1,Yes,14893,97,Other footwear,197,4,214,Shoes,web,0.0
+314761,2018-02-18 16:49:08.543000+00:00,131465,131495,2,2,220195.0,Not VIP,19,4,0.0,19,Yes,No,Yes,T4,,No,3,1,1,No,153331,62,Other footwear with outer soles of leather,226,26,213,Shoes,app,1.0
+42544,2018-01-08 06:14:30.276000+00:00,26946,26954,2,2,37160.0,Not VIP,16,4,15.4853,16,Yes,No,No,T2,T2,Yes,3,1,1,No,29252,33,"Trousers, overalls, shorts",316,1,2,Clothing,app,0.0
+395843,2018-01-20 05:56:07.616000+00:00,4499,4503,2,2,265598.0,Not VIP,12,4,33.3833,12,Yes,No,Yes,,,No,3,1,1,No,28137,518,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",435,26,14,Clothing,app,1.0
+396658,2018-02-14 21:47:34.513000+00:00,94927,94950,2,2,31944.0,VIP New,1,1,0.0,1,Yes,No,Yes,VIP,VIP,Yes,6,1,1,Yes,108033,1840,Footwear with outer soles of rubber or plastics,744,29,515,Girls Shoes,app,1.0
+384703,2018-01-08 11:40:02.756000+00:00,53151,53163,2,2,260066.0,Not VIP,5,3,0.0,5,Yes,No,Yes,T2,T2,Yes,3,924,1,Yes,179454,683,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",114,1,63,Clothing,,1.0
+53822,2018-01-08 14:33:50.300000+00:00,58,58,2,2,9119.0,VIP New,1,1,13.1424,1,Yes,No,Yes,T3,T3,Yes,4,921,1,Yes,18032,48,Jackets and blazers,17,17,2,Clothing,app,0.0
+257967,2018-02-07 06:22:31.756000+00:00,109672,109696,1,3,185381.0,Not VIP,8,3,0.0,8,Yes,No,Yes,T4,,No,3,4185,1,No,126190,23,Footwear with outer soles of rubber or plastics,33,2,387,Shoes,,0.0
+68514,2018-01-09 13:08:32.166000+00:00,12091,12096,2,2,57400.0,Not VIP,7,1,7.2224,7,No,No,Yes,T2,T2,No,7,1,1,No,122018,231,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",132,32,103,Clothing,web,1.0
+124737,2018-01-14 19:42:21.046000+00:00,77721,77739,3,4,98311.0,Not VIP,7,1,0.0,7,No,No,No,T4,T4,No,4,1,0,Yes,87416,634,N/D,568,8,15,Shoes,web,0.0
+292305,2018-02-13 21:49:06.570000+00:00,107951,107975,3,4,206609.0,Not VIP,7,1,0.0,7,Yes,No,No,T4,T4,No,4,1,0,No,124097,677,Swimwear,597,8,146,Clothing,web,0.0
+163828,2018-01-21 17:25:41.840000+00:00,61821,61836,2,2,125310.0,Not VIP,46,4,5.008,46,Yes,Yes,No,T3,T4,No,3,1,1,Yes,69005,25,Footwear with outer soles of rubber or plastics,145,1,121,Shoes,app,0.0
+405304,2018-01-02 18:00:14.240000+00:00,75310,75328,1,3,270046.0,Not VIP,14,3,0.0,14,No,No,No,,,No,3,1,1,No,84565,214,Other footwear,14,2,11,Shoes,web,1.0
+399041,2018-01-04 09:25:46.923000+00:00,27911,27919,2,2,11319.0,VIP,19,4,0.0,19,No,No,No,T3,T3,No,3,1,1,No,30329,52,"Trousers, overalls, shorts",741,21,114,Clothing,app,1.0
+384649,2018-01-27 18:38:25.223000+00:00,13036,13043,2,2,260041.0,Not VIP,4,3,0.0,4,No,No,No,,,No,3,1,1,Yes,13807,113,"Shawls, scarves, mufflers, mantillas, veils and similar articles",1201,1,6,Accessories,web,1.0
+241814,2018-02-04 11:36:37.273000+00:00,14421,14428,2,2,42826.0,VIP,39,4,0.0,39,Yes,No,No,VIP,VIP,No,3,1,1,Yes,15328,142,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",151,4,19,Clothing,web,1.0
+210567,2018-01-29 19:41:13.256000+00:00,24643,24651,5,2,155916.0,Not VIP,4,3,0.0,4,No,No,No,T4,,No,3,1,1,No,26615,572,Jackets and blazers,15,3,27,Clothing,web,1.0
+136805,2018-01-17 00:04:24.416000+00:00,825,827,2,2,72031.0,Not VIP,10,3,0.0,10,Yes,No,Yes,T2,T2,Yes,3,1,1,Yes,836,292,Shirts,315,12,3,Clothing,app,0.0
+388383,2018-01-24 19:49:42.666000+00:00,152307,152340,1,3,206279.0,Not VIP,29,3,0.0,29,Yes,No,No,T4,T4,Yes,3,1,1,No,179203,821,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",311,1,697,Teen Girl Clothing,web,1.0
+139529,2018-01-17 12:22:55.503000+00:00,83054,83075,2,2,12925.0,Not VIP,16,4,15.4853,16,Yes,Yes,No,VIP,VIP,Yes,6,1,1,No,93856,1401,"Coats: overcoats, raincoat, cape, cloaks and similar articles",12,3,10,Teen Girl Clothing,,0.0
+375657,2018-02-04 11:07:18.573000+00:00,150847,150880,2,2,255533.0,Not VIP,4,3,55.3882,4,Yes,No,Yes,,,No,4,1,1,No,177434,1582,Dresses,975,35,238,Clothing,web,1.0
+373011,2018-01-11 13:17:49.716000+00:00,151777,151810,2,2,254160.0,Not VIP,16,4,15.4853,16,Yes,No,Yes,T4,T4,No,3,924,1,Yes,178545,1543,"Coats: overcoats, raincoat, cape, cloaks and similar articles",30,39,43,Clothing,,1.0
+400296,2018-02-12 20:49:34.816000+00:00,94074,94096,2,2,66856.0,Not VIP,5,3,12.7957,5,Yes,Yes,Yes,VIP,VIP,No,6,1,1,No,106967,101,,366,20,35,Clothing,app,1.0
+386843,2018-02-07 11:15:03.343000+00:00,23971,23979,2,2,102332.0,Not VIP,29,3,0.0,29,Yes,No,Yes,T3,T3,No,4,4185,1,No,25866,87,"Trousers, overalls, shorts",145,1,29,Clothing,,1.0
+177399,2018-01-24 00:03:20.400000+00:00,16949,16956,2,2,134398.0,Not VIP,1,1,0.0,1,No,No,No,T4,,No,3,1,1,Yes,18080,362,"Trousers, overalls, shorts",753,23,33,Clothing,web,0.0
+377152,2018-01-11 22:34:33.733000+00:00,153619,153651,5,2,256295.0,Not VIP,9,3,0.0,9,No,No,No,,,Yes,4,924,1,Yes,180805,311,"Blouses, shirts and shirt-blouses",219,69,114,Clothing,web,1.0
+375719,2018-02-01 18:21:43.956000+00:00,74430,74448,2,2,255567.0,Not VIP,4,3,0.0,4,No,No,Yes,T4,T4,Yes,3,1,1,No,83556,891,Dresses,716,2,178,Clothing,web,1.0
+213123,2018-01-30 08:12:08.800000+00:00,2103,2106,2,2,4912.0,Not VIP,1,1,5.0083,1,Yes,No,Yes,T4,T4,Yes,4,1,1,Yes,41844,75,"Trousers, overalls, shorts",40,1,136,Clothing,web,0.0
+80680,2018-01-10 11:25:16.746000+00:00,59762,59776,1,3,66690.0,Not VIP,14,3,0.0,14,Yes,No,No,T3,T4,No,4,924,1,Yes,68594,39,Other footwear with outer soles of leather,433,4,156,Shoes,web,1.0
+78255,2018-01-10 06:56:22.840000+00:00,12609,12616,2,2,64850.0,Not VIP,16,4,34.1055,16,Yes,No,No,T4,,No,3,924,1,Yes,57400,9,Footwear with outer soles of leather or composition leather,242,1,108,Shoes,web,0.0
+207418,2018-01-29 08:58:12.136000+00:00,57183,57196,2,2,17738.0,Not VIP,19,4,0.0,19,Yes,No,No,T4,T4,Yes,4,1,1,Yes,63603,1987,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",700,1,531,Clothing,,0.0
+41147,2018-01-07 23:07:57.710000+00:00,26631,26639,2,9,35457.0,Not VIP,14,3,0.0,14,Yes,No,No,T4,T4,Yes,3,1,1,Yes,28894,87," T-shirts, singlets and other vests",207,1,3,Clothing,web,1.0
+198401,2018-01-27 14:51:12.740000+00:00,46276,46289,1,6,147880.0,Not VIP,1,1,0.0,1,Yes,No,Yes,T4,,No,3,1,1,No,51148,5,Other footwear,641,1,5,Shoes,web,0.0
+98750,2018-01-11 20:33:38.116000+00:00,62204,62220,2,2,25065.0,Not VIP,101,5,0.0,101,Yes,No,No,T2,T2,No,4,1,1,No,74863,2,"Handbags, whether or not with shoulder strap, including those without handle",22,1,17,Accessories,web,0.0
+190995,2018-01-26 07:10:16.323000+00:00,7044,7048,4,2,47230.0,Not VIP,45,4,0.0,45,Yes,No,No,T1,T1,Yes,3,1,1,Yes,7378,35," T-shirts, singlets and other vests",22,59,35,Clothing,,0.0
+56324,2018-01-08 16:45:28.636000+00:00,5166,5170,1,3,48063.0,Not VIP,24,3,0.0,24,No,No,No,T4,,No,3,1,1,No,5368,214,"Trousers, overalls, shorts",48,22,182,Clothing,web,0.0
+47087,2018-01-08 09:31:08.870000+00:00,683,685,2,2,40776.0,VIP New,12,4,0.0,12,Yes,No,Yes,VIP,T1,Yes,3,922,1,Yes,690,257,N/D,1,20,8,Clothing,,1.0
+88534,2018-01-11 00:13:47.866000+00:00,2172,2175,1,3,72686.0,Not VIP,20,3,0.0,20,No,No,No,T4,,No,3,1,1,No,2235,33,N/D,238,1,25,Shoes,web,1.0

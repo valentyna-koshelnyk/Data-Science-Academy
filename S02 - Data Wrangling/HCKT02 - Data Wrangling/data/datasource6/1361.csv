@@ -1,0 +1,110 @@
+id,ddpsubcategory,shiptypeid,hasitemsonbag,country
+2e03b3ba4b77fdcedb60eed237315b53,Jackets and blazers,2,No,12
+31dc821c40135435beceff85df4d7d00,"Coats: overcoats, raincoat, cape, cloaks and similar articles",2,No,12
+9cd0f173782db48c9843da3f600dc272,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",2,Yes,17
+48836d8fc198a45d489e7ef4db18148c,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,Yes,17
+c80fb4c7cdb45a7069222cd5cdd9c063,"T-shirts, singlets and other vests",2,Yes,17
+c07bfddf597ec358e4e06646edc7b883,"T-shirts, singlets and other vests",2,Yes,17
+3638a2669b23dbddb6f03ffbb069977a,"T-shirts, singlets and other vests",2,Yes,17
+76f8cd6540870fbc378137ba663821b4,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+db41d539f78e9ef8fc51542f5e75c420,Other footwear,2,No,5
+203034f17a527c76babd8a584427b2c4," T-shirts, singlets and other vests",2,Yes,5
+3ded6fa4adab9c9316894a650fa99211," T-shirts, singlets and other vests",2,Yes,5
+be736188466767a56a07774a11dee306," T-shirts, singlets and other vests",2,Yes,5
+4fc8f1ee90d38af54751f6a735a7de86," T-shirts, singlets and other vests",2,Yes,5
+cded50dfbb83f48e8a025f7f9d68391d," T-shirts, singlets and other vests",2,Yes,5
+fde1aab0afa2589bbf2e3144ce3029a8,Other footwear,2,No,5
+82927c2c2df063455e95370042ca91b7,"Coats: overcoats, raincoat, cape, cloak, ski jackets, windcheaters, wind-jackets and similar articles",2,Yes,4
+e0a6ef1266e8b4445011efdaba2941cd,Other footwear,2,Yes,14
+34f477e53deaa19e987c6934d37cbd25,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,Yes,12
+2ad87872908b22275b69481f83accba2,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,Yes,12
+2217d59b00028839ed2774d3e3fc5f67,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+49805e380527ddae79c07d4a83a2bac7,Other footwear with outer soles of leather,2,Yes,5
+914e4292f90b80368028247e77c6021e,Footwear with outer soles of rubber or plastics,2,Yes,17
+c48016cde55badb425a49f86aa9524c5,Dresses,2,Yes,17
+a20e18a5f0c9e489318682307b005fd5,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,Yes,17
+674b3babc3add6f000f436c9ef7e7f39,Articles of apparel and clothing accessories,2,No,17
+1927056efdf02749481f217f39e275d9," T-shirts, singlets and other vests",2,Yes,4
+c544e7bbd0567d28b10962b0d533d5da,,2,No,27
+c420381e138d0f2351906bde0467951c,Sunglasses,2,No,3
+fedd7109be060f9003e59ded984dd6c5,Other footwear,14,No,14
+db15649d7c95bc787b5a181a3e0ca821,Footwear with outer soles of rubber or plastics,2,Yes,4
+3eb16500c2c498ef5b6b09a66c27bf27,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+83acc2f3b1910c584af25c90bfe23cd1,Footwear with outer soles of rubber or plastics,2,No,19
+b8f9ea7a332cbcd0c43293b42f9d449e,,14,Yes,29
+bce72a5f6db5c585b630205d28382739,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",14,Yes,29
+081ce08bc3314d4c8e71214ce786fa25,"Trousers, overalls, shorts",2,Yes,29
+3746ab4e07e1136b9f43008151163ba2,Other footwear,2,Yes,2
+2df126c567c56e8ece83436f39500afb,API,API,API,API
+6003c59162f89f01f088d8b0e129a042,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+b3856b70bd515cdb5aae38ad88adb109,Other,2,No,70
+2996301457dc229a828a2233c3b9bfbd,Sunglasses,2,Yes,12
+cb850a4cee8dfcdc74a6754ed67d636e,N/D,4,No,7
+9485ec195681bdf9f2d17acf1a101daa,,2,No,5
+01c4d297ce988d37c6fd5c0e7f072f7b,Shirts,9,No,4
+c0164cc4de0882d5929907ac34b2359c,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",3,No,1
+176f38c4c2b02abf121b0ba9c10af94b,"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar",2,Yes,17
+daa9fdfa541192f6c8f2efd85d73b0d7,API,API,API,API
+deb1f21584fae2f7165779488d78513d,Footwear with outer soles of rubber or plastics,2,Yes,17
+740fe08843231dad866f2ce0ddfc2db1,,2,Yes,4
+631f6a0f57cfc8f649b4e08bb83f5a40,Other footwear with outer soles of leather,2,Yes,14
+3b53e59c582110a838121be4f1650f43,Skirts,3,No,11
+b8a251103ad0c7cd1197d8ee38164321,Footwear with outer soles of rubber or plastics,3,No,11
+2c24f168e6f6b8ec4a4d96e575c0ec40,N/D,4,Yes,7
+4e6c62749564d1824ba37f48f6bafc6c,Dresses,1,Yes,1
+3840dd3f5c495247239ac65c2e06a6cf,"Trousers, overalls, shorts",2,Yes,1
+44691c46f4e8db27062a8e9591a5e8d4,"Trousers, overalls, shorts",2,Yes,1
+149e8eab39a417b812b11a0dc27add16,Footwear with outer soles of rubber or plastics,2,,34
+dc24b0230f07e56bd297b2ccc9c35c35,"Pantyhose, tights",2,No,25
+194cb2df2a7829ee5bac4b9a072db6e9,Footwear with outer soles of rubber or plastics,2,No,25
+532415eaff51630d79c71100a36365b3,Jackets and blazers,2,No,12
+cc8bd37e7140db845dde41cd9f9a1062,,9,No,14
+fc514d18d6a9e915f75374d8dfb6a47e,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,No,16
+49af722453756cb254d73faf92e6ec60,"Other e.g. braces, suspenders, garters and similar articles",3,No,24
+be0c74a6deb137a77ee5ac70d350fd2d,,2,Yes,7
+75e0874613330d5aac0b7a331ef2a7a4,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",3,Yes,9
+594aa2d544ce06847bf42b13178097fc," T-shirts, singlets and other vests",2,No,5
+3f29e655cfedd6499531786004fa774f,,2,No,5
+5a53fbf7e72e3f08da7bbb21fbff8b61,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+3830c0e46b47811e2351a28ae01766f5," T-shirts, singlets and other vests",2,No,4
+8281d06fcfd2ef584bb63c238827ba4e,Other footwear with outer soles of leather,2,No,4
+f50d1cd6c34dd99b68401df46d19140f,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,No,4
+feaa24454268277f1794cfe1c8535e54,N/D,2,No,4
+dab9f1f86035ce69c73b8c7e71a539c1,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,No,4
+acfea7ce99eb540b90cdee991994b78a,N/D,2,No,3
+0d42f692ec953d96950fd06477955f95,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,No,14
+a82abbf1177ad06e5b3109af8a51b000,API,API,API,API
+75fd5f675dc55fffe80fbb83c02b8a8d,Footwear with outer soles of rubber or plastics,3,Yes,14
+fa67fd9d5cef8b2dc5c3d6a622174e98,,3,Yes,14
+e1119a300ca55e17373d00cb15312b19,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,Yes,12
+0fef190614f0fde1469713bcd91a8eeb,"Handbags, whether or not with shoulder strap, including those without handle",2,Yes,12
+40410bab88a23361b63f6a48fb7b73b6," T-shirts, singlets and other vests",3,Yes,9
+de5bc433c4a4e84c130fb49401b3bd1c,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+dce5eb1f56dd8dd4e1b9a1e22c0e1be0," T-shirts, singlets and other vests",2,Yes,5
+c0f9c3353408a70d53f2ba8befdef208,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+7992761dad3dc70e9994db97d015fa5b,Footwear with outer soles of leather or composition leather,2,Yes,2
+3a5a32cd3715d9b1ee145676afa2b4cc,Other footwear,2,Yes,5
+2fe4b5f2b5dc7ea5f90951f9ed1ee59a,"Handbags, whether or not with shoulder strap, including those without handle",2,Yes,12
+f006eec4b3f7390b74902f95cd9bfa9b,Footwear with outer soles of rubber or plastics,2,No,4
+fbe2457e09bc58dc26e716103c9c280c,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,Yes,1
+0c67535018d63901c68b4549755cb153," T-shirts, singlets and other vests",2,No,1
+352e8a2ae09f6e24d7fead6a665ff3bb,"Trousers, overalls, shorts",2,No,1
+e2bec85ce86f264ed816144118f09972,"Hats and other headgear, knitted or crocheted, or made-up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed",3,No,11
+8edb35158d68816dcf107b2741879ac7,N/D,3,No,11
+5c82c20e71ae0993ba916e6af083b007,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,No,11
+d37efde564210a0b99b38f4f34c421e9,Footwear with outer soles of rubber or plastics,3,No,14
+c6e6cee4965058319bdb4377b9df3756,Footwear with outer soles of rubber or plastics,3,No,24
+e020386d3b84aee06360a6d6223670f2," T-shirts, singlets and other vests",2,No,3
+7dd408bac61fd2e839e5c8a62063c53e,Footwear with outer soles of rubber or plastics,2,No,1
+e1599128ac5ce95283349fdc23e0d842,N/D,2,No,1
+25630d8820d91c340fe4f280458b54ff,Shirts,2,No,1
+560186b4016c840a7b9515a55b1df47a,Other footwear with outer soles of leather,1,No,1
+8b449b1ef5d43ec788887adf1f0e5d1b,"Trousers, overalls, shorts",2,No,1
+28effb4add36877557926500eae327ca,"Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted",2,No,1
+da6cd1e1074fd5125b30eb0b9fcc52c1,Footwear with outer soles of rubber or plastics,2,No,1
+382c5086e68cebcc8c8a4f40362ab697,Footwear with outer soles of rubber or plastics,2,No,1
+0a00f5d63ae9f858fa43714e51463696,"Trousers, overalls, shorts",2,No,1
+26a3e50a1f67e830a94bb08f89c5a7c9,"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar",2,No,1
+84c10b2211891c399469ee784cdb1987,WEBSITE,WEBSITE,WEBSITE,WEBSITE
+77b276cc38da28fc7e8ff4eb65080938,"Trousers, overalls, shorts",2,Yes,17
+7ef85cb8bd5ec13d974cb282d8086375,Sunglasses,2,Yes,17
